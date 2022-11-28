@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="electricity">
+                <subsector name="biomass">
+                    <technology name="biomass (IGCC CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="biomass (IGCC)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="biomass (conv CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="biomass (conv)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.6</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="coal (IGCC)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="coal (conv pul CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="coal (conv pul)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="gas (CC)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.85</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="gas (steam/CT)">
+                        <period year="1975">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.8</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.3</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="geothermal">
+                    <technology name="geothermal">
+                        <period year="1975">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.9</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids (CC CCS)">
+                        <period year="1975">
+                            <capacity-factor>0.22</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids (CC)">
+                        <period year="1975">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids (steam/CT)">
+                        <period year="1975">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.35</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="solar">
+                    <technology name="CSP_storage">
+                        <period year="1975">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.65</capacity-factor>
+                        </period>
+                    </technology>
+                    <technology name="PV_storage">
+                        <period year="1975">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.2</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="wind">
+                    <technology name="wind_storage">
+                        <period year="1975">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="1990">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2005">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2010">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2015">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2020">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2025">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2030">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2035">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2040">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2045">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2050">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2055">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2060">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2065">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2070">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2075">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2080">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2085">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2090">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2095">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                        <period year="2100">
+                            <capacity-factor>0.37</capacity-factor>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

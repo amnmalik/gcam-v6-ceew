@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <supplysector name="industrial feedstocks">
+            <subsector name="gas">
+               <stub-technology name="gas">
+                  <period year="2015">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <minicam-energy-input name="wholesale gas">
+                        <coefficient>0.12</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>
+            </subsector>
+            <subsector name="refined liquids">
+               <stub-technology name="refined liquids">
+                  <period year="2015">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <minicam-energy-input name="refined liquids industrial">
+                        <coefficient>0.37</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+   </world>
+</scenario>
