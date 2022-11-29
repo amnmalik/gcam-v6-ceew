@@ -1,0 +1,20 @@
+# File: A32.India_state_industry_subsector_logit.csv
+# Title: Industry split subsector logit exponents
+# Units: Unitless
+# Column types: ccic
+# ----------
+supplysector,subsector,logit.exponent,logit.type
+agriculture energy use,electricity,-6,
+agriculture energy use,refined liquids,-6,
+industrial energy use,coal,-6,
+industrial energy use,electricity,-6,
+industrial energy use,gas,-6,
+industrial energy use,hydrogen,-6,
+industrial energy use,refined liquids,-6,
+industrial energy use,biomass,-6,
+industry,industry,-6,
+industrial feedstocks,coal,-6,
+industrial feedstocks,gas,-6,
+industrial feedstocks,refined liquids,-6,
+industrial feedstocks,hydrogen,-6,
+agriculture,agriculture,-6,

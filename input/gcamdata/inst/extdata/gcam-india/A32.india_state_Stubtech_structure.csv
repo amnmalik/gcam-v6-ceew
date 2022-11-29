@@ -1,0 +1,24 @@
+# File: A32.india_state_Stubtech_structure.csv
+# Title: Industry supplysector, subsector, stubtechnology structure
+# Units: Unitless
+# Column types: ccc
+# ----------
+supplysector,subsector,technology
+agriculture energy use,electricity,electricity
+agriculture energy use,refined liquids,refined liquids
+agriculture energy use,refined liquids,refined liquids cogen
+industrial energy use,biomass,biomass
+industrial energy use,biomass,biomass cogen
+industrial energy use,coal,coal
+industrial energy use,coal,coal cogen
+industrial energy use,electricity,electricity
+industrial energy use,gas,gas
+industrial energy use,gas,gas cogen
+industrial energy use,hydrogen,hydrogen
+industrial energy use,hydrogen,hydrogen cogen
+industrial energy use,refined liquids,refined liquids
+industrial energy use,refined liquids,refined liquids cogen
+industrial feedstocks,coal,coal
+industrial feedstocks,gas,gas
+industrial feedstocks,refined liquids,refined liquids
+industrial feedstocks,hydrogen,hydrogen

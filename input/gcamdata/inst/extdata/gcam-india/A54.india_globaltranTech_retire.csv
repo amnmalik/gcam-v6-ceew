@@ -1,0 +1,41 @@
+# File: A54.india_globaltranTech_retire.csv
+# Title: Transportation technology retirement parameters. Only applies to vintaged technologies
+# Units: Years for lifetime and half.life; Unitless for steepness
+# Comments: maximum lifetime of cohort. If no retirement function is used; the entire cohort is retired in this number of years.
+# half.life: number of years at which 50% of the cohort is retired; using the s-curve-shutdown-decider retirement function.
+# steepness: shape parameter used by the s-curve-shutdown-decider retirement function.
+# Column types: cccciin
+# ----------
+supplysector,tranSubsector,tranTechnology,year,lifetime,half.life,steepness
+trn_freight_road,Truck,Liquids,final-calibration-year,25,13,0.6
+trn_freight_road,Truck,NG,final-calibration-year,25,13,0.6
+trn_freight_road,Truck,Electric,final-calibration-year,25,13,0.6
+trn_freight_road,Truck,FCEV,final-calibration-year,25,13,0.6
+trn_pass_road_LDV_4W,LDV_4W,Electric,final-calibration-year,17,9,0.78
+trn_pass_road_LDV_4W,LDV_4W,FCEV,final-calibration-year,17,9,0.78
+trn_pass_road_LDV_4W,LDV_4W,NG,final-calibration-year,17,9,0.78
+trn_pass_road_LDV_4W,LDV_4W,Liquids,final-calibration-year,17,9,0.78
+trn_freight_road,Truck,Liquids,initial-future-year,25,13,0.588
+trn_freight_road,Truck,NG,initial-future-year,25,13,0.588
+trn_freight_road,Truck,Electric,initial-future-year,25,13,0.588
+trn_freight_road,Truck,FCEV,initial-future-year,25,13,0.588
+trn_pass_road_LDV_4W,LDV_4W,Electric,initial-future-year,17,9,0.608
+trn_pass_road_LDV_4W,LDV_4W,FCEV,initial-future-year,17,9,0.608
+trn_pass_road_LDV_4W,LDV_4W,NG,initial-future-year,17,9,0.608
+trn_pass_road_LDV_4W,LDV_4W,Liquids,initial-future-year,17,9,0.608
+trn_pass_road_LDV_2W,LDV_2W,Liquids,final-calibration-year,15,8,1.08
+trn_pass_road_LDV_2W,LDV_2W,Electric,final-calibration-year,15,8,1.08
+trn_pass_road_LDV_2W,LDV_2W,Liquids,initial-future-year,15,8,0.985
+trn_pass_road_LDV_2W,LDV_2W,Electric,initial-future-year,15,8,0.985
+trn_pass_road_LDV,LDV_3W,Electric,final-calibration-year,25,12,0.6
+trn_pass_road_LDV,LDV_3W,Liquids,final-calibration-year,25,12,0.6
+trn_pass_road_LDV,LDV_3W,NG,final-calibration-year,25,12,0.6
+trn_pass_road_LDV,LDV_3W,Electric,initial-future-year,25,12,0.488
+trn_pass_road_LDV,LDV_3W,Liquids,initial-future-year,25,12,0.488
+trn_pass_road_LDV,LDV_3W,NG,initial-future-year,25,12,0.488
+trn_pass_road,Bus,Electric,final-calibration-year,15,9,0.93
+trn_pass_road,Bus,Liquids,final-calibration-year,15,9,0.93
+trn_pass_road,Bus,NG,final-calibration-year,15,9,0.93
+trn_pass_road,Bus,Electric,initial-future-year,15,9,0.899
+trn_pass_road,Bus,Liquids,initial-future-year,15,9,0.899
+trn_pass_road,Bus,NG,initial-future-year,15,9,0.899

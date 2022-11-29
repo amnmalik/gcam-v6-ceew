@@ -1,0 +1,62 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionFuelAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2010,tax,0.27508
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2015,tax,0.06443
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2020,tax,0.06443
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2025,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2030,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2035,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2040,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2045,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2050,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2055,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2060,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2065,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2070,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2075,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2080,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2085,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2090,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2095,tax,-0.0579768
+India,refined liquids enduse,refined liquids enduse,refined liquids enduse,2100,tax,-0.0579768
+India,elect_td_trn,elect_td_trn,elect_td_trn,2010,tax,-2.89794
+India,elect_td_trn,elect_td_trn,elect_td_trn,2015,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2020,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2025,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2030,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2035,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2040,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2045,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2050,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2055,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2060,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2065,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2070,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2075,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2080,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2085,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2090,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2095,tax,0
+India,elect_td_trn,elect_td_trn,elect_td_trn,2100,tax,0
+India,delivered gas,delivered gas,delivered gas,2010,tax,0
+India,delivered gas,delivered gas,delivered gas,2015,tax,0
+India,delivered gas,delivered gas,delivered gas,2020,tax,0
+India,delivered gas,delivered gas,delivered gas,2025,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2030,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2035,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2040,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2045,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2050,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2055,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2060,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2065,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2070,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2075,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2080,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2085,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2090,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2095,tax,-0.42261548
+India,delivered gas,delivered gas,delivered gas,2100,tax,-0.42261548

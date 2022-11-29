@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+       <region name="India">
+         <energy-final-demand name="industry">
+            <income-elasticity year="2015">0.66</income-elasticity>
+            <income-elasticity year="2020">0.66</income-elasticity>
+            <income-elasticity year="2025">0.66</income-elasticity>
+            <income-elasticity year="2030">0.66</income-elasticity>
+            <income-elasticity year="2035">0.66</income-elasticity>
+            <income-elasticity year="2040">0.66</income-elasticity>
+            <income-elasticity year="2045">0.66</income-elasticity>
+            <income-elasticity year="2050">0.66</income-elasticity>
+            <income-elasticity year="2055">0.66</income-elasticity>
+            <income-elasticity year="2060">0.66</income-elasticity>
+            <income-elasticity year="2065">0.66</income-elasticity>
+            <income-elasticity year="2070">0.66</income-elasticity>
+            <income-elasticity year="2075">0.66</income-elasticity>
+            <income-elasticity year="2080">0.66</income-elasticity>
+            <income-elasticity year="2085">0.66</income-elasticity>
+            <income-elasticity year="2090">0.66</income-elasticity>
+            <income-elasticity year="2095">0.66</income-elasticity>
+            <income-elasticity year="2100">0.66</income-elasticity>
+         </energy-final-demand>
+      </region>
+    </world>
+</scenario>

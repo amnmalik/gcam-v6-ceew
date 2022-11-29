@@ -1,0 +1,7 @@
+# File: india_states_subregions.csv
+# Title: India codes-names-groupings mappings
+# Units: NA
+# Column types: ccci
+# ----------
+state,state_name,grid_region,grid_name
+Ind,India,NA,NA

@@ -1,0 +1,8 @@
+# File: India_BaseGDP.csv
+# Title: India National Base GDP. The base year is 1975 in case of GCAM model.
+# Units: USD Million 1990
+# Source: Currently taken from the core data system of the model
+# Column types: cn
+# ----------
+region,baseGDP
+India,106889

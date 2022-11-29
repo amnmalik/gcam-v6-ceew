@@ -1,0 +1,8 @@
+# File: India_GDP.csv
+# Title: India National
+# Units: USD Million 1990
+# Source: Currently calculated from out of the model
+# Column types: cnnnn
+# ----------
+region,1975,1990,2005,2010
+India,106889,218835,555412,842958

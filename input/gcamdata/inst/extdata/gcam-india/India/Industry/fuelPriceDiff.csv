@@ -1,0 +1,131 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+NationalIndustryAdder,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,H2 industrial,H2 industrial,H2 industrial,1990,tax,0
+India,H2 industrial,H2 industrial,H2 industrial,2005,tax,0
+India,H2 industrial,H2 industrial,H2 industrial,2010,tax,0
+India,H2 industrial,H2 industrial,H2 industrial,2015,tax,0
+India,H2 industrial,H2 industrial,H2 industrial,2020,tax,-0.8402
+India,H2 industrial,H2 industrial,H2 industrial,2025,tax,-1.1469
+India,H2 industrial,H2 industrial,H2 industrial,2030,tax,2.9888
+India,H2 industrial,H2 industrial,H2 industrial,2035,tax,2.7972
+India,H2 industrial,H2 industrial,H2 industrial,2040,tax,2.6145
+India,H2 industrial,H2 industrial,H2 industrial,2045,tax,2.494
+India,H2 industrial,H2 industrial,H2 industrial,2050,tax,2.3244
+India,H2 industrial,H2 industrial,H2 industrial,2055,tax,2.0867
+India,H2 industrial,H2 industrial,H2 industrial,2060,tax,1.8353
+India,H2 industrial,H2 industrial,H2 industrial,2065,tax,1.5598
+India,H2 industrial,H2 industrial,H2 industrial,2070,tax,1.3356
+India,H2 industrial,H2 industrial,H2 industrial,2075,tax,1.2005
+India,H2 industrial,H2 industrial,H2 industrial,2080,tax,1.1585
+India,H2 industrial,H2 industrial,H2 industrial,2085,tax,1.123
+India,H2 industrial,H2 industrial,H2 industrial,2090,tax,1.0144
+India,H2 industrial,H2 industrial,H2 industrial,2095,tax,0.8315
+India,H2 industrial,H2 industrial,H2 industrial,2100,tax,0.8475
+India,delivered biomass,delivered biomass,delivered biomass,1990,tax,0.0328
+India,delivered biomass,delivered biomass,delivered biomass,2005,tax,0.0379
+India,delivered biomass,delivered biomass,delivered biomass,2010,tax,0.0182
+India,delivered biomass,delivered biomass,delivered biomass,2015,tax,-0.0445
+India,delivered biomass,delivered biomass,delivered biomass,2020,tax,-0.0831
+India,delivered biomass,delivered biomass,delivered biomass,2025,tax,0.0237
+India,delivered biomass,delivered biomass,delivered biomass,2030,tax,0.0632
+India,delivered biomass,delivered biomass,delivered biomass,2035,tax,0.1036
+India,delivered biomass,delivered biomass,delivered biomass,2040,tax,0.1144
+India,delivered biomass,delivered biomass,delivered biomass,2045,tax,0.1086
+India,delivered biomass,delivered biomass,delivered biomass,2050,tax,0.1036
+India,delivered biomass,delivered biomass,delivered biomass,2055,tax,0.0947
+India,delivered biomass,delivered biomass,delivered biomass,2060,tax,0.1085
+India,delivered biomass,delivered biomass,delivered biomass,2065,tax,0.1182
+India,delivered biomass,delivered biomass,delivered biomass,2070,tax,0.1297
+India,delivered biomass,delivered biomass,delivered biomass,2075,tax,0.1381
+India,delivered biomass,delivered biomass,delivered biomass,2080,tax,0.1597
+India,delivered biomass,delivered biomass,delivered biomass,2085,tax,0.179
+India,delivered biomass,delivered biomass,delivered biomass,2090,tax,0.1861
+India,delivered biomass,delivered biomass,delivered biomass,2095,tax,0.1894
+India,delivered biomass,delivered biomass,delivered biomass,2100,tax,0.187
+India,delivered coal,delivered coal,delivered coal,1990,tax,0.1498
+India,delivered coal,delivered coal,delivered coal,2005,tax,0.1905
+India,delivered coal,delivered coal,delivered coal,2010,tax,0.1188
+India,delivered coal,delivered coal,delivered coal,2015,tax,0.0794
+India,delivered coal,delivered coal,delivered coal,2020,tax,-0.0171
+India,delivered coal,delivered coal,delivered coal,2025,tax,-0.0509
+India,delivered coal,delivered coal,delivered coal,2030,tax,-0.074
+India,delivered coal,delivered coal,delivered coal,2035,tax,-0.0882
+India,delivered coal,delivered coal,delivered coal,2040,tax,-0.0988
+India,delivered coal,delivered coal,delivered coal,2045,tax,-0.1068
+India,delivered coal,delivered coal,delivered coal,2050,tax,-0.1099
+India,delivered coal,delivered coal,delivered coal,2055,tax,-0.1198
+India,delivered coal,delivered coal,delivered coal,2060,tax,-0.1297
+India,delivered coal,delivered coal,delivered coal,2065,tax,-0.1318
+India,delivered coal,delivered coal,delivered coal,2070,tax,-0.1325
+India,delivered coal,delivered coal,delivered coal,2075,tax,-0.1301
+India,delivered coal,delivered coal,delivered coal,2080,tax,-0.1196
+India,delivered coal,delivered coal,delivered coal,2085,tax,-0.1082
+India,delivered coal,delivered coal,delivered coal,2090,tax,-0.0987
+India,delivered coal,delivered coal,delivered coal,2095,tax,-0.0903
+India,delivered coal,delivered coal,delivered coal,2100,tax,-0.0842
+India,elect_td_ind,elect_td_ind,elect_td_ind,1990,tax,0.9474
+India,elect_td_ind,elect_td_ind,elect_td_ind,2005,tax,1.0851
+India,elect_td_ind,elect_td_ind,elect_td_ind,2010,tax,-0.2518
+India,elect_td_ind,elect_td_ind,elect_td_ind,2015,tax,-3.0067
+India,elect_td_ind,elect_td_ind,elect_td_ind,2020,tax,-4.0975
+India,elect_td_ind,elect_td_ind,elect_td_ind,2025,tax,-3.1681
+India,elect_td_ind,elect_td_ind,elect_td_ind,2030,tax,-2.9666
+India,elect_td_ind,elect_td_ind,elect_td_ind,2035,tax,-2.9685
+India,elect_td_ind,elect_td_ind,elect_td_ind,2040,tax,-3.0022
+India,elect_td_ind,elect_td_ind,elect_td_ind,2045,tax,-3.0784
+India,elect_td_ind,elect_td_ind,elect_td_ind,2050,tax,-3.0194
+India,elect_td_ind,elect_td_ind,elect_td_ind,2055,tax,-3.1057
+India,elect_td_ind,elect_td_ind,elect_td_ind,2060,tax,-3.0536
+India,elect_td_ind,elect_td_ind,elect_td_ind,2065,tax,-3.1043
+India,elect_td_ind,elect_td_ind,elect_td_ind,2070,tax,-3.2128
+India,elect_td_ind,elect_td_ind,elect_td_ind,2075,tax,-3.251
+India,elect_td_ind,elect_td_ind,elect_td_ind,2080,tax,-3.4328
+India,elect_td_ind,elect_td_ind,elect_td_ind,2085,tax,-3.4237
+India,elect_td_ind,elect_td_ind,elect_td_ind,2090,tax,-3.5269
+India,elect_td_ind,elect_td_ind,elect_td_ind,2095,tax,-3.637
+India,elect_td_ind,elect_td_ind,elect_td_ind,2100,tax,-3.7291
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,1990,tax,0.0918
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2005,tax,0.18
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2010,tax,-0.6196
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2015,tax,-1.2961
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2020,tax,-1.3006
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2025,tax,-1.3551
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2030,tax,-1.4502
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2035,tax,-1.3439
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2040,tax,-1.1539
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2045,tax,-0.8695
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2050,tax,-0.6045
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2055,tax,-0.4213
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2060,tax,-0.2834
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2065,tax,-0.1446
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2070,tax,-0.1889
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2075,tax,-0.2294
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2080,tax,-0.2226
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2085,tax,-0.1452
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2090,tax,-0.0407
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2095,tax,0.0597
+India,refined liquids industrial,refined liquids industrial,refined liquids industrial,2100,tax,0.1733
+India,wholesale gas,wholesale gas,wholesale gas,1990,tax,0.2481
+India,wholesale gas,wholesale gas,wholesale gas,2005,tax,0.0764
+India,wholesale gas,wholesale gas,wholesale gas,2010,tax,-0.0913
+India,wholesale gas,wholesale gas,wholesale gas,2015,tax,-0.2822
+India,wholesale gas,wholesale gas,wholesale gas,2020,tax,-0.2075
+India,wholesale gas,wholesale gas,wholesale gas,2025,tax,-0.1242
+India,wholesale gas,wholesale gas,wholesale gas,2030,tax,-0.1052
+India,wholesale gas,wholesale gas,wholesale gas,2035,tax,-0.0679
+India,wholesale gas,wholesale gas,wholesale gas,2040,tax,-0.0135
+India,wholesale gas,wholesale gas,wholesale gas,2045,tax,0.0569
+India,wholesale gas,wholesale gas,wholesale gas,2050,tax,0.1228
+India,wholesale gas,wholesale gas,wholesale gas,2055,tax,0.1286
+India,wholesale gas,wholesale gas,wholesale gas,2060,tax,0.1176
+India,wholesale gas,wholesale gas,wholesale gas,2065,tax,0.1049
+India,wholesale gas,wholesale gas,wholesale gas,2070,tax,0.0751
+India,wholesale gas,wholesale gas,wholesale gas,2075,tax,0.0897
+India,wholesale gas,wholesale gas,wholesale gas,2080,tax,0.1998
+India,wholesale gas,wholesale gas,wholesale gas,2085,tax,0.321
+India,wholesale gas,wholesale gas,wholesale gas,2090,tax,0.4062
+India,wholesale gas,wholesale gas,wholesale gas,2095,tax,0.4799
+India,wholesale gas,wholesale gas,wholesale gas,2100,tax,0.5771

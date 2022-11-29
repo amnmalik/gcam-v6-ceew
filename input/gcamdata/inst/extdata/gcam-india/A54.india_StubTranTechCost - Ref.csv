@@ -1,0 +1,578 @@
+# File: A54.india_StubTranTechCost.csv
+# Title: Non-energy sub technology transport cost
+# Units: 1990$/VKM
+# Column types: ccccicn
+# ----------
+region,supplysector,tranSubsector,stub.technology,year,minicam.non.energy.input,input.cost
+India,trn_aviation_intl,Air International,Liquids,1975,non-energy,12.5342
+India,trn_aviation_intl,Air International,Liquids,1990,non-energy,12.5342
+India,trn_aviation_intl,Air International,Liquids,2005,non-energy,12.5342
+India,trn_aviation_intl,Air International,Liquids,2010,non-energy,12.2287
+India,trn_aviation_intl,Air International,Liquids,2015,non-energy,11.9231
+India,trn_aviation_intl,Air International,Liquids,2020,non-energy,11.6175
+India,trn_aviation_intl,Air International,Liquids,2025,non-energy,11.4737
+India,trn_aviation_intl,Air International,Liquids,2030,non-energy,11.3298
+India,trn_aviation_intl,Air International,Liquids,2035,non-energy,11.1859
+India,trn_aviation_intl,Air International,Liquids,2040,non-energy,11.2994
+India,trn_aviation_intl,Air International,Liquids,2045,non-energy,11.4128
+India,trn_aviation_intl,Air International,Liquids,2050,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2055,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2060,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2065,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2070,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2075,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2080,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2085,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2090,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2095,non-energy,11.5263
+India,trn_aviation_intl,Air International,Liquids,2100,non-energy,11.5263
+India,trn_freight,Freight Rail,Coal,1975,non-energy,0
+India,trn_freight,Freight Rail,Coal,1990,non-energy,0
+India,trn_freight,Freight Rail,Coal,2005,non-energy,0
+India,trn_freight,Freight Rail,Coal,2010,non-energy,0
+India,trn_freight,Freight Rail,Coal,2015,non-energy,0
+India,trn_freight,Freight Rail,Coal,2020,non-energy,0
+India,trn_freight,Freight Rail,Coal,2025,non-energy,0
+India,trn_freight,Freight Rail,Coal,2030,non-energy,0
+India,trn_freight,Freight Rail,Coal,2035,non-energy,0
+India,trn_freight,Freight Rail,Coal,2040,non-energy,0
+India,trn_freight,Freight Rail,Coal,2045,non-energy,0
+India,trn_freight,Freight Rail,Coal,2050,non-energy,0
+India,trn_freight,Freight Rail,Coal,2055,non-energy,0
+India,trn_freight,Freight Rail,Coal,2060,non-energy,0
+India,trn_freight,Freight Rail,Coal,2065,non-energy,0
+India,trn_freight,Freight Rail,Coal,2070,non-energy,0
+India,trn_freight,Freight Rail,Coal,2075,non-energy,0
+India,trn_freight,Freight Rail,Coal,2080,non-energy,0
+India,trn_freight,Freight Rail,Coal,2085,non-energy,0
+India,trn_freight,Freight Rail,Coal,2090,non-energy,0
+India,trn_freight,Freight Rail,Coal,2095,non-energy,0
+India,trn_freight,Freight Rail,Coal,2100,non-energy,0
+India,trn_freight,Freight Rail,Electric,1975,non-energy,12.57387
+India,trn_freight,Freight Rail,Electric,1990,non-energy,12.57387
+India,trn_freight,Freight Rail,Electric,2005,non-energy,12.57387
+India,trn_freight,Freight Rail,Electric,2010,non-energy,12.5741
+India,trn_freight,Freight Rail,Electric,2015,non-energy,12.574215
+India,trn_freight,Freight Rail,Electric,2020,non-energy,12.574445
+India,trn_freight,Freight Rail,Electric,2025,non-energy,12.57456
+India,trn_freight,Freight Rail,Electric,2030,non-energy,12.57479
+India,trn_freight,Freight Rail,Electric,2035,non-energy,12.57502
+India,trn_freight,Freight Rail,Electric,2040,non-energy,12.575135
+India,trn_freight,Freight Rail,Electric,2045,non-energy,12.575365
+India,trn_freight,Freight Rail,Electric,2050,non-energy,12.57548
+India,trn_freight,Freight Rail,Electric,2055,non-energy,12.57571
+India,trn_freight,Freight Rail,Electric,2060,non-energy,12.57594
+India,trn_freight,Freight Rail,Electric,2065,non-energy,12.576055
+India,trn_freight,Freight Rail,Electric,2070,non-energy,12.576285
+India,trn_freight,Freight Rail,Electric,2075,non-energy,12.5764
+India,trn_freight,Freight Rail,Electric,2080,non-energy,12.57663
+India,trn_freight,Freight Rail,Electric,2085,non-energy,12.576745
+India,trn_freight,Freight Rail,Electric,2090,non-energy,12.57686
+India,trn_freight,Freight Rail,Electric,2095,non-energy,12.57709
+India,trn_freight,Freight Rail,Electric,2100,non-energy,12.57709
+India,trn_freight,Freight Rail,Liquids,1975,non-energy,19.62728
+India,trn_freight,Freight Rail,Liquids,1990,non-energy,19.62728
+India,trn_freight,Freight Rail,Liquids,2005,non-energy,19.62728
+India,trn_freight,Freight Rail,Liquids,2010,non-energy,19.62912
+India,trn_freight,Freight Rail,Liquids,2015,non-energy,19.631075
+India,trn_freight,Freight Rail,Liquids,2020,non-energy,19.63303
+India,trn_freight,Freight Rail,Liquids,2025,non-energy,19.6351
+India,trn_freight,Freight Rail,Liquids,2030,non-energy,19.637055
+India,trn_freight,Freight Rail,Liquids,2035,non-energy,19.63901
+India,trn_freight,Freight Rail,Liquids,2040,non-energy,19.640965
+India,trn_freight,Freight Rail,Liquids,2045,non-energy,19.64292
+India,trn_freight,Freight Rail,Liquids,2050,non-energy,19.644875
+India,trn_freight,Freight Rail,Liquids,2055,non-energy,19.646715
+India,trn_freight,Freight Rail,Liquids,2060,non-energy,19.64867
+India,trn_freight,Freight Rail,Liquids,2065,non-energy,19.650625
+India,trn_freight,Freight Rail,Liquids,2070,non-energy,19.65258
+India,trn_freight,Freight Rail,Liquids,2075,non-energy,19.654535
+India,trn_freight,Freight Rail,Liquids,2080,non-energy,19.65649
+India,trn_freight,Freight Rail,Liquids,2085,non-energy,19.65833
+India,trn_freight,Freight Rail,Liquids,2090,non-energy,19.660285
+India,trn_freight,Freight Rail,Liquids,2095,non-energy,19.66224
+India,trn_freight,Freight Rail,Liquids,2100,non-energy,19.66224
+India,trn_freight,Ship Domestic,Liquids,1975,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,1990,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2005,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2010,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2015,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2020,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2025,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2030,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2035,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2040,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2045,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2050,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2055,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2060,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2065,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2070,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2075,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2080,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2085,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2090,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2095,non-energy,0.6632
+India,trn_freight,Ship Domestic,Liquids,2100,non-energy,0.6632
+India,trn_freight_road,Truck,Electric,1975,non-energy,0.258884386
+India,trn_freight_road,Truck,Electric,1990,non-energy,0.21269001
+India,trn_freight_road,Truck,Electric,2005,non-energy,0.174738388
+India,trn_freight_road,Truck,Electric,2010,non-energy,0.143558714
+India,trn_freight_road,Truck,Electric,2015,non-energy,0.117942626
+India,trn_freight_road,Truck,Electric,2020,non-energy,0.096897378
+India,trn_freight_road,Truck,Electric,2025,non-energy,0.079607367
+India,trn_freight_road,Truck,Electric,2030,non-energy,0.067741686
+India,trn_freight_road,Truck,Electric,2035,non-energy,0.062685164
+India,trn_freight_road,Truck,Electric,2040,non-energy,0.061034591
+India,trn_freight_road,Truck,Electric,2045,non-energy,0.059974389
+India,trn_freight_road,Truck,Electric,2050,non-energy,0.059311949
+India,trn_freight_road,Truck,Electric,2055,non-energy,0.058636287
+India,trn_freight_road,Truck,Electric,2060,non-energy,0.058042561
+India,trn_freight_road,Truck,Electric,2065,non-energy,0.057528328
+India,trn_freight_road,Truck,Electric,2070,non-energy,0.057091474
+India,trn_freight_road,Truck,Electric,2075,non-energy,0.056730202
+India,trn_freight_road,Truck,Electric,2080,non-energy,0.05644302
+India,trn_freight_road,Truck,Electric,2085,non-energy,0.056228727
+India,trn_freight_road,Truck,Electric,2090,non-energy,0.056086409
+India,trn_freight_road,Truck,Electric,2095,non-energy,0.056015431
+India,trn_freight_road,Truck,Electric,2100,non-energy,0.056015431
+India,trn_freight_road,Truck,FCEV,1975,non-energy,1.22744661
+India,trn_freight_road,Truck,FCEV,1990,non-energy,1.22744661
+India,trn_freight_road,Truck,FCEV,2005,non-energy,1.22744661
+India,trn_freight_road,Truck,FCEV,2010,non-energy,0.386960601
+India,trn_freight_road,Truck,FCEV,2015,non-energy,0.38165064
+India,trn_freight_road,Truck,FCEV,2020,non-energy,0.38758951
+India,trn_freight_road,Truck,FCEV,2025,non-energy,0.3936208
+India,trn_freight_road,Truck,FCEV,2030,non-energy,0.399652085
+India,trn_freight_road,Truck,FCEV,2035,non-energy,0.405789184
+India,trn_freight_road,Truck,FCEV,2040,non-energy,0.412666968
+India,trn_freight_road,Truck,FCEV,2045,non-energy,0.419650562
+India,trn_freight_road,Truck,FCEV,2050,non-energy,0.426528346
+India,trn_freight_road,Truck,FCEV,2055,non-energy,0.424517913
+India,trn_freight_road,Truck,FCEV,2060,non-energy,0.422507484
+India,trn_freight_road,Truck,FCEV,2065,non-energy,0.420497056
+India,trn_freight_road,Truck,FCEV,2070,non-energy,0.418592443
+India,trn_freight_road,Truck,FCEV,2075,non-energy,0.41658201
+India,trn_freight_road,Truck,FCEV,2080,non-energy,0.414571581
+India,trn_freight_road,Truck,FCEV,2085,non-energy,0.412561153
+India,trn_freight_road,Truck,FCEV,2090,non-energy,0.41065654
+India,trn_freight_road,Truck,FCEV,2095,non-energy,0.408646107
+India,trn_freight_road,Truck,FCEV,2100,non-energy,0.408646107
+India,trn_freight_road,Truck,Liquids,1975,non-energy,0.93337647
+India,trn_freight_road,Truck,Liquids,1990,non-energy,0.93337647
+India,trn_freight_road,Truck,Liquids,2005,non-energy,0.93337647
+India,trn_freight_road,Truck,Liquids,2010,non-energy,0.046881416
+India,trn_freight_road,Truck,Liquids,2015,non-energy,0.046966478
+India,trn_freight_road,Truck,Liquids,2020,non-energy,0.048448689
+India,trn_freight_road,Truck,Liquids,2025,non-energy,0.049977677
+India,trn_freight_road,Truck,Liquids,2030,non-energy,0.051506665
+India,trn_freight_road,Truck,Liquids,2035,non-energy,0.053054075
+India,trn_freight_road,Truck,Liquids,2040,non-energy,0.054840968
+India,trn_freight_road,Truck,Liquids,2045,non-energy,0.056627862
+India,trn_freight_road,Truck,Liquids,2050,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2055,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2060,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2065,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2070,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2075,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2080,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2085,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2090,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2095,non-energy,0.05841475
+India,trn_freight_road,Truck,Liquids,2100,non-energy,0.05841475
+India,trn_freight_road,Truck,NG,1975,non-energy,0.053842321
+India,trn_freight_road,Truck,NG,1990,non-energy,0.055557679
+India,trn_freight_road,Truck,NG,2005,non-energy,0.057327686
+India,trn_freight_road,Truck,NG,2010,non-energy,0.059154085
+India,trn_freight_road,Truck,NG,2015,non-energy,0.06103867
+India,trn_freight_road,Truck,NG,2020,non-energy,0.062983296
+India,trn_freight_road,Truck,NG,2025,non-energy,0.064989875
+India,trn_freight_road,Truck,NG,2030,non-energy,0.066997566
+India,trn_freight_road,Truck,NG,2035,non-energy,0.069030336
+India,trn_freight_road,Truck,NG,2040,non-energy,0.071375915
+India,trn_freight_road,Truck,NG,2045,non-energy,0.073722793
+India,trn_freight_road,Truck,NG,2050,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2055,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2060,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2065,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2070,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2075,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2080,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2085,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2090,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2095,non-energy,0.076070957
+India,trn_freight_road,Truck,NG,2100,non-energy,0.076070957
+India,trn_pass,Air Domestic,Liquids,1975,non-energy,9.5572
+India,trn_pass,Air Domestic,Liquids,1990,non-energy,9.5572
+India,trn_pass,Air Domestic,Liquids,2005,non-energy,9.5572
+India,trn_pass,Air Domestic,Liquids,2010,non-energy,9.3242
+India,trn_pass,Air Domestic,Liquids,2015,non-energy,9.0912
+India,trn_pass,Air Domestic,Liquids,2020,non-energy,8.8582
+India,trn_pass,Air Domestic,Liquids,2025,non-energy,8.7485
+India,trn_pass,Air Domestic,Liquids,2030,non-energy,8.6388
+India,trn_pass,Air Domestic,Liquids,2035,non-energy,8.5291
+India,trn_pass,Air Domestic,Liquids,2040,non-energy,8.6156
+India,trn_pass,Air Domestic,Liquids,2045,non-energy,8.7021
+India,trn_pass,Air Domestic,Liquids,2050,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2055,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2060,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2065,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2070,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2075,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2080,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2085,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2090,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2095,non-energy,8.7886
+India,trn_pass,Air Domestic,Liquids,2100,non-energy,8.7886
+India,trn_pass,HSR,Electric,1975,non-energy,17.1951
+India,trn_pass,HSR,Electric,1990,non-energy,17.1951
+India,trn_pass,HSR,Electric,2005,non-energy,17.1951
+India,trn_pass,HSR,Electric,2010,non-energy,13.5903
+India,trn_pass,HSR,Electric,2015,non-energy,9.9856
+India,trn_pass,HSR,Electric,2020,non-energy,6.3808
+India,trn_pass,HSR,Electric,2025,non-energy,6.3809
+India,trn_pass,HSR,Electric,2030,non-energy,6.381
+India,trn_pass,HSR,Electric,2035,non-energy,6.3811
+India,trn_pass,HSR,Electric,2040,non-energy,6.3811
+India,trn_pass,HSR,Electric,2045,non-energy,6.3811
+India,trn_pass,HSR,Electric,2050,non-energy,6.3811
+India,trn_pass,HSR,Electric,2055,non-energy,6.3812
+India,trn_pass,HSR,Electric,2060,non-energy,6.3813
+India,trn_pass,HSR,Electric,2065,non-energy,6.3814
+India,trn_pass,HSR,Electric,2070,non-energy,6.3814
+India,trn_pass,HSR,Electric,2075,non-energy,6.3815
+India,trn_pass,HSR,Electric,2080,non-energy,6.3815
+India,trn_pass,HSR,Electric,2085,non-energy,6.3815
+India,trn_pass,HSR,Electric,2090,non-energy,6.3816
+India,trn_pass,HSR,Electric,2095,non-energy,6.3816
+India,trn_pass,HSR,Electric,2100,non-energy,6.3816
+India,trn_pass,Passenger Rail,Electric,1975,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,1990,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2005,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2010,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2015,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2020,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2025,non-energy,3.1904
+India,trn_pass,Passenger Rail,Electric,2030,non-energy,3.1905
+India,trn_pass,Passenger Rail,Electric,2035,non-energy,3.1905
+India,trn_pass,Passenger Rail,Electric,2040,non-energy,3.1905
+India,trn_pass,Passenger Rail,Electric,2045,non-energy,3.1906
+India,trn_pass,Passenger Rail,Electric,2050,non-energy,3.1906
+India,trn_pass,Passenger Rail,Electric,2055,non-energy,3.1907
+India,trn_pass,Passenger Rail,Electric,2060,non-energy,3.1907
+India,trn_pass,Passenger Rail,Electric,2065,non-energy,3.1907
+India,trn_pass,Passenger Rail,Electric,2070,non-energy,3.1907
+India,trn_pass,Passenger Rail,Electric,2075,non-energy,3.1908
+India,trn_pass,Passenger Rail,Electric,2080,non-energy,3.1908
+India,trn_pass,Passenger Rail,Electric,2085,non-energy,3.1908
+India,trn_pass,Passenger Rail,Electric,2090,non-energy,3.1908
+India,trn_pass,Passenger Rail,Electric,2095,non-energy,3.1909
+India,trn_pass,Passenger Rail,Electric,2100,non-energy,3.1909
+India,trn_pass,Passenger Rail,Liquids,1975,non-energy,3.8473
+India,trn_pass,Passenger Rail,Liquids,1990,non-energy,3.8473
+India,trn_pass,Passenger Rail,Liquids,2005,non-energy,3.8473
+India,trn_pass,Passenger Rail,Liquids,2010,non-energy,3.8475
+India,trn_pass,Passenger Rail,Liquids,2015,non-energy,3.8478
+India,trn_pass,Passenger Rail,Liquids,2020,non-energy,3.848
+India,trn_pass,Passenger Rail,Liquids,2025,non-energy,3.8482
+India,trn_pass,Passenger Rail,Liquids,2030,non-energy,3.8485
+India,trn_pass,Passenger Rail,Liquids,2035,non-energy,3.8487
+India,trn_pass,Passenger Rail,Liquids,2040,non-energy,3.849
+India,trn_pass,Passenger Rail,Liquids,2045,non-energy,3.8492
+India,trn_pass,Passenger Rail,Liquids,2050,non-energy,3.8495
+India,trn_pass,Passenger Rail,Liquids,2055,non-energy,3.8497
+India,trn_pass,Passenger Rail,Liquids,2060,non-energy,3.8499
+India,trn_pass,Passenger Rail,Liquids,2065,non-energy,3.8501
+India,trn_pass,Passenger Rail,Liquids,2070,non-energy,3.8504
+India,trn_pass,Passenger Rail,Liquids,2075,non-energy,3.8506
+India,trn_pass,Passenger Rail,Liquids,2080,non-energy,3.8508
+India,trn_pass,Passenger Rail,Liquids,2085,non-energy,3.8511
+India,trn_pass,Passenger Rail,Liquids,2090,non-energy,3.8513
+India,trn_pass,Passenger Rail,Liquids,2095,non-energy,3.8516
+India,trn_pass,Passenger Rail,Liquids,2100,non-energy,3.8516
+India,trn_pass_road,Bus,Electric,1975,non-energy,0.27625996
+India,trn_pass_road,Bus,Electric,1990,non-energy,0.230243731
+India,trn_pass_road,Bus,Electric,2005,non-energy,0.191892359
+India,trn_pass_road,Bus,Electric,2010,non-energy,0.159929121
+India,trn_pass_road,Bus,Electric,2015,non-energy,0.133289954
+India,trn_pass_road,Bus,Electric,2020,non-energy,0.109966182
+India,trn_pass_road,Bus,Electric,2025,non-energy,0.086853368
+India,trn_pass_road,Bus,Electric,2030,non-energy,0.073850325
+India,trn_pass_road,Bus,Electric,2035,non-energy,0.070548249
+India,trn_pass_road,Bus,Electric,2040,non-energy,0.069149789
+India,trn_pass_road,Bus,Electric,2045,non-energy,0.068146354
+India,trn_pass_road,Bus,Electric,2050,non-energy,0.067696562
+India,trn_pass_road,Bus,Electric,2055,non-energy,0.06729689
+India,trn_pass_road,Bus,Electric,2060,non-energy,0.066945685
+India,trn_pass_road,Bus,Electric,2065,non-energy,0.066641502
+India,trn_pass_road,Bus,Electric,2070,non-energy,0.066383091
+India,trn_pass_road,Bus,Electric,2075,non-energy,0.066169389
+India,trn_pass_road,Bus,Electric,2080,non-energy,0.065999513
+India,trn_pass_road,Bus,Electric,2085,non-energy,0.065872753
+India,trn_pass_road,Bus,Electric,2090,non-energy,0.065788568
+India,trn_pass_road,Bus,Electric,2095,non-energy,0.065746582
+India,trn_pass_road,Bus,Electric,2100,non-energy,0.065746582
+India,trn_pass_road,Bus,Liquids,1975,non-energy,0.080672272
+India,trn_pass_road,Bus,Liquids,1990,non-energy,0.081870114
+India,trn_pass_road,Bus,Liquids,2005,non-energy,0.08308574
+India,trn_pass_road,Bus,Liquids,2010,non-energy,0.084319417
+India,trn_pass_road,Bus,Liquids,2015,non-energy,0.085571412
+India,trn_pass_road,Bus,Liquids,2020,non-energy,0.086841997
+India,trn_pass_road,Bus,Liquids,2025,non-energy,0.088131447
+India,trn_pass_road,Bus,Liquids,2030,non-energy,0.089459581
+India,trn_pass_road,Bus,Liquids,2035,non-energy,0.09082756
+India,trn_pass_road,Bus,Liquids,2040,non-energy,0.092236577
+India,trn_pass_road,Bus,Liquids,2045,non-energy,0.093687865
+India,trn_pass_road,Bus,Liquids,2050,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2055,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2060,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2065,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2070,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2075,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2080,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2085,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2090,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2095,non-energy,0.095182692
+India,trn_pass_road,Bus,Liquids,2100,non-energy,0.095182692
+India,trn_pass_road,Bus,NG,1975,non-energy,0.086505632
+India,trn_pass_road,Bus,NG,1990,non-energy,0.087906463
+India,trn_pass_road,Bus,NG,2005,non-energy,0.089329979
+India,trn_pass_road,Bus,NG,2010,non-energy,0.090776546
+India,trn_pass_road,Bus,NG,2015,non-energy,0.092246538
+India,trn_pass_road,Bus,NG,2020,non-energy,0.093740335
+India,trn_pass_road,Bus,NG,2025,non-energy,0.095258321
+India,trn_pass_road,Bus,NG,2030,non-energy,0.09682226
+India,trn_pass_road,Bus,NG,2035,non-energy,0.098433541
+India,trn_pass_road,Bus,NG,2040,non-energy,0.1000936
+India,trn_pass_road,Bus,NG,2045,non-energy,0.10180391
+India,trn_pass_road,Bus,NG,2050,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2055,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2060,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2065,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2070,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2075,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2080,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2085,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2090,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2095,non-energy,0.103565995
+India,trn_pass_road,Bus,NG,2100,non-energy,0.103565995
+India,trn_pass_road_LDV,LDV_3W,Electric,1975,non-energy,0.013418939
+India,trn_pass_road_LDV,LDV_3W,Electric,1990,non-energy,0.011824515
+India,trn_pass_road_LDV,LDV_3W,Electric,2005,non-energy,0.010419538
+India,trn_pass_road_LDV,LDV_3W,Electric,2010,non-energy,0.009181499
+India,trn_pass_road_LDV,LDV_3W,Electric,2015,non-energy,0.008090563
+India,trn_pass_road_LDV,LDV_3W,Electric,2020,non-energy,0.007074327
+India,trn_pass_road_LDV,LDV_3W,Electric,2025,non-energy,0.006282161
+India,trn_pass_road_LDV,LDV_3W,Electric,2030,non-energy,0.00591111
+India,trn_pass_road_LDV,LDV_3W,Electric,2035,non-energy,0.005688347
+India,trn_pass_road_LDV,LDV_3W,Electric,2040,non-energy,0.005604381
+India,trn_pass_road_LDV,LDV_3W,Electric,2045,non-energy,0.005561779
+India,trn_pass_road_LDV,LDV_3W,Electric,2050,non-energy,0.005532909
+India,trn_pass_road_LDV,LDV_3W,Electric,2055,non-energy,0.005507077
+India,trn_pass_road_LDV,LDV_3W,Electric,2060,non-energy,0.005487557
+India,trn_pass_road_LDV,LDV_3W,Electric,2065,non-energy,0.005474265
+India,trn_pass_road_LDV,LDV_3W,Electric,2070,non-energy,0.005467142
+India,trn_pass_road_LDV,LDV_3W,Electric,2075,non-energy,0.005466153
+India,trn_pass_road_LDV,LDV_3W,Electric,2080,non-energy,0.005471287
+India,trn_pass_road_LDV,LDV_3W,Electric,2085,non-energy,0.005482555
+India,trn_pass_road_LDV,LDV_3W,Electric,2090,non-energy,0.005499993
+India,trn_pass_road_LDV,LDV_3W,Electric,2095,non-energy,0.005523659
+India,trn_pass_road_LDV,LDV_3W,Electric,2100,non-energy,0.005523659
+India,trn_pass_road_LDV,LDV_3W,Liquids,1975,non-energy,0.065648
+India,trn_pass_road_LDV,LDV_3W,Liquids,1990,non-energy,0.004576252
+India,trn_pass_road_LDV,LDV_3W,Liquids,2005,non-energy,0.004699411
+India,trn_pass_road_LDV,LDV_3W,Liquids,2010,non-energy,0.004825884
+India,trn_pass_road_LDV,LDV_3W,Liquids,2015,non-energy,0.004955762
+India,trn_pass_road_LDV,LDV_3W,Liquids,2020,non-energy,0.005089134
+India,trn_pass_road_LDV,LDV_3W,Liquids,2025,non-energy,0.005226096
+India,trn_pass_road_LDV,LDV_3W,Liquids,2030,non-energy,0.005367166
+India,trn_pass_road_LDV,LDV_3W,Liquids,2035,non-energy,0.005512469
+India,trn_pass_road_LDV,LDV_3W,Liquids,2040,non-energy,0.005662131
+India,trn_pass_road_LDV,LDV_3W,Liquids,2045,non-energy,0.005816283
+India,trn_pass_road_LDV,LDV_3W,Liquids,2050,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2055,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2060,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2065,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2070,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2075,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2080,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2085,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2090,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2095,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,Liquids,2100,non-energy,0.005975059
+India,trn_pass_road_LDV,LDV_3W,NG,1975,non-energy,0.004418775
+India,trn_pass_road_LDV,LDV_3W,NG,1990,non-energy,0.004540743
+India,trn_pass_road_LDV,LDV_3W,NG,2005,non-energy,0.004666077
+India,trn_pass_road_LDV,LDV_3W,NG,2010,non-energy,0.00479487
+India,trn_pass_road_LDV,LDV_3W,NG,2015,non-energy,0.004927218
+India,trn_pass_road_LDV,LDV_3W,NG,2020,non-energy,0.00506322
+India,trn_pass_road_LDV,LDV_3W,NG,2025,non-energy,0.005202975
+India,trn_pass_road_LDV,LDV_3W,NG,2030,non-energy,0.005346961
+India,trn_pass_road_LDV,LDV_3W,NG,2035,non-energy,0.005495306
+India,trn_pass_road_LDV,LDV_3W,NG,2040,non-energy,0.005648141
+India,trn_pass_road_LDV,LDV_3W,NG,2045,non-energy,0.005805603
+India,trn_pass_road_LDV,LDV_3W,NG,2050,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2055,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2060,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2065,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2070,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2075,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2080,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2085,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2090,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2095,non-energy,0.005967832
+India,trn_pass_road_LDV,LDV_3W,NG,2100,non-energy,0.005967832
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,1975,non-energy,0.12568735
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,1990,non-energy,0.111715602
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2005,non-energy,0.099296991
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2010,non-energy,0.088258866
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2015,non-energy,0.07844777
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2020,non-energy,0.069727302
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2025,non-energy,0.061976225
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2030,non-energy,0.057231533
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2035,non-energy,0.055033256
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2040,non-energy,0.054275305
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2045,non-energy,0.053946596
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2050,non-energy,0.053646998
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2055,non-energy,0.053378942
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2060,non-energy,0.053176376
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2065,non-energy,0.053038439
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2070,non-energy,0.052964521
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2075,non-energy,0.052954259
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2080,non-energy,0.053007533
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2085,non-energy,0.053124465
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2090,non-energy,0.05330542
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2095,non-energy,0.053551007
+India,trn_pass_road_LDV_2W,LDV_2W,Electric,2100,non-energy,0.053551007
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1975,non-energy,0.043702896
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1990,non-energy,0.044924306
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2005,non-energy,0.046179852
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2010,non-energy,0.047470488
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2015,non-energy,0.048797194
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2020,non-energy,0.05016098
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2025,non-energy,0.05156288
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2030,non-energy,0.053006838
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2035,non-energy,0.054494114
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2040,non-energy,0.056026009
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2045,non-energy,0.05760386
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2050,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2055,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2060,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2065,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2070,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2075,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2080,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2085,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2090,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2095,non-energy,0.059229048
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2100,non-energy,0.059229048
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,1975,non-energy,3.079335336
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,1990,non-energy,2.402768962
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2005,non-energy,1.874852218
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2010,non-energy,1.462925023
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2015,non-energy,1.141503102
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2020,non-energy,0.890671087
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2025,non-energy,0.695003756
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2030,non-energy,0.570202172
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2035,non-energy,0.527556646
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2040,non-energy,0.51177303
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2045,non-energy,0.501563617
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2050,non-energy,0.49521661
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2055,non-energy,0.489576833
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2060,non-energy,0.484620983
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2065,non-energy,0.480328661
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2070,non-energy,0.476682226
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2075,non-energy,0.47366668
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2080,non-energy,0.471269559
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2085,non-energy,0.469480848
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2090,non-energy,0.468292916
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2095,non-energy,0.467700459
+India,trn_pass_road_LDV_4W,LDV_4W,Electric,2100,non-energy,0.467700459
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,1975,non-energy,1.709659277
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,1990,non-energy,1.737126749
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2005,non-energy,1.765035515
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2010,non-energy,1.793392665
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2015,non-energy,1.822205402
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2020,non-energy,1.85148108
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2025,non-energy,1.881227097
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2030,non-energy,1.910976126
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2035,non-energy,1.941227465
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2040,non-energy,1.974983134
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2045,non-energy,2.009245454
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2050,non-energy,2.043012779
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2055,non-energy,2.033495852
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2060,non-energy,2.02397894
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2065,non-energy,2.014462027
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2070,non-energy,2.005445998
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2075,non-energy,1.995929071
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2080,non-energy,1.986412159
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2085,non-energy,1.976895232
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2090,non-energy,1.967879209
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2095,non-energy,1.958362297
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2100,non-energy,1.958362297
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1975,non-energy,0.454558078
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1990,non-energy,0.4681279
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2005,non-energy,0.482102819
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2010,non-energy,0.496494928
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2015,non-energy,0.511316681
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2020,non-energy,0.526580905
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2025,non-energy,0.542300808
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2030,non-energy,0.558492309
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2035,non-energy,0.575169554
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2040,non-energy,0.592347117
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2045,non-energy,0.610040007
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2050,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2055,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2060,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2065,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2070,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2075,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2080,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2085,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2090,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2095,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2100,non-energy,0.628263683
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1975,non-energy,0.448397094
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1990,non-energy,0.461917292
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2005,non-energy,0.475845154
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2010,non-energy,0.490192973
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2015,non-energy,0.504973412
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2020,non-energy,0.520199515
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2025,non-energy,0.53588472
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2030,non-energy,0.552044743
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2035,non-energy,0.568693959
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2040,non-energy,0.585847175
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2045,non-energy,0.60351965
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2050,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2055,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2060,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2065,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2070,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2075,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2080,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2085,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2090,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2095,non-energy,0.621727101
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2100,non-energy,0.621727101
+India,trn_shipping_intl,Ship International,Liquids,1975,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,1990,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2005,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2010,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2015,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2020,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2025,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2030,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2035,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2040,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2045,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2050,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2055,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2060,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2065,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2070,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2075,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2080,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2085,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2090,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2095,non-energy,16.5779
+India,trn_shipping_intl,Ship International,Liquids,2100,non-energy,16.5779

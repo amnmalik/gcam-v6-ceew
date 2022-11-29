@@ -1,0 +1,56 @@
+# File: A44.india_state_globaltech_retirement.csv
+# Title: Building technology retirement function (survival curve) parameters
+# Units: lifetime/half_life: years; steepness: shape parameter used by the s-curve-shutdown-decider retirement function
+# Comments: PortionSurviving(t) = 1 / ( 1 + EXP( Steepness * ( t - HalfLife ) ) )
+# Source: Internal
+# Column types: ccciinin
+# ----------
+supplysector,subsector,technology,lifetime,half_life_stock,steepness_stock,half_life_new,steepness_new
+resid rural cooling,electricity,air conditioner (hi-eff),30,15,0.2598,18,0.2598
+resid rural cooling,electricity,air conditioner (lo-eff),30,15,0.2598,18,0.2598
+resid urban cooling,electricity,air conditioner (hi-eff),30,15,0.2598,18,0.2598
+resid urban cooling,electricity,air conditioner (lo-eff),30,15,0.2598,18,0.2598
+resid rural coolers,electricity,desert coolers,10,7,0.162,7,0.162
+resid urban coolers,electricity,desert coolers,10,7,0.162,7,0.162
+resid rural lighting,electricity,hi-eff,4,2,0.162,2,0.162
+resid rural lighting,electricity,lo-eff,4,2,0.162,2,0.162
+resid urban lighting,electricity,hi-eff,4,2,0.162,2,0.162
+resid urban lighting,electricity,lo-eff,4,2,0.162,2,0.162
+resid rural space heating,electricity,room heaters,16,12,0.2598,12,0.2598
+resid urban space heating,electricity,room heaters,16,12,0.2598,12,0.2598
+resid rural cooking,electricity,electricity,13,7,0.2598,7,0.2598
+resid urban cooking,electricity,electricity,13,7,0.2598,7,0.2598
+resid rural cooking,gas,gas based cooking,13,7,0.2598,7,0.2598
+resid urban cooking,gas,gas based cooking,13,7,0.2598,7,0.2598
+resid rural apploth,electricity,Elec-based app,20,10,0.1219,8,0.1886
+resid urban apploth,electricity,Elec-based app,20,10,0.1219,8,0.1886
+resid rural space heating,coal,coal burners,4,2,0.2598,2,0.2598
+resid urban space heating,coal,coal burners,4,2,0.2598,2,0.2598
+resid rural cooking,coal,coal,4,2,0.2598,2,0.2598
+resid urban cooking,coal,coal,4,2,0.2598,2,0.2598
+resid rural apploth,coal,Coal-based app,4,2,0.2598,2,0.2598
+resid urban apploth,coal,Coal-based app,4,2,0.2598,2,0.2598
+resid rural space heating,biomass,fire heaters,4,2,0.2598,2,0.2598
+resid urban space heating,biomass,fire heaters,4,2,0.2598,2,0.2598
+resid rural cooking,biomass,biomass,4,2,0.2598,2,0.2598
+resid urban cooking,biomass,biomass,4,2,0.2598,2,0.2598
+resid urban cooking,refined liquids,refined liquids,30,15,0.1219,15,0.1886
+resid rural cooking,refined liquids,refined liquids,30,15,0.1219,15,0.1886
+resid rural cooking,traditional biomass,traditional biomass,4,2,0.2598,2,0.2598
+resid urban cooking,traditional biomass,traditional biomass,4,2,0.2598,2,0.2598
+resid rural apploth,biomass,biomass-based app,4,2,0.2598,2,0.2598
+resid urban apploth,biomass,biomass-based app,4,2,0.2598,2,0.2598
+resid rural apploth,refined liquids,RL-based app,30,15,0.1219,15,0.1886
+resid urban apploth,refined liquids,RL-based app,30,15,0.1219,15,0.1886
+resid rural apploth,gas,Gas-based app,30,15,0.1219,15,0.1886
+resid urban apploth,gas,Gas-based app,30,15,0.1219,15,0.1886
+comm hvac,electricity,heating-cooling appl,30,15,0.2598,18,0.2598
+comm lighting,electricity,electricity based lighting,20,10,0.1932,10,0.1932
+comm ref,electricity,electricity based ref,30,15,0.1932,15,0.1932
+comm others,electricity,electricity based others,20,10,0.1932,10,0.1932
+comm others,coal,coal based others,4,2,0.2598,2,0.2598
+comm others,biomass,biomass based others,4,2,0.2598,2,0.2598
+comm others,refined liquids,refined liquids based others,30,15,0.1219,15,0.1886
+comm cooking,refined liquids,refined liquids based cooking,30,15,0.1219,15,0.1886
+comm cooking,gas,gas based cooking,30,15,0.1219,15,0.1886
+comm cooking,electricity,electric cooking,30,15,0.1932,15,0.1932

@@ -1,0 +1,52 @@
+# File: A44.india_state_subsector_interp.csv
+# Title: Building subsector default shareweight interpolation
+# Units: NA
+# Source: None (GCAM assumptions)
+# Column types: cccccnc
+# ----------
+supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
+resid rural cooling,electricity,share-weight,2010,2100,,fixed
+resid urban cooling,electricity,share-weight,2010,2100,,fixed
+resid rural coolers,electricity,share-weight,2010,2100,,fixed
+resid urban coolers,electricity,share-weight,2010,2100,,fixed
+resid rural lighting,electricity,share-weight,2010,2100,,fixed
+resid urban lighting,electricity,share-weight,2010,2100,,fixed
+resid rural space heating,electricity,share-weight,2010,2100,,fixed
+resid urban space heating,electricity,share-weight,2010,2100,,fixed
+resid rural cooking,electricity,share-weight,2010,2100,,fixed
+resid urban cooking,electricity,share-weight,2015,2030,,linear
+resid urban cooking,electricity,share-weight,2030,2100,,fixed
+resid rural apploth,electricity,share-weight,2010,2100,,fixed
+resid urban apploth,electricity,share-weight,2010,2100,,fixed
+resid rural space heating,coal,share-weight,2010,2040,,linear
+resid urban space heating,coal,share-weight,2010,2040,,linear
+resid rural cooking,coal,share-weight,2010,2020,,linear
+resid urban cooking,coal,share-weight,2010,2020,,linear
+resid rural cooking,gas,share-weight,2015,2100,,fixed
+resid urban cooking,gas,share-weight,2010,2100,,linear
+resid rural apploth,coal,share-weight,2010,2020,,linear
+resid urban apploth,coal,share-weight,2010,2020,,linear
+resid rural space heating,biomass,share-weight,2010,2030,,linear
+resid urban space heating,biomass,share-weight,2010,2030,,linear
+resid rural cooking,biomass,share-weight,2010,2030,,linear
+resid urban cooking,biomass,share-weight,2010,2030,,linear
+resid urban cooking,refined liquids,share-weight,2010,2100,,linear
+resid rural cooking,refined liquids,share-weight,2010,2100,,linear
+resid rural cooking,traditional biomass,share-weight,2015,2050,,linear
+resid urban cooking,traditional biomass,share-weight,2015,2050,,linear
+resid rural apploth,biomass,share-weight,2010,2030,,linear
+resid urban apploth,biomass,share-weight,2010,2030,,linear
+resid rural apploth,refined liquids,share-weight,2010,2100,,fixed
+resid urban apploth,refined liquids,share-weight,2010,2100,,fixed
+resid rural apploth,gas,share-weight,2010,2100,,fixed
+resid urban apploth,gas,share-weight,2010,2100,,fixed
+comm hvac,electricity,share-weight,2010,2100,,fixed
+comm lighting,electricity,share-weight,2010,2100,,fixed
+comm ref,electricity,share-weight,2010,2100,,fixed
+comm others,electricity,share-weight,2010,2100,,fixed
+comm others,coal,share-weight,2010,2030,,linear
+comm others,biomass,share-weight,2010,2030,,linear
+comm others,refined liquids,share-weight,2010,2100,,fixed
+comm cooking,refined liquids,share-weight,2010,2100,,linear
+comm cooking,gas,share-weight,2010,2100,,linear
+comm cooking,electricity,share-weight,2010,2100,,fixed

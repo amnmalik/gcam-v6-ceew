@@ -1,0 +1,509 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionFuelAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,elect_td_bld,rooftop_pv,rooftop_pv,1990,tax,6.8277
+India,elect_td_bld,rooftop_pv,rooftop_pv,2005,tax,6.8397
+India,elect_td_bld,rooftop_pv,rooftop_pv,2010,tax,4.6939
+India,elect_td_bld,rooftop_pv,rooftop_pv,2015,tax,16.4261
+India,elect_td_bld,rooftop_pv,rooftop_pv,2020,tax,4.7963
+India,elect_td_bld,rooftop_pv,rooftop_pv,2025,tax,4.6797
+India,elect_td_bld,rooftop_pv,rooftop_pv,2030,tax,2.8791
+India,elect_td_bld,rooftop_pv,rooftop_pv,2035,tax,3.1301
+India,elect_td_bld,rooftop_pv,rooftop_pv,2040,tax,1.9076
+India,elect_td_bld,rooftop_pv,rooftop_pv,2045,tax,0.6032
+India,elect_td_bld,rooftop_pv,rooftop_pv,2050,tax,-0.7176
+India,elect_td_bld,rooftop_pv,rooftop_pv,2055,tax,0.0061
+India,elect_td_bld,rooftop_pv,rooftop_pv,2060,tax,-1.5028
+India,elect_td_bld,rooftop_pv,rooftop_pv,2065,tax,-1.4878
+India,elect_td_bld,rooftop_pv,rooftop_pv,2070,tax,-2.859
+India,elect_td_bld,rooftop_pv,rooftop_pv,2075,tax,-2.8511
+India,elect_td_bld,rooftop_pv,rooftop_pv,2080,tax,-2.8728
+India,elect_td_bld,rooftop_pv,rooftop_pv,2085,tax,-4.1745
+India,elect_td_bld,rooftop_pv,rooftop_pv,2090,tax,-4.1974
+India,elect_td_bld,rooftop_pv,rooftop_pv,2095,tax,-4.2329
+India,elect_td_bld,rooftop_pv,rooftop_pv,2100,tax,-4.2693
+India,electricity,biomass,biomass (conv CCS),1990,tax,0.1224
+India,electricity,biomass,biomass (conv CCS),2005,tax,0.0852
+India,electricity,biomass,biomass (conv CCS),2010,tax,0.0953
+India,electricity,biomass,biomass (conv CCS),2015,tax,0.3
+India,electricity,biomass,biomass (conv CCS),2020,tax,-0.2
+India,electricity,biomass,biomass (conv CCS),2025,tax,-0.5
+India,electricity,biomass,biomass (conv CCS),2030,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2035,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2040,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2045,tax,-0.5
+India,electricity,biomass,biomass (conv CCS),2050,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2055,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2060,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2065,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2070,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2075,tax,-0.6
+India,electricity,biomass,biomass (conv CCS),2080,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2085,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2090,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2095,tax,-0.7
+India,electricity,biomass,biomass (conv CCS),2100,tax,-0.7
+India,electricity,biomass,biomass (conv),1990,tax,0.0727
+India,electricity,biomass,biomass (conv),2005,tax,0.1113
+India,electricity,biomass,biomass (conv),2010,tax,0.1246
+India,electricity,biomass,biomass (conv),2015,tax,0.1818
+India,electricity,biomass,biomass (conv),2020,tax,-0.18912
+India,electricity,biomass,biomass (conv),2025,tax,-0.40381
+India,electricity,biomass,biomass (conv),2030,tax,-0.50165
+India,electricity,biomass,biomass (conv),2035,tax,-0.56568
+India,electricity,biomass,biomass (conv),2040,tax,-0.57785
+India,electricity,biomass,biomass (conv),2045,tax,-0.57877
+India,electricity,biomass,biomass (conv),2050,tax,-0.61441
+India,electricity,biomass,biomass (conv),2055,tax,-0.64422
+India,electricity,biomass,biomass (conv),2060,tax,-0.68402
+India,electricity,biomass,biomass (conv),2065,tax,-0.72544
+India,electricity,biomass,biomass (conv),2070,tax,-0.73031
+India,electricity,biomass,biomass (conv),2075,tax,-0.71382
+India,electricity,biomass,biomass (conv),2080,tax,-0.73319
+India,electricity,biomass,biomass (conv),2085,tax,-0.74555
+India,electricity,biomass,biomass (conv),2090,tax,-0.74358
+India,electricity,biomass,biomass (conv),2095,tax,-0.73863
+India,electricity,biomass,biomass (conv),2100,tax,-0.71083
+India,electricity,biomass,biomass (IGCC CCS),1990,tax,0.0672
+India,electricity,biomass,biomass (IGCC CCS),2005,tax,0.0468
+India,electricity,biomass,biomass (IGCC CCS),2010,tax,0.0713
+India,electricity,biomass,biomass (IGCC CCS),2015,tax,0.2
+India,electricity,biomass,biomass (IGCC CCS),2020,tax,-0.2
+India,electricity,biomass,biomass (IGCC CCS),2025,tax,-0.4
+India,electricity,biomass,biomass (IGCC CCS),2030,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2035,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2040,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2045,tax,-0.4
+India,electricity,biomass,biomass (IGCC CCS),2050,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2055,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2060,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2065,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2070,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2075,tax,-0.5
+India,electricity,biomass,biomass (IGCC CCS),2080,tax,-0.6
+India,electricity,biomass,biomass (IGCC CCS),2085,tax,-0.6
+India,electricity,biomass,biomass (IGCC CCS),2090,tax,-0.6
+India,electricity,biomass,biomass (IGCC CCS),2095,tax,-0.6
+India,electricity,biomass,biomass (IGCC CCS),2100,tax,-0.6
+India,electricity,biomass,biomass (IGCC),1990,tax,0.0576
+India,electricity,biomass,biomass (IGCC),2005,tax,0.0401
+India,electricity,biomass,biomass (IGCC),2010,tax,0.0584
+India,electricity,biomass,biomass (IGCC),2015,tax,0.1512
+India,electricity,biomass,biomass (IGCC),2020,tax,-0.156
+India,electricity,biomass,biomass (IGCC),2025,tax,-0.3306
+India,electricity,biomass,biomass (IGCC),2030,tax,-0.4073
+India,electricity,biomass,biomass (IGCC),2035,tax,-0.4597
+India,electricity,biomass,biomass (IGCC),2040,tax,-0.4671
+India,electricity,biomass,biomass (IGCC),2045,tax,-0.4665
+India,electricity,biomass,biomass (IGCC),2050,tax,-0.4948
+India,electricity,biomass,biomass (IGCC),2055,tax,-0.5184
+India,electricity,biomass,biomass (IGCC),2060,tax,-0.5526
+India,electricity,biomass,biomass (IGCC),2065,tax,-0.585
+India,electricity,biomass,biomass (IGCC),2070,tax,-0.5895
+India,electricity,biomass,biomass (IGCC),2075,tax,-0.5778
+India,electricity,biomass,biomass (IGCC),2080,tax,-0.595
+India,electricity,biomass,biomass (IGCC),2085,tax,-0.605
+India,electricity,biomass,biomass (IGCC),2090,tax,-0.6046
+India,electricity,biomass,biomass (IGCC),2095,tax,-0.6018
+India,electricity,biomass,biomass (IGCC),2100,tax,-0.5787
+India,electricity,coal,coal (conv pul CCS),1990,tax,0
+India,electricity,coal,coal (conv pul CCS),2005,tax,0
+India,electricity,coal,coal (conv pul CCS),2010,tax,0
+India,electricity,coal,coal (conv pul CCS),2015,tax,0
+India,electricity,coal,coal (conv pul CCS),2020,tax,0
+India,electricity,coal,coal (conv pul CCS),2025,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2030,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2035,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2040,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2045,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2050,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2055,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2060,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2065,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2070,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2075,tax,-0.1
+India,electricity,coal,coal (conv pul CCS),2080,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2085,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2090,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2095,tax,-0.2
+India,electricity,coal,coal (conv pul CCS),2100,tax,-0.2
+India,electricity,coal,coal (conv pul),1990,tax,0
+India,electricity,coal,coal (conv pul),2005,tax,0
+India,electricity,coal,coal (conv pul),2010,tax,0
+India,electricity,coal,coal (conv pul),2015,tax,-0.03896
+India,electricity,coal,coal (conv pul),2020,tax,-0.05202
+India,electricity,coal,coal (conv pul),2025,tax,-0.07147
+India,electricity,coal,coal (conv pul),2030,tax,-0.09954
+India,electricity,coal,coal (conv pul),2035,tax,-0.10581
+India,electricity,coal,coal (conv pul),2040,tax,-0.10336
+India,electricity,coal,coal (conv pul),2045,tax,-0.11436
+India,electricity,coal,coal (conv pul),2050,tax,-0.13278
+India,electricity,coal,coal (conv pul),2055,tax,-0.1411
+India,electricity,coal,coal (conv pul),2060,tax,-0.14234
+India,electricity,coal,coal (conv pul),2065,tax,-0.14692
+India,electricity,coal,coal (conv pul),2070,tax,-0.14854
+India,electricity,coal,coal (conv pul),2075,tax,-0.1488
+India,electricity,coal,coal (conv pul),2080,tax,-0.15566
+India,electricity,coal,coal (conv pul),2085,tax,-0.1697
+India,electricity,coal,coal (conv pul),2090,tax,-0.18172
+India,electricity,coal,coal (conv pul),2095,tax,-0.1942
+India,electricity,coal,coal (conv pul),2100,tax,-0.1971
+India,electricity,coal,coal (IGCC CCS),1990,tax,0
+India,electricity,coal,coal (IGCC CCS),2005,tax,0
+India,electricity,coal,coal (IGCC CCS),2010,tax,0
+India,electricity,coal,coal (IGCC CCS),2015,tax,0
+India,electricity,coal,coal (IGCC CCS),2020,tax,0
+India,electricity,coal,coal (IGCC CCS),2025,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2030,tax,0
+India,electricity,coal,coal (IGCC CCS),2035,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2040,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2045,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2050,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2055,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2060,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2065,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2070,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2075,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2080,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2085,tax,-0.2
+India,electricity,coal,coal (IGCC CCS),2090,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2095,tax,-0.1
+India,electricity,coal,coal (IGCC CCS),2100,tax,-0.2
+India,electricity,coal,coal (IGCC),1990,tax,0
+India,electricity,coal,coal (IGCC),2005,tax,0
+India,electricity,coal,coal (IGCC),2010,tax,0
+India,electricity,coal,coal (IGCC),2015,tax,-0.03802
+India,electricity,coal,coal (IGCC),2020,tax,-0.04624
+India,electricity,coal,coal (IGCC),2025,tax,-0.06354
+India,electricity,coal,coal (IGCC),2030,tax,-0.08849
+India,electricity,coal,coal (IGCC),2035,tax,-0.09406
+India,electricity,coal,coal (IGCC),2040,tax,-0.09187
+India,electricity,coal,coal (IGCC),2045,tax,-0.10165
+India,electricity,coal,coal (IGCC),2050,tax,-0.11803
+India,electricity,coal,coal (IGCC),2055,tax,-0.12542
+India,electricity,coal,coal (IGCC),2060,tax,-0.12652
+India,electricity,coal,coal (IGCC),2065,tax,-0.13059
+India,electricity,coal,coal (IGCC),2070,tax,-0.13204
+India,electricity,coal,coal (IGCC),2075,tax,-0.13227
+India,electricity,coal,coal (IGCC),2080,tax,-0.13837
+India,electricity,coal,coal (IGCC),2085,tax,-0.15085
+India,electricity,coal,coal (IGCC),2090,tax,-0.16153
+India,electricity,coal,coal (IGCC),2095,tax,-0.17262
+India,electricity,coal,coal (IGCC),2100,tax,-0.1752
+India,electricity,gas,gas (CC CCS),1990,tax,0
+India,electricity,gas,gas (CC CCS),2005,tax,0
+India,electricity,gas,gas (CC CCS),2010,tax,0
+India,electricity,gas,gas (CC CCS),2015,tax,0.1
+India,electricity,gas,gas (CC CCS),2020,tax,0.1
+India,electricity,gas,gas (CC CCS),2025,tax,0
+India,electricity,gas,gas (CC CCS),2030,tax,0
+India,electricity,gas,gas (CC CCS),2035,tax,0
+India,electricity,gas,gas (CC CCS),2040,tax,0
+India,electricity,gas,gas (CC CCS),2045,tax,0
+India,electricity,gas,gas (CC CCS),2050,tax,-0.2
+India,electricity,gas,gas (CC CCS),2055,tax,-0.2
+India,electricity,gas,gas (CC CCS),2060,tax,-0.1
+India,electricity,gas,gas (CC CCS),2065,tax,0
+India,electricity,gas,gas (CC CCS),2070,tax,0
+India,electricity,gas,gas (CC CCS),2075,tax,0.2
+India,electricity,gas,gas (CC CCS),2080,tax,0.1
+India,electricity,gas,gas (CC CCS),2085,tax,-0.1
+India,electricity,gas,gas (CC CCS),2090,tax,-0.1
+India,electricity,gas,gas (CC CCS),2095,tax,-0.3
+India,electricity,gas,gas (CC CCS),2100,tax,-0.5
+India,electricity,gas,gas (CC),1990,tax,0
+India,electricity,gas,gas (CC),2005,tax,0
+India,electricity,gas,gas (CC),2010,tax,0
+India,electricity,gas,gas (CC),2015,tax,0.09121
+India,electricity,gas,gas (CC),2020,tax,-4.92968
+India,electricity,gas,gas (CC),2025,tax,-5.76209
+India,electricity,gas,gas (CC),2030,tax,-5.70569
+India,electricity,gas,gas (CC),2035,tax,-5.71734
+India,electricity,gas,gas (CC),2040,tax,-5.77784
+India,electricity,gas,gas (CC),2045,tax,-5.8005
+India,electricity,gas,gas (CC),2050,tax,-5.87682
+India,electricity,gas,gas (CC),2055,tax,-1.99734
+India,electricity,gas,gas (CC),2060,tax,-1.94065
+India,electricity,gas,gas (CC),2065,tax,-1.88935
+India,electricity,gas,gas (CC),2070,tax,-1.80124
+India,electricity,gas,gas (CC),2075,tax,-1.72085
+India,electricity,gas,gas (CC),2080,tax,-1.77527
+India,electricity,gas,gas (CC),2085,tax,-1.86777
+India,electricity,gas,gas (CC),2090,tax,-1.9614
+India,electricity,gas,gas (CC),2095,tax,-2.13613
+India,electricity,gas,gas (CC),2100,tax,-2.31395
+India,electricity,gas,gas (steam/CT),1990,tax,0
+India,electricity,gas,gas (steam/CT),2005,tax,0
+India,electricity,gas,gas (steam/CT),2010,tax,0
+India,electricity,gas,gas (steam/CT),2015,tax,0.1344
+India,electricity,gas,gas (steam/CT),2020,tax,0.1114
+India,electricity,gas,gas (steam/CT),2025,tax,-0.0405
+India,electricity,gas,gas (steam/CT),2030,tax,0.0407
+India,electricity,gas,gas (steam/CT),2035,tax,0.0202
+India,electricity,gas,gas (steam/CT),2040,tax,-0.0691
+India,electricity,gas,gas (steam/CT),2045,tax,-0.1053
+India,electricity,gas,gas (steam/CT),2050,tax,-0.2187
+India,electricity,gas,gas (steam/CT),2055,tax,-0.2368
+India,electricity,gas,gas (steam/CT),2060,tax,-0.1566
+India,electricity,gas,gas (steam/CT),2065,tax,-0.0841
+India,electricity,gas,gas (steam/CT),2070,tax,0.0405
+India,electricity,gas,gas (steam/CT),2075,tax,0.1543
+India,electricity,gas,gas (steam/CT),2080,tax,0.0773
+India,electricity,gas,gas (steam/CT),2085,tax,-0.0536
+India,electricity,gas,gas (steam/CT),2090,tax,-0.186
+India,electricity,gas,gas (steam/CT),2095,tax,-0.4332
+India,electricity,gas,gas (steam/CT),2100,tax,-0.6847
+India,electricity,geothermal,geothermal,1990,tax,0
+India,electricity,geothermal,geothermal,2005,tax,0
+India,electricity,geothermal,geothermal,2010,tax,0
+India,electricity,geothermal,geothermal,2015,tax,-0.11771
+India,electricity,geothermal,geothermal,2020,tax,-0.43526
+India,electricity,geothermal,geothermal,2025,tax,-0.09797
+India,electricity,geothermal,geothermal,2030,tax,0.39566
+India,electricity,geothermal,geothermal,2035,tax,0.71185
+India,electricity,geothermal,geothermal,2040,tax,0.77517
+India,electricity,geothermal,geothermal,2045,tax,0.6401
+India,electricity,geothermal,geothermal,2050,tax,0.57674
+India,electricity,geothermal,geothermal,2055,tax,0.69802
+India,electricity,geothermal,geothermal,2060,tax,0.4372
+India,electricity,geothermal,geothermal,2065,tax,0.5698
+India,electricity,geothermal,geothermal,2070,tax,0.67475
+India,electricity,geothermal,geothermal,2075,tax,0.74914
+India,electricity,geothermal,geothermal,2080,tax,0.79322
+India,electricity,geothermal,geothermal,2085,tax,0.74796
+India,electricity,geothermal,geothermal,2090,tax,0.5292
+India,electricity,geothermal,geothermal,2095,tax,0.67388
+India,electricity,geothermal,geothermal,2100,tax,0.64074
+India,electricity,nuclear,Gen_II_LWR,1990,tax,0.90829
+India,electricity,nuclear,Gen_II_LWR,2005,tax,0.90829
+India,electricity,nuclear,Gen_II_LWR,2010,tax,0.90829
+India,electricity,nuclear,Gen_II_LWR,2015,tax,0.93959
+India,electricity,nuclear,Gen_II_LWR,2020,tax,0.9494
+India,electricity,nuclear,Gen_II_LWR,2025,tax,0.94971
+India,electricity,nuclear,Gen_II_LWR,2030,tax,0.94995
+India,electricity,nuclear,Gen_II_LWR,2035,tax,0.94966
+India,electricity,nuclear,Gen_II_LWR,2040,tax,0.9493
+India,electricity,nuclear,Gen_II_LWR,2045,tax,0.94834
+India,electricity,nuclear,Gen_II_LWR,2050,tax,0.94659
+India,electricity,nuclear,Gen_II_LWR,2055,tax,0.94485
+India,electricity,nuclear,Gen_II_LWR,2060,tax,0.94257
+India,electricity,nuclear,Gen_II_LWR,2065,tax,0.94195
+India,electricity,nuclear,Gen_II_LWR,2070,tax,0.95251
+India,electricity,nuclear,Gen_II_LWR,2075,tax,0.95178
+India,electricity,nuclear,Gen_II_LWR,2080,tax,0.95185
+India,electricity,nuclear,Gen_II_LWR,2085,tax,0.95257
+India,electricity,nuclear,Gen_II_LWR,2090,tax,0.95317
+India,electricity,nuclear,Gen_II_LWR,2095,tax,0.9537
+India,electricity,nuclear,Gen_II_LWR,2100,tax,0.95423
+India,electricity,nuclear,Gen_III,1990,tax,0.74411
+India,electricity,nuclear,Gen_III,2005,tax,0.7441
+India,electricity,nuclear,Gen_III,2010,tax,0.7441
+India,electricity,nuclear,Gen_III,2015,tax,0.18277
+India,electricity,nuclear,Gen_III,2020,tax,0.19073
+India,electricity,nuclear,Gen_III,2025,tax,0.18956
+India,electricity,nuclear,Gen_III,2030,tax,0.18981
+India,electricity,nuclear,Gen_III,2035,tax,0.18952
+India,electricity,nuclear,Gen_III,2040,tax,0.18915
+India,electricity,nuclear,Gen_III,2045,tax,0.18818
+India,electricity,nuclear,Gen_III,2050,tax,0.18644
+India,electricity,nuclear,Gen_III,2055,tax,0.1847
+India,electricity,nuclear,Gen_III,2060,tax,0.18243
+India,electricity,nuclear,Gen_III,2065,tax,0.18181
+India,electricity,nuclear,Gen_III,2070,tax,0.19237
+India,electricity,nuclear,Gen_III,2075,tax,0.19164
+India,electricity,nuclear,Gen_III,2080,tax,0.19169
+India,electricity,nuclear,Gen_III,2085,tax,0.19242
+India,electricity,nuclear,Gen_III,2090,tax,0.19304
+India,electricity,nuclear,Gen_III,2095,tax,0.19356
+India,electricity,nuclear,Gen_III,2100,tax,0.19406
+India,electricity,refined liquids,refined liquids (CC CCS),1990,tax,0
+India,electricity,refined liquids,refined liquids (CC CCS),2005,tax,0.0014
+India,electricity,refined liquids,refined liquids (CC CCS),2010,tax,0.0014
+India,electricity,refined liquids,refined liquids (CC CCS),2015,tax,-0.4
+India,electricity,refined liquids,refined liquids (CC CCS),2020,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2025,tax,-0.1
+India,electricity,refined liquids,refined liquids (CC CCS),2030,tax,0.1
+India,electricity,refined liquids,refined liquids (CC CCS),2035,tax,0.2
+India,electricity,refined liquids,refined liquids (CC CCS),2040,tax,0
+India,electricity,refined liquids,refined liquids (CC CCS),2045,tax,-0.2
+India,electricity,refined liquids,refined liquids (CC CCS),2050,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2055,tax,-0.2
+India,electricity,refined liquids,refined liquids (CC CCS),2060,tax,-0.2
+India,electricity,refined liquids,refined liquids (CC CCS),2065,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2070,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2075,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2080,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2085,tax,0
+India,electricity,refined liquids,refined liquids (CC CCS),2090,tax,-0.4
+India,electricity,refined liquids,refined liquids (CC CCS),2095,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC CCS),2100,tax,-0.3
+India,electricity,refined liquids,refined liquids (CC),1990,tax,0
+India,electricity,refined liquids,refined liquids (CC),2005,tax,0.0012
+India,electricity,refined liquids,refined liquids (CC),2010,tax,0.001
+India,electricity,refined liquids,refined liquids (CC),2015,tax,-0.2954
+India,electricity,refined liquids,refined liquids (CC),2020,tax,-0.2492
+India,electricity,refined liquids,refined liquids (CC),2025,tax,-0.0906
+India,electricity,refined liquids,refined liquids (CC),2030,tax,0.092
+India,electricity,refined liquids,refined liquids (CC),2035,tax,0.1722
+India,electricity,refined liquids,refined liquids (CC),2040,tax,0.028
+India,electricity,refined liquids,refined liquids (CC),2045,tax,-0.1892
+India,electricity,refined liquids,refined liquids (CC),2050,tax,-0.2703
+India,electricity,refined liquids,refined liquids (CC),2055,tax,-0.2818
+India,electricity,refined liquids,refined liquids (CC),2060,tax,-0.2583
+India,electricity,refined liquids,refined liquids (CC),2065,tax,-0.262
+India,electricity,refined liquids,refined liquids (CC),2070,tax,-0.2803
+India,electricity,refined liquids,refined liquids (CC),2075,tax,-0.3136
+India,electricity,refined liquids,refined liquids (CC),2080,tax,-0.304
+India,electricity,refined liquids,refined liquids (CC),2085,tax,-0.0197
+India,electricity,refined liquids,refined liquids (CC),2090,tax,-0.3902
+India,electricity,refined liquids,refined liquids (CC),2095,tax,-0.3228
+India,electricity,refined liquids,refined liquids (CC),2100,tax,-0.2632
+India,electricity,refined liquids,refined liquids (steam/CT),1990,tax,0
+India,electricity,refined liquids,refined liquids (steam/CT),2005,tax,0.0021
+India,electricity,refined liquids,refined liquids (steam/CT),2010,tax,0.0029
+India,electricity,refined liquids,refined liquids (steam/CT),2015,tax,-0.4515
+India,electricity,refined liquids,refined liquids (steam/CT),2020,tax,-0.3816
+India,electricity,refined liquids,refined liquids (steam/CT),2025,tax,-0.138
+India,electricity,refined liquids,refined liquids (steam/CT),2030,tax,0.1399
+India,electricity,refined liquids,refined liquids (steam/CT),2035,tax,0.262
+India,electricity,refined liquids,refined liquids (steam/CT),2040,tax,0.0425
+India,electricity,refined liquids,refined liquids (steam/CT),2045,tax,-0.2864
+India,electricity,refined liquids,refined liquids (steam/CT),2050,tax,-0.4084
+India,electricity,refined liquids,refined liquids (steam/CT),2055,tax,-0.4244
+India,electricity,refined liquids,refined liquids (steam/CT),2060,tax,-0.3878
+India,electricity,refined liquids,refined liquids (steam/CT),2065,tax,-0.3921
+India,electricity,refined liquids,refined liquids (steam/CT),2070,tax,-0.4184
+India,electricity,refined liquids,refined liquids (steam/CT),2075,tax,-0.4665
+India,electricity,refined liquids,refined liquids (steam/CT),2080,tax,-0.4506
+India,electricity,refined liquids,refined liquids (steam/CT),2085,tax,-0.029
+India,electricity,refined liquids,refined liquids (steam/CT),2090,tax,-0.5755
+India,electricity,refined liquids,refined liquids (steam/CT),2095,tax,-0.4746
+India,electricity,refined liquids,refined liquids (steam/CT),2100,tax,-0.3861
+India,electricity,solar,CSP,1990,tax,0.94674
+India,electricity,solar,CSP,2005,tax,0.9467
+India,electricity,solar,CSP,2010,tax,-1.38305
+India,electricity,solar,CSP,2015,tax,2.74622607
+India,electricity,solar,CSP,2020,tax,-0.28567735
+India,electricity,solar,CSP,2025,tax,-1.07313024
+India,electricity,solar,CSP,2030,tax,-1.87004299
+India,electricity,solar,CSP,2035,tax,-2.47487427
+India,electricity,solar,CSP,2040,tax,-2.71589944
+India,electricity,solar,CSP,2045,tax,-2.94525428
+India,electricity,solar,CSP,2050,tax,-3.03961314
+India,electricity,solar,CSP,2055,tax,-3.11261726
+India,electricity,solar,CSP,2060,tax,-2.957732018
+India,electricity,solar,CSP,2065,tax,-2.802838443
+India,electricity,solar,CSP,2070,tax,-2.647944871
+India,electricity,solar,CSP,2075,tax,-2.493059626
+India,electricity,solar,CSP,2080,tax,-2.338166054
+India,electricity,solar,CSP,2085,tax,-2.183272479
+India,electricity,solar,CSP,2090,tax,-2.028378907
+India,electricity,solar,CSP,2095,tax,-1.873493662
+India,electricity,solar,CSP,2100,tax,-1.71860009
+India,electricity,solar,CSP_storage,1990,tax,1.7415
+India,electricity,solar,CSP_storage,2005,tax,1.7415
+India,electricity,solar,CSP_storage,2010,tax,1.7415
+India,electricity,solar,CSP_storage,2015,tax,1.7415
+India,electricity,solar,CSP_storage,2020,tax,1.13191
+India,electricity,solar,CSP_storage,2025,tax,1.3669
+India,electricity,solar,CSP_storage,2030,tax,1.296
+India,electricity,solar,CSP_storage,2035,tax,1.23974
+India,electricity,solar,CSP_storage,2040,tax,1.19488
+India,electricity,solar,CSP_storage,2045,tax,1.15882
+India,electricity,solar,CSP_storage,2050,tax,1.13041
+India,electricity,solar,CSP_storage,2055,tax,1.10701
+India,electricity,solar,CSP_storage,2060,tax,1.08805
+India,electricity,solar,CSP_storage,2065,tax,1.07287
+India,electricity,solar,CSP_storage,2070,tax,1.06023
+India,electricity,solar,CSP_storage,2075,tax,1.05075
+India,electricity,solar,CSP_storage,2080,tax,1.04253
+India,electricity,solar,CSP_storage,2085,tax,1.03558
+India,electricity,solar,CSP_storage,2090,tax,1.02988
+India,electricity,solar,CSP_storage,2095,tax,1.02546
+India,electricity,solar,CSP_storage,2100,tax,1.02167
+India,electricity,solar,PV,1990,tax,-0.49220248
+India,electricity,solar,PV,2005,tax,-0.49220248
+India,electricity,solar,PV,2010,tax,-0.49220248
+India,electricity,solar,PV,2015,tax,-0.57439403
+India,electricity,solar,PV,2020,tax,0.86304884
+India,electricity,solar,PV,2025,tax,0.81485915
+India,electricity,solar,PV,2030,tax,0.65091477
+India,electricity,solar,PV,2035,tax,0.61353641
+India,electricity,solar,PV,2040,tax,0.48282708
+India,electricity,solar,PV,2045,tax,0.35689917
+India,electricity,solar,PV,2050,tax,0.24415765
+India,electricity,solar,PV,2055,tax,0.23644407
+India,electricity,solar,PV,2060,tax,0.14542216
+India,electricity,solar,PV,2065,tax,0.1405741
+India,electricity,solar,PV,2070,tax,0.0579405
+India,electricity,solar,PV,2075,tax,0.05587466
+India,electricity,solar,PV,2080,tax,0.05379216
+India,electricity,solar,PV,2085,tax,-0.01757095
+India,electricity,solar,PV,2090,tax,-0.01682958
+India,electricity,solar,PV,2095,tax,-0.01608821
+India,electricity,solar,PV,2100,tax,-0.01534684
+India,electricity,solar,PV_storage,1990,tax,5.3745
+India,electricity,solar,PV_storage,2005,tax,5.3745
+India,electricity,solar,PV_storage,2010,tax,5.3745
+India,electricity,solar,PV_storage,2015,tax,5.3745
+India,electricity,solar,PV_storage,2020,tax,3.602
+India,electricity,solar,PV_storage,2025,tax,4.4573
+India,electricity,solar,PV_storage,2030,tax,4.3047
+India,electricity,solar,PV_storage,2035,tax,4.1769
+India,electricity,solar,PV_storage,2040,tax,4.0634
+India,electricity,solar,PV_storage,2045,tax,3.9676
+India,electricity,solar,PV_storage,2050,tax,3.886
+India,electricity,solar,PV_storage,2055,tax,3.815
+India,electricity,solar,PV_storage,2060,tax,3.7547
+India,electricity,solar,PV_storage,2065,tax,3.7014
+India,electricity,solar,PV_storage,2070,tax,3.6588
+India,electricity,solar,PV_storage,2075,tax,3.6198
+India,electricity,solar,PV_storage,2080,tax,3.5879
+India,electricity,solar,PV_storage,2085,tax,3.5594
+India,electricity,solar,PV_storage,2090,tax,3.5346
+India,electricity,solar,PV_storage,2095,tax,3.5134
+India,electricity,solar,PV_storage,2100,tax,3.4956
+India,electricity,wind,wind,1990,tax,3.10903177
+India,electricity,wind,wind,2005,tax,3.10903177
+India,electricity,wind,wind,2010,tax,3.10903177
+India,electricity,wind,wind,2015,tax,3.72138016
+India,electricity,wind,wind,2020,tax,2.35686689
+India,electricity,wind,wind,2025,tax,2.24631772
+India,electricity,wind,wind,2030,tax,2.14163956
+India,electricity,wind,wind,2035,tax,2.11249656
+India,electricity,wind,wind,2040,tax,2.07661261
+India,electricity,wind,wind,2045,tax,2.04167828
+India,electricity,wind,wind,2050,tax,2.00687723
+India,electricity,wind,wind,2055,tax,1.98511659
+India,electricity,wind,wind,2060,tax,1.96235635
+India,electricity,wind,wind,2065,tax,1.94043744
+India,electricity,wind,wind,2070,tax,1.91866847
+India,electricity,wind,wind,2075,tax,1.89672457
+India,electricity,wind,wind,2080,tax,1.87507222
+India,electricity,wind,wind,2085,tax,1.85391967
+India,electricity,wind,wind,2090,tax,1.83243392
+India,electricity,wind,wind,2095,tax,1.81118141
+India,electricity,wind,wind,2100,tax,1.78982061
+India,electricity,wind,wind_storage,1990,tax,-0.3718
+India,electricity,wind,wind_storage,2005,tax,-0.2967
+India,electricity,wind,wind_storage,2010,tax,-0.5733
+India,electricity,wind,wind_storage,2015,tax,-0.5794
+India,electricity,wind,wind_storage,2020,tax,-0.5644
+India,electricity,wind,wind_storage,2025,tax,-0.5495
+India,electricity,wind,wind_storage,2030,tax,-0.5372
+India,electricity,wind,wind_storage,2035,tax,-0.5264
+India,electricity,wind,wind_storage,2040,tax,-0.5152
+India,electricity,wind,wind_storage,2045,tax,-0.4943
+India,electricity,wind,wind_storage,2050,tax,0.057
+India,electricity,wind,wind_storage,2055,tax,1.189
+India,electricity,wind,wind_storage,2060,tax,0.9785
+India,electricity,wind,wind_storage,2065,tax,1.0749
+India,electricity,wind,wind_storage,2070,tax,1.1687
+India,electricity,wind,wind_storage,2075,tax,1.7864
+India,electricity,wind,wind_storage,2080,tax,2.3014
+India,electricity,wind,wind_storage,2085,tax,1.871
+India,electricity,wind,wind_storage,2090,tax,1.5091
+India,electricity,wind,wind_storage,2095,tax,1.3004
+India,electricity,wind,wind_storage,2100,tax,1.6942

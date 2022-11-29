@@ -1,0 +1,34 @@
+# File:A54.india_globaltranTech_shrwt.csv
+# Title: Transportation technology default shareweights
+# Units: Unitless
+# Column types: ccciiiiii
+# ----------
+supplysector,tranSubsector,tranTechnology,1971,2010,2015,2020,2050,2100
+trn_aviation_intl,Air International,Liquids,1,1,1,1,1,1
+trn_freight,Freight Rail,Coal,1,1,0,0,0,0
+trn_freight,Freight Rail,Electric,1,1,1,1,1,1
+trn_freight,Freight Rail,Liquids,1,1,1,1,1,1
+trn_freight,Ship Domestic,Liquids,1,1,1,1,1,1
+trn_freight_road,Truck,Liquids,1,1,1,1,1,1
+trn_freight_road,Truck,NG,0,0,1,1,1,1
+trn_freight_road,Truck,Electric,0,0,0,1,1,1
+trn_freight_road,Truck,FCEV,0,0,0,1,1,1
+trn_pass,HSR,Electric,0,0,0,1,1,1
+trn_pass,Passenger Rail,Electric,1,1,1,1,1,1
+trn_pass,Air Domestic,Liquids,1,1,1,1,1,1
+trn_pass,Passenger Rail,Liquids,1,1,1,1,1,1
+trn_pass_road,Bus,Liquids,1,1,1,1,1,1
+trn_pass_road,Bus,Electric,0,0,0,1,1,1
+trn_pass_road,Bus,NG,0,0,0,1,1,1
+trn_pass_road_LDV_2W,LDV_2W,Electric,1,1,1,1,1,1
+trn_pass_road_LDV_2W,LDV_2W,Liquids,1,1,1,1,1,1
+trn_pass_road_LDV,LDV_3W,Electric,0,0,0,1,1,1
+trn_pass_road_LDV,LDV_3W,NG,0,0,0,1,1,1
+trn_pass_road_LDV,LDV_3W,Liquids,1,1,1,1,1,1
+trn_pass_road_LDV_4W,LDV_4W,Electric,0,0,0,1,1,1
+trn_pass_road_LDV_4W,LDV_4W,FCEV,0,0,0,1,1,1
+trn_pass_road_LDV_4W,LDV_4W,NG,0,0,0,1,1,1
+trn_pass_road_LDV_4W,LDV_4W,Liquids,1,1,1,1,1,1
+trn_shipping_intl,Ship International,Liquids,1,1,1,1,1,1
+trn_pass,Walk,Walk,1,1,1,1,1,1
+trn_pass,Cycle,Cycle,1,1,1,1,1,1

@@ -1,0 +1,25 @@
+# File: A54.india_tranSubsectorShrwtFllt.csv
+# Title: Transport subsector shareweight
+# Units: Unitless
+# Column types: cccin
+# ----------
+region,supplysector,tranSubsector,year.fillout,share.weight
+India,trn_aviation_intl,Air International,1975,1
+India,trn_freight,Ship Domestic,1975,1
+India,trn_freight,Freight Rail,1975,1
+India,trn_freight,road,1975,1
+India,trn_freight_road,Truck,1975,1
+India,trn_pass,Cycle,1975,1
+India,trn_pass,Air Domestic,1975,1
+India,trn_pass,HSR,2015,0.001
+India,trn_pass,Passenger Rail,1975,1
+India,trn_pass,Walk,1975,1
+India,trn_pass,road,1975,1
+India,trn_pass_road,LDV,1975,1
+India,trn_pass_road,Bus,1975,1
+India,trn_pass_road_LDV,LDV_3W,1975,1
+India,trn_pass_road_LDV,4W,1975,1
+India,trn_pass_road_LDV,2W,1975,1
+India,trn_pass_road_LDV_4W,LDV_4W,1975,1
+India,trn_pass_road_LDV_2W,LDV_2W,1975,1
+India,trn_shipping_intl,Ship International,1975,1

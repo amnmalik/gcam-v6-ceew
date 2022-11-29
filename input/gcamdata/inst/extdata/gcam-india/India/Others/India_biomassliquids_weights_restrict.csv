@@ -1,0 +1,7 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndusSharewt,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+India,refining,biomass liquids,share-weight,2010,2100,0.017,0.25,linear
+India,refining,biomass liquids,share-weight,2095,2100,0.25,0.25,fixed

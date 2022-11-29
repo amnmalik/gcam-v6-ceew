@@ -1,0 +1,21 @@
+# File: A32.india_state_calibrated_techs.csv
+# Title: Mapping from calibrated intermediate sectors and fuels to supplysector / subsector / technology / input in GCAM
+# Units: n/a
+# Column types: cccccccc
+# ----------
+sector,fuel,supplysector,subsector,technology,minicam.energy.input,calibration,secondary.output
+agriculture energy use,electricity,agriculture energy use,electricity,electricity,elect_td_ind,input,
+agriculture energy use,refined liquids,agriculture energy use,refined liquids,refined liquids,refined liquids industrial,input,
+chp_elec,biomass,industrial energy use,biomass,biomass cogen,delivered biomass,input,electricity
+chp_elec,coal,industrial energy use,coal,coal cogen,delivered coal,input,electricity
+chp_elec,gas,industrial energy use,gas,gas cogen,wholesale gas,input,electricity
+chp_elec,refined liquids,industrial energy use,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+chp_elec,refined liquids,agriculture energy use,refined liquids,refined liquids cogen,refined liquids industrial,input,electricity
+industrial energy use,biomass,industrial energy use,biomass,biomass,delivered biomass,input,
+industrial energy use,coal,industrial energy use,coal,coal,delivered coal,input,
+industrial energy use,electricity,industrial energy use,electricity,electricity,elect_td_ind,input,
+industrial energy use,gas,industrial energy use,gas,gas,wholesale gas,input,
+industrial energy use,refined liquids,industrial energy use,refined liquids,refined liquids,refined liquids industrial,input,
+industrial feedstocks,coal,industrial feedstocks,coal,coal,delivered coal,input,
+industrial feedstocks,gas,industrial feedstocks,gas,gas,wholesale gas,input,
+industrial feedstocks,refined liquids,industrial feedstocks,refined liquids,refined liquids,refined liquids industrial,input,

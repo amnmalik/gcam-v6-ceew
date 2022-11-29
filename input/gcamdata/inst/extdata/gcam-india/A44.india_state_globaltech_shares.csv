@@ -1,0 +1,12 @@
+# File: A44.india_state_globaltech_shares.csv
+# Title: Base Year Exogenous Shares for Selected Technologies
+# Units: Unitless
+# Comments: Base year exogenous shares assigned to selected efficiency-partitioned technologies whose shares are not calculated from aggregate average efficiency
+# Source: Furnace/heat: Annual Energy Outlook, ~2009 edition. Lighting: https://www1.eere.energy.gov/buildings/publications/pdfs/ssl/lmc_vol1_final.pdf. All other technologies are not partitioned in the base year (i.e., all shares are allocated to the base technology)
+# Column types: ccccnn
+# ----------
+supplysector,subsector,technology1,technology2,share_tech1,share_tech2
+resid rural air conditioners,electricity,air conditioner (hi-eff),air conditioner (lo-eff),0.425,0.575
+resid urban air conditioners,electricity,air conditioner (hi-eff),air conditioner (lo-eff),0.5183333,0.4816667
+resid rural lighting,electricity,hi-eff,lo-eff,0.29,0.71
+resid urban lighting,electricity,hi-eff,lo-eff,0.6828571,0.3171429

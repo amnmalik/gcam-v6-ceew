@@ -1,0 +1,49 @@
+# File: A10.EB_FuelMap.csv
+# Title: Converting ASI-MOSPI fuel to GCAM_fuel
+# Units: NA
+# Column types:ccc
+# ---
+GHG_Platform_fuels,GCAM_fuel,description
+Aviation Turbine Fuel,refined liquids,ATF
+Biomass for Power,biomass,Biomass_P
+Captive electricity,electricity,Captive electricity
+CNG,gas,CNG/ Natural Gas
+Coal and products,coal,Coal/ coke/ charcoal/lignite
+Coal for Power,coal,Coal_P
+Coal for traction,coal,Coal for traction 
+Crude Oil,crude oil,in oil refining
+Diesel and products,refined liquids,HSDO/HSD/Diesel/LDO/HSDO-Retail/LSHS/Diesel-retails/HHS
+Electricity,electricity,Electricity for consumption at the demand side
+Ethanol ,refined liquids (ethanol),fuel ethanol_excluding denaturant
+Gas for Power,gas,Gas_P
+Generated Electricity,electricity,Electricity own generated
+Geothermal for Power,geothermal,Geothermal_P
+Hydro for Power,hydro,Hydro_P
+hydrogen enduse,hydrogen,in pass sector
+Hydrogen Fuel,hydrogen,
+Ind_enuse Biomass,biomass,
+Ind_enuse Coal,coal,
+Ind_enuse Electricity,electricity,
+Ind_enuse Gas,gas,
+Ind_enuse Refined Liquids,refined liquids,
+refined liquids (const feed),refined liquids (const feed),feedstock
+refined liquids (petchem feed),refined liquids (petchem feed),feedstock
+LPG,refined liquids,LPG/Auto LPG
+Mined Coal,coal,Coal from underground mining and opencast mining
+Naphtha,refined liquids,Naptha 
+Nuclear for Power,nuclear,Nuclear_P
+Oil for Power,refined liquids,Oil_P
+Other Oils,refined liquids,other refined liquids  Motor spirit Kerosene Oil FO 
+Purchased Electricity,electricity,Electricity purchased
+Solar for Power,solar,Solar_P
+Trad biomass_resid,traditional biomass,In resid sector
+Wind for Power,wind,Wind_P
+Wood and waste,biomass,in comm sector and resid sector
+FuelWood,biomass,
+Ind_enuse Hydrogen,hydrogen,
+Natural gas,gas,
+coal,coal,
+electricity,electricity,
+gas,gas,
+hydrogen,hydrogen,
+oil,refined liquids,

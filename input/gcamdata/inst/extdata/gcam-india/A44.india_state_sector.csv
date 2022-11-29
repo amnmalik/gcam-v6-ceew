@@ -1,0 +1,24 @@
+# File: A44.india_state_sector.csv
+# Title: Building sector default supplysector information (units and logit exponents)
+# Units: NA
+# Source: None (GCAM assumptions)
+# Column types: ccccicc
+# ----------
+supplysector,output.unit,input.unit,price.unit,logit.exponent,logit.type,final.energy
+resid rural cooling,EJ,EJ,1975$/GJ,-3,,building
+resid urban cooling,EJ,EJ,1975$/GJ,-3,,building
+resid rural coolers,EJ,EJ,1975$/GJ,-3,,building
+resid urban coolers,EJ,EJ,1975$/GJ,-3,,building
+resid rural lighting,petalumen-hours,EJ,1975$/megalumen-hours,-3,,building
+resid urban lighting,petalumen-hours,EJ,1975$/megalumen-hours,-3,,building
+resid rural space heating,EJ,EJ,1975$/GJ,-3,,building
+resid urban space heating,EJ,EJ,1975$/GJ,-3,,building
+resid rural cooking,EJ,EJ,1975$/GJ,-3,,building
+resid urban cooking,EJ,EJ,1975$/GJ,-3,,building
+resid rural apploth,EJ,EJ,1975$/GJ,-3,,building
+resid urban apploth,EJ,EJ,1975$/GJ,-3,,building
+comm hvac,EJ,EJ,1975$/GJ,-3,,building
+comm lighting,petalumen-hours,EJ,1975$/megalumen-hours,-3,,building
+comm ref,EJ,EJ,1975$/GJ,-3,,building
+comm others,EJ,EJ,1975$/GJ,-3,,building
+comm cooking,EJ,EJ,1975$/GJ,-3,,building

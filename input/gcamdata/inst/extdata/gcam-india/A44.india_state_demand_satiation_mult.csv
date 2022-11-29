@@ -1,0 +1,24 @@
+# File: A44.india_state_demand_satiation_mult.csv
+# Title: India Demand Satiation Multipliers
+# Units: Increase in demand per unit floorspace
+# Source: None (GCAM assumptions)
+# Column types: cn
+# ----------
+supplysector,multiplier
+resid rural cooling,63.7
+resid urban cooling,16.2
+resid rural coolers,1.1
+resid urban coolers,1.1
+resid rural lighting,1.3
+resid urban lighting,1.2
+resid rural space heating,57
+resid urban space heating,29
+resid rural cooking,1.01
+resid urban cooking,1.01
+resid rural apploth,1.01
+resid urban apploth,1.01
+comm hvac,1.13
+comm lighting,1.01
+comm ref,1.01
+comm others,1.01
+comm cooking,1.97

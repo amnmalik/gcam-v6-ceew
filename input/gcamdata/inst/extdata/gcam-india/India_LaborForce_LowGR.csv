@@ -1,0 +1,29 @@
+# File: India_LaborForce.csv,,
+# Title: Labor Force value for the region,,
+# Units: NA,,
+# Source: Currently taken from the core data system of the model,,
+# Column types: cin,,
+# ----------,,
+region,year,laborforce
+India,1975,0.431506
+India,1990,0.430164
+India,2005,0.452655905
+India,2010,0.474291747
+India,2015,0.498199308
+India,2020,0.429985791
+India,2025,0.438115462
+India,2030,0.420188744
+India,2035,0.389316269
+India,2040,0.355286189
+India,2045,0.319099105
+India,2050,0.288427961
+India,2055,0.262581257
+India,2060,0.24553111
+India,2065,0.243458317
+India,2070,0.23489209
+India,2075,0.224699998
+India,2080,0.214227264
+India,2085,0.203352749
+India,2090,0.194557052
+India,2095,0.187391769
+India,2100,0.185907016

@@ -1,0 +1,16 @@
+# File: A54.india_tranSubsectorVOTT.csv
+# Title: Modes with value of time travelled
+# Unit: Unitless
+# Column types: cccinn
+# ----------
+region,supplysector,tranSubsector,year.fillout,addTimeValue,time.value.multiplier
+India,trn_aviation_intl,Air International,1975,1,1.291
+India,trn_pass,Cycle,1975,1,1.066
+India,trn_pass,Air Domestic,1975,1,1.244
+India,trn_pass,HSR,1975,1,0.8
+India,trn_pass,Passenger Rail,1975,1,0.8
+India,trn_pass,Walk,1975,1,1.066
+India,trn_pass_road,Bus,1975,1,0.808
+India,trn_pass_road_LDV,LDV_3W,1975,1,0.82
+India,trn_pass_road_LDV,2W,1975,1,0.82
+India,trn_pass_road_LDV,4W,1975,1,0.82

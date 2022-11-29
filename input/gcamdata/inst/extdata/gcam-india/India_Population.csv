@@ -1,0 +1,29 @@
+# File: India_Population.csv
+# Title: Total population for the region
+# Units: thausands
+# Source: Currently taken from the core data system of the model
+# Column types: cin
+# ----------
+region,year,totalPop
+India,1975,606142
+India,1990,849515
+India,2005,1147609.924
+India,2010,1234281.163
+India,2015,1310152.392
+India,2020,1380004.385
+India,2025,1445011.62
+India,2030,1503642.327
+India,2035,1553723.81
+India,2040,1592691.52
+India,2045,1620619.203
+India,2050,1639176.036
+India,2055,1649297.977
+India,2060,1651018.523
+India,2065,1644308.538
+India,2070,1629325.556
+India,2075,1607268.682
+India,2080,1580043.792
+India,2085,1549223.739
+India,2090,1516335.379
+India,2095,1482011.297
+India,2100,1447025.612

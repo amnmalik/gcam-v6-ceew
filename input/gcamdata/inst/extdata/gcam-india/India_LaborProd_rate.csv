@@ -1,0 +1,28 @@
+# File: India_LaborProd_rate.csv
+# Title: The labor productivity growth rate of the region
+# Units: NA
+# Source: Currently taken from the core data system of the model
+# Column types: cin
+# ----------
+region,year,laborproductivity
+India,1990,0.0258
+India,2005,0.0394
+India,2010,0.06135
+India,2015,0.0448089
+India,2020,0.054
+India,2025,0.0509
+India,2030,0.054
+India,2035,0.0567
+India,2040,0.0575
+India,2045,0.0583
+India,2050,0.0544
+India,2055,0.0509
+India,2060,0.04368
+India,2065,0.03
+India,2070,0.0341
+India,2075,0.03432
+India,2080,0.0335
+India,2085,0.03294
+India,2090,0.03
+India,2095,0.0274
+India,2100,0.02

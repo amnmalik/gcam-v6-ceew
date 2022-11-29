@@ -1,0 +1,42 @@
+# File: A32.India_state_industry_priceelas.csv
+# Title: Price Elasticity of different industries
+# Units: NA
+# Column types: ccni
+# ----------
+region,energy.final.demand,year,price.elasticity
+India,industry,2015,-1
+India,industry,2020,-1
+India,industry,2025,-1
+India,industry,2030,-1
+India,industry,2035,-1
+India,industry,2040,-1
+India,industry,2045,-1
+India,industry,2050,-1
+India,industry,2055,-1
+India,industry,2060,-1
+India,industry,2065,-1
+India,industry,2070,-1
+India,industry,2075,-1
+India,industry,2080,-1
+India,industry,2085,-1
+India,industry,2090,-1
+India,industry,2095,-1
+India,industry,2100,-1
+India,agriculture,2015,-1
+India,agriculture,2020,-1
+India,agriculture,2025,-1
+India,agriculture,2030,-1
+India,agriculture,2035,-1
+India,agriculture,2040,-1
+India,agriculture,2045,-1
+India,agriculture,2050,-1
+India,agriculture,2055,-1
+India,agriculture,2060,-1
+India,agriculture,2065,-1
+India,agriculture,2070,-1
+India,agriculture,2075,-1
+India,agriculture,2080,-1
+India,agriculture,2085,-1
+India,agriculture,2090,-1
+India,agriculture,2095,-1
+India,agriculture,2100,-1

@@ -1,0 +1,55 @@
+# File: A44.india_state_globaltech_eff.csv
+# Title: Building default technology efficiency
+# Units: Unitless
+# Source: ASSUMED
+# Column types: ccccnnnnnnnnnnnnnnnnnnnn
+# ----------
+supplysector,subsector,technology,minicam.energy.input,1971,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100
+resid rural cooling,electricity,air conditioner (hi-eff),elect_td_res,3.1,3.1,3.37,3.64,3.91,4.18,4.45,4.72,4.99,5.2,5.21,5.22,5.23,5.24,5.25,5.26,5.27,5.28,5.29,5.3
+resid rural cooling,electricity,air conditioner (lo-eff),elect_td_res,2.3,2.3,2.5,2.7,2.9,3.1,3.3,3.5,3.7,3.9,3.91,3.92,3.93,3.94,3.95,3.96,3.97,3.98,3.99,4
+resid urban cooling,electricity,air conditioner (hi-eff),elect_td_res,3.1,3.1,3.37,3.64,3.91,4.18,4.45,4.72,4.99,5.2,5.21,5.22,5.23,5.24,5.25,5.26,5.27,5.28,5.29,5.3
+resid urban cooling,electricity,air conditioner (lo-eff),elect_td_res,2.3,2.3,2.5,2.7,2.9,3.1,3.3,3.5,3.7,3.9,3.91,3.92,3.93,3.94,3.95,3.96,3.97,3.98,3.99,4
+resid rural coolers,electricity,desert coolers,elect_td_res,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+resid urban coolers,electricity,desert coolers,elect_td_res,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+resid rural lighting,electricity,hi-eff,elect_td_res,29.217,29.217,29.217,29.217,29.597,29.976,30.356,30.735,31.115,31.494,31.873,32.253,32.632,33.075,33.517,33.96,34.34,34.719,35.099,35.099
+resid rural lighting,electricity,lo-eff,elect_td_res,15.937,15.937,15.937,15.937,16.19,16.443,16.696,16.696,16.696,16.696,16.696,16.696,16.696,16.949,17.201,17.454,17.454,17.454,17.454,17.454
+resid urban lighting,electricity,hi-eff,elect_td_res,29.217,29.217,29.217,29.217,29.597,29.976,30.356,30.735,31.115,31.494,31.873,32.253,32.632,33.075,33.517,33.96,34.34,34.719,35.099,35.099
+resid urban lighting,electricity,lo-eff,elect_td_res,15.937,15.937,15.937,15.937,16.19,16.443,16.696,16.696,16.696,16.696,16.696,16.696,16.696,16.949,17.201,17.454,17.454,17.454,17.454,17.454
+resid rural space heating,electricity,room heaters,elect_td_res,1,0.8,0.8,0.8,0.7,0.6,0.5,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+resid urban space heating,electricity,room heaters,elect_td_res,1,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8
+resid rural cooking,electricity,electricity,elect_td_res,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73
+resid urban cooking,electricity,electricity,elect_td_res,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73
+resid rural apploth,electricity,Elec-based app,elect_td_res,1,1,1,1,1.013,1.025,1.038,1.051,1.065,1.078,1.092,1.105,1.119,1.133,1.148,1.162,1.177,1.191,1.206,1.221
+resid urban apploth,electricity,Elec-based app,elect_td_res,1,1,1,1,1.013,1.025,1.038,1.051,1.065,1.078,1.092,1.105,1.119,1.133,1.148,1.162,1.177,1.191,1.206,1.221
+resid rural space heating,coal,coal burners,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban space heating,coal,coal burners,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid rural cooking,coal,coal,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban cooking,coal,coal,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid rural apploth,coal,Coal-based app,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban apploth,coal,Coal-based app,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid rural space heating,biomass,fire heaters,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban space heating,biomass,fire heaters,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid rural cooking,biomass,biomass,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban cooking,biomass,biomass,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban cooking,refined liquids,refined liquids,refined liquids enduse,0.4,0.3,0.3,0.365,0.42,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid rural cooking,refined liquids,refined liquids,refined liquids enduse,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid rural cooking,traditional biomass,traditional biomass,traditional biomass,0.1,0.1,0.1,0.15,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+resid urban cooking,traditional biomass,traditional biomass,traditional biomass,0.1,0.1,0.1,0.15,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+resid rural apploth,biomass,biomass-based app,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid urban apploth,biomass,biomass-based app,delivered biomass,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+resid rural apploth,refined liquids,RL-based app,refined liquids enduse,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+resid urban apploth,refined liquids,RL-based app,refined liquids enduse,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+resid rural apploth,gas,Gas-based app,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid urban apploth,gas,Gas-based app,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid rural cooking,gas,gas based cooking,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid urban cooking,gas,gas based cooking,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+comm hvac,electricity,heating-cooling appl,elect_td_com,2.4,2.3,2.5,2.7,2.9,3.1,3.3,3.5,3.7,3.9,3.91,3.92,3.93,3.94,3.95,3.96,3.97,3.98,3.99,4
+comm lighting,electricity,electricity based lighting,elect_td_com,15.937,15.937,15.937,15.937,16.19,16.443,16.696,16.696,16.696,16.696,16.696,16.696,16.696,16.949,17.201,17.454,17.454,17.454,17.454,17.454
+comm ref,electricity,electricity based ref,elect_td_com,1,1,1,1,1.013,1.025,1.038,1.051,1.065,1.078,1.092,1.105,1.119,1.133,1.148,1.162,1.177,1.191,1.206,1.221
+comm others,electricity,electricity based others,elect_td_com,1,1,1,1,1.013,1.025,1.038,1.051,1.065,1.078,1.092,1.105,1.119,1.133,1.148,1.162,1.177,1.191,1.206,1.221
+comm others,coal,coal based others,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122
+comm others,biomass,biomass based others,delivered biomass,0.1,0.1,0.1,0.15,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+comm others,refined liquids,refined liquids based others,refined liquids enduse,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+comm cooking,refined liquids,refined liquids based cooking,refined liquids enduse,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+comm cooking,gas,gas based cooking,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+comm cooking,electricity,electric cooking,elect_td_com,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73

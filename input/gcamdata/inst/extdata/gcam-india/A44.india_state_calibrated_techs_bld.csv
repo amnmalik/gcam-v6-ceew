@@ -1,0 +1,55 @@
+# File: A44.india_state_calibrated_techs_bld.csv
+# Title: Mapping between the sectors / services / fuels in Level1 processing to the technology names in GCAM
+# Units: NA
+# Source: None (GCAM assumptions
+# Column types: ccccccc
+# ----------
+supplysector,subsector,technology,minicam.energy.input,sector,fuel,service
+resid rural cooling,electricity,air conditioner (hi-eff),elect_td_res,resid rural,electricity,resid rural cooling
+resid rural cooling,electricity,air conditioner (lo-eff),elect_td_res,resid rural,electricity,resid rural cooling
+resid urban cooling,electricity,air conditioner (hi-eff),elect_td_res,resid urban,electricity,resid urban cooling
+resid urban cooling,electricity,air conditioner (lo-eff),elect_td_res,resid urban,electricity,resid urban cooling
+resid rural coolers,electricity,desert coolers,elect_td_res,resid rural,electricity,resid rural coolers
+resid urban coolers,electricity,desert coolers,elect_td_res,resid urban,electricity,resid urban coolers
+resid rural lighting,electricity,hi-eff,elect_td_res,resid rural,electricity,resid rural lighting
+resid rural lighting,electricity,lo-eff,elect_td_res,resid rural,electricity,resid rural lighting
+resid urban lighting,electricity,hi-eff,elect_td_res,resid urban,electricity,resid urban lighting
+resid urban lighting,electricity,lo-eff,elect_td_res,resid urban,electricity,resid urban lighting
+resid rural space heating,electricity,room heaters,elect_td_res,resid rural,electricity,resid rural space heating
+resid urban space heating,electricity,room heaters,elect_td_res,resid urban,electricity,resid urban space heating
+resid rural cooking,electricity,electricity,elect_td_res,resid rural,electricity,resid rural cooking
+resid urban cooking,electricity,electricity,elect_td_res,resid urban,electricity,resid urban cooking
+resid rural apploth,electricity,Elec-based app,elect_td_res,resid rural,electricity,resid rural apploth
+resid urban apploth,electricity,Elec-based app,elect_td_res,resid urban,electricity,resid urban apploth
+resid rural space heating,coal,coal burners,delivered coal,resid rural,coal,resid rural space heating
+resid urban space heating,coal,coal burners,delivered coal,resid urban,coal,resid urban space heating
+resid rural cooking,coal,coal,delivered coal,resid rural,coal,resid rural cooking
+resid urban cooking,coal,coal,delivered coal,resid urban,coal,resid urban cooking
+resid rural cooking,gas,gas based cooking,delivered gas,resid rural,gas,resid rural cooking
+resid urban cooking,gas,gas based cooking,delivered gas,resid urban,gas,resid urban cooking
+resid rural apploth,coal,Coal-based app,delivered coal,resid rural,coal,resid rural apploth
+resid urban apploth,coal,Coal-based app,delivered coal,resid urban,coal,resid urban apploth
+resid rural space heating,biomass,fire heaters,delivered biomass,resid rural,biomass,resid rural space heating
+resid urban space heating,biomass,fire heaters,delivered biomass,resid urban,biomass,resid urban space heating
+resid rural cooking,biomass,biomass,delivered biomass,resid rural,biomass,resid rural cooking
+resid urban cooking,biomass,biomass,delivered biomass,resid urban,biomass,resid urban cooking
+resid urban cooking,refined liquids,refined liquids,refined liquids enduse,resid urban,refined liquids,resid urban cooking
+resid rural cooking,refined liquids,refined liquids,refined liquids enduse,resid rural,refined liquids,resid rural cooking
+resid rural cooking,traditional biomass,traditional biomass,traditional biomass,resid rural,traditional biomass,resid rural cooking
+resid urban cooking,traditional biomass,traditional biomass,traditional biomass,resid urban,traditional biomass,resid urban cooking
+resid rural apploth,biomass,biomass-based app,delivered biomass,resid rural,biomass,resid rural apploth
+resid urban apploth,biomass,biomass-based app,delivered biomass,resid urban,biomass,resid urban apploth
+resid rural apploth,refined liquids,RL-based app,refined liquids enduse,resid rural,refined liquids,resid rural apploth
+resid urban apploth,refined liquids,RL-based app,refined liquids enduse,resid urban,refined liquids,resid urban apploth
+resid rural apploth,gas,Gas-based app,delivered gas,resid rural,gas,resid rural apploth
+resid urban apploth,gas,Gas-based app,delivered gas,resid urban,gas,resid urban apploth
+comm hvac,electricity,heating-cooling appl,elect_td_com,comm,electricity,comm hvac
+comm lighting,electricity,electricity based lighting,elect_td_com,comm,electricity,comm lighting
+comm ref,electricity,electricity based ref,elect_td_com,comm,electricity,comm ref
+comm others,electricity,electricity based others,elect_td_com,comm,electricity,comm others
+comm others,coal,coal based others,delivered coal,comm,coal,comm others
+comm others,biomass,biomass based others,delivered biomass,comm,biomass,comm others
+comm others,refined liquids,refined liquids based others,refined liquids enduse,comm,refined liquids,comm others
+comm cooking,refined liquids,refined liquids based cooking,refined liquids enduse,comm,refined liquids,comm cooking
+comm cooking,gas,gas based cooking,delivered gas,comm,gas,comm cooking
+comm cooking,electricity,electric cooking,elect_td_com,comm,electricity,comm cooking

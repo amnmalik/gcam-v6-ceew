@@ -1,0 +1,72 @@
+# File: A44.india_state_globaltech_interp.csv
+# Title: Share-weight interpolation rule over-writes for selected technologies
+# Units: NA
+# Comments:  Can be useful for smoothing behavior of efficiency-partitioned technologies
+# Source: None (GCAM assumptions)
+# Column types: cccccicn
+# ----------
+supplysector,subsector,technology,apply.to,from.year,to.year,interpolation.function,to.value
+resid rural cooling,electricity,air conditioner (hi-eff),share-weight,final-calibration-year,2100,s-curve,1
+resid rural cooling,electricity,air conditioner (lo-eff),share-weight,final-calibration-year,2100,s-curve,1
+resid urban cooling,electricity,air conditioner (hi-eff),share-weight,final-calibration-year,2100,s-curve,1
+resid urban cooling,electricity,air conditioner (lo-eff),share-weight,final-calibration-year,2100,s-curve,1
+resid rural coolers,electricity,desert coolers,share-weight,final-calibration-year,2100,s-curve,1
+resid urban coolers,electricity,desert coolers,share-weight,final-calibration-year,2100,s-curve,1
+resid rural lighting,electricity,hi-eff,share-weight,final-calibration-year,2100,s-curve,1
+resid rural lighting,electricity,lo-eff,share-weight,final-calibration-year,2100,s-curve,1
+resid urban lighting,electricity,hi-eff,share-weight,final-calibration-year,2100,s-curve,1
+resid urban lighting,electricity,lo-eff,share-weight,final-calibration-year,2100,s-curve,1
+resid rural space heating,electricity,room heaters,share-weight,final-calibration-year,2100,s-curve,1
+resid urban space heating,electricity,room heaters,share-weight,final-calibration-year,2100,s-curve,1
+resid rural cooking,electricity,electricity,share-weight,final-calibration-year,2100,s-curve,1
+resid urban cooking,electricity,electricity,share-weight,final-calibration-year,2100,s-curve,1
+resid rural apploth,electricity,Elec-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid urban apploth,electricity,Elec-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid rural space heating,coal,coal burners,share-weight,final-calibration-year,2030,s-curve,0
+resid rural space heating,coal,coal burners,share-weight,2030,2100,fixed,0
+resid urban space heating,coal,coal burners,share-weight,final-calibration-year,2030,s-curve,0
+resid urban space heating,coal,coal burners,share-weight,2030,2100,fixed,0
+resid rural cooking,coal,coal,share-weight,final-calibration-year,2030,s-curve,0
+resid rural cooking,coal,coal,share-weight,2030,2100,fixed,0
+resid urban cooking,coal,coal,share-weight,final-calibration-year,2030,s-curve,0
+resid urban cooking,coal,coal,share-weight,2030,2100,fixed,0
+resid rural apploth,coal,Coal-based app,share-weight,final-calibration-year,2030,s-curve,0
+resid rural apploth,coal,Coal-based app,share-weight,2030,2100,fixed,0
+resid urban apploth,coal,Coal-based app,share-weight,final-calibration-year,2030,s-curve,0
+resid urban apploth,coal,Coal-based app,share-weight,2030,2100,fixed,0
+resid rural space heating,biomass,fire heaters,share-weight,final-calibration-year,2030,linear,0
+resid rural space heating,biomass,fire heaters,share-weight,2030,2100,fixed,0
+resid urban space heating,biomass,fire heaters,share-weight,final-calibration-year,2030,linear,0
+resid urban space heating,biomass,fire heaters,share-weight,2030,2100,fixed,0
+resid rural cooking,biomass,biomass,share-weight,final-calibration-year,2030,linear,0
+resid rural cooking,biomass,biomass,share-weight,2030,2100,fixed,0
+resid urban cooking,biomass,biomass,share-weight,final-calibration-year,2030,linear,0
+resid urban cooking,biomass,biomass,share-weight,2030,2100,fixed,0
+resid urban cooking,refined liquids,refined liquids,share-weight,final-calibration-year,2100,s-curve,1
+resid rural cooking,refined liquids,refined liquids,share-weight,final-calibration-year,2100,s-curve,1
+resid rural cooking,traditional biomass,traditional biomass,share-weight,final-calibration-year,2040,linear,0
+resid rural cooking,traditional biomass,traditional biomass,share-weight,2040,2100,fixed,0
+resid urban cooking,traditional biomass,traditional biomass,share-weight,final-calibration-year,2040,linear,0
+resid urban cooking,traditional biomass,traditional biomass,share-weight,2040,2100,fixed,0
+resid rural apploth,biomass,biomass-based app,share-weight,final-calibration-year,2030,linear,0
+resid rural apploth,biomass,biomass-based app,share-weight,2030,2100,fixed,0
+resid urban apploth,biomass,biomass-based app,share-weight,final-calibration-year,2030,linear,0
+resid urban apploth,biomass,biomass-based app,share-weight,2030,2100,fixed,0
+resid rural apploth,refined liquids,RL-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid urban apploth,refined liquids,RL-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid rural apploth,gas,Gas-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid urban apploth,gas,Gas-based app,share-weight,final-calibration-year,2100,s-curve,1
+resid rural cooking,gas,gas based cooking,share-weight,final-calibration-year,2100,s-curve,1
+resid urban cooking,gas,gas based cooking,share-weight,final-calibration-year,2100,s-curve,1
+comm hvac,electricity,heating-cooling appl,share-weight,final-calibration-year,2100,s-curve,1
+comm lighting,electricity,electricity based lighting,share-weight,final-calibration-year,2100,s-curve,1
+comm ref,electricity,electricity based ref,share-weight,final-calibration-year,2100,s-curve,1
+comm others,electricity,electricity based others,share-weight,final-calibration-year,2100,s-curve,1
+comm others,coal,coal based others,share-weight,final-calibration-year,2030,linear,0
+comm others,coal,coal based others,share-weight,2030,2100,fixed,0
+comm others,biomass,biomass based others,share-weight,final-calibration-year,2030,linear,0
+comm others,biomass,biomass based others,share-weight,2030,2100,fixed,0
+comm others,refined liquids,refined liquids based others,share-weight,final-calibration-year,2100,s-curve,1
+comm cooking,refined liquids,refined liquids based cooking,share-weight,final-calibration-year,2100,s-curve,1
+comm cooking,gas,gas based cooking,share-weight,final-calibration-year,2100,s-curve,1
+comm cooking,electricity,electric cooking,share-weight,final-calibration-year,2100,s-curve,1

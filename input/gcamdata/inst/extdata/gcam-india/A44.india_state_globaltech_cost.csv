@@ -1,0 +1,55 @@
+# File: A44.india_state_globaltech_cost.csv
+# Title: Building technology costs
+# Units: 1975$/GJ
+# Source: Unpublished inputs to the NEMS model provided by EIA
+# Column types: cccnnnnnnnnnnnnnnnnnnnn
+# ----------
+supplysector,subsector,technology,1971,2010,2015,2020,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070,2075,2080,2085,2090,2095,2100
+resid rural cooling,electricity,air conditioner (hi-eff),2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463
+resid rural cooling,electricity,air conditioner (lo-eff),1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088
+resid urban cooling,electricity,air conditioner (hi-eff),2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463,2.1463
+resid urban cooling,electricity,air conditioner (lo-eff),1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088
+resid rural coolers,electricity,desert coolers,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid urban coolers,electricity,desert coolers,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+resid rural lighting,electricity,hi-eff,0.296,1.5,2.0531,1.539825,1.23186,1.047081,0.9423729,0.84813561,0.763322049,0.686989844,0.61829086,0.556461774,0.500815596,0.450734037,0.405660633,0.36509457,0.328585113,0.295726601,0.266153941,0.239538547
+resid rural lighting,electricity,lo-eff,0.1742,0.2945,0.2931,0.2916,0.2901,0.2887,0.2873,0.2858,0.2844,0.283,0.2816,0.2802,0.2788,0.2774,0.276,0.2746,0.2732,0.2719,0.2705,0.2705
+resid urban lighting,electricity,hi-eff,0.296,1.5,2.0531,1.539825,1.23186,1.047081,0.9423729,0.84813561,0.763322049,0.686989844,0.61829086,0.556461774,0.500815596,0.450734037,0.405660633,0.36509457,0.328585113,0.295726601,0.266153941,0.239538547
+resid urban lighting,electricity,lo-eff,0.1742,0.2945,0.2931,0.2916,0.2901,0.2887,0.2873,0.2858,0.2844,0.283,0.2816,0.2802,0.2788,0.2774,0.276,0.2746,0.2732,0.2719,0.2705,0.2705
+resid rural space heating,electricity,room heaters,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+resid urban space heating,electricity,room heaters,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+resid rural cooking,electricity,electricity,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+resid urban cooking,electricity,electricity,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+resid rural cooking,gas,gas based cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+resid urban cooking,gas,gas based cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+resid rural apploth,electricity,Elec-based app,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+resid urban apploth,electricity,Elec-based app,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+resid rural space heating,coal,coal burners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban space heating,coal,coal burners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural cooking,coal,coal,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban cooking,coal,coal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural apploth,coal,Coal-based app,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban apploth,coal,Coal-based app,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural space heating,biomass,fire heaters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban space heating,biomass,fire heaters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural cooking,biomass,biomass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban cooking,biomass,biomass,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban cooking,refined liquids,refined liquids,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+resid rural cooking,refined liquids,refined liquids,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+resid rural cooking,traditional biomass,traditional biomass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban cooking,traditional biomass,traditional biomass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural apploth,biomass,biomass-based app,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid urban apploth,biomass,biomass-based app,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+resid rural apploth,refined liquids,RL-based app,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+resid urban apploth,refined liquids,RL-based app,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+resid rural apploth,gas,Gas-based app,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+resid urban apploth,gas,Gas-based app,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+comm hvac,electricity,heating-cooling appl,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088,1.088
+comm lighting,electricity,electricity based lighting,0.296,0.2945,0.2931,0.2916,0.2901,0.2887,0.2873,0.2858,0.2844,0.283,0.2816,0.2802,0.2788,0.2774,0.276,0.2746,0.2732,0.2719,0.2705,0.2705
+comm ref,electricity,electricity based ref,3.91027904,3.890173969,8.038286285,14.82053059,14.93808467,16.26116585,16.18231018,16.09782196,16.01896629,15.94011062,15.86125495,15.78239928,15.70354361,15.62468794,15.54583227,15.4669766,15.38812093,15.3148978,15.23604213,15.23604213
+comm others,electricity,electricity based others,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+comm others,coal,coal based others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+comm others,biomass,biomass based others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+comm others,refined liquids,refined liquids based others,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+comm cooking,refined liquids,refined liquids based cooking,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+comm cooking,gas,gas based cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+comm cooking,electricity,electric cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709

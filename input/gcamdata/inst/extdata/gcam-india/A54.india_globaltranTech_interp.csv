@@ -1,0 +1,32 @@
+# File: A54.india_globaltranTech_interp.csv
+# Title: Transportation technology default shareweights. Not including single-technology subsectors
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,tranSubsector,tranTechnology,apply.to,from.year,to.year,interpolation.function
+trn_aviation_intl,Air International,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Freight Rail,Coal,share-weight,final-calibration-year,2015,linear
+trn_freight,Freight Rail,Electric,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Freight Rail,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Ship Domestic,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight_road,Truck,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight_road,Truck,NG,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,Electric,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,FCEV,share-weight,2015,end-year,linear
+trn_pass,HSR,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass,Passenger Rail,Electric,share-weight,final-calibration-year,end-year,fixed
+trn_pass,Air Domestic,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass,Passenger Rail,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road,Bus,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road,Bus,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass_road,Bus,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_2W,LDV_2W,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_2W,LDV_2W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road_LDV,LDV_3W,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV,LDV_3W,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV,LDV_3W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road_LDV_4W,LDV_4W,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,FCEV,share-weight,2015,end-year,linear
+trn_pass_road_LDV_4W,LDV_4W,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_shipping_intl,Ship International,Liquids,share-weight,final-calibration-year,end-year,fixed

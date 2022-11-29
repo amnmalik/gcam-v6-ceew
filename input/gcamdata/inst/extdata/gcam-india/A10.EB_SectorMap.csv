@@ -1,0 +1,56 @@
+# File: A10.EB_SectorMap.csv
+# Title: Convert ASI and MOSPI sector to GCAM_sector name
+# Units: NA
+# Column types:ccc
+# ----------
+GHG_Platform_sectors,GCAM_sector,description
+Agriculture_enuse,Agriculture_enuse,Agriculture energy use
+Biofuel production,corn ethanol,biofuels energy losses and coproducts
+Biomass Power,electricity,Coal PowerElectricity
+Captive Coal Power,electricity,Captive Coal PowerElectricity
+Captive Gas Power ,electricity,Captive Gas Power Electricity
+Captive Oil Power,electricity,Captive Oil PowerElectricity
+CGD,gas pipeline,gas pipeline losses
+Chem_Fert_enuse,Chem_Fert_enuse,Chemical and Fertilizers energy use
+Chem_Fert_fsuse,Chem_Fert_fsuse,Chemical and Fertilizers feedstocks use
+CNG bus sector,trn_bus_CNG,vehicle consumption (natural gas only)
+Coal Power,electricity,Coal PowerElectricity
+Commercial,comm,CommercialBuilding
+Electricity sector cons,electricity_input,electric power sector consumption
+Electricity sector output,electricity_output,electric power sector generation
+Fisheries_enuse,Fisheries_enuse,Fisheries energy use
+Freight_sector,trn_freight,Rail Ship domestic and intl truck
+Gas Power,electricity,Gas PowerElectricity
+Geothermal Power,electricity,Geothermal PowerElectricity
+Hydro Power,electricity,Hydro PowerElectricity
+Iron and Steel_enuse,Iron and Steel_enuse,Iron and Steel energy use
+Net elec dom imports,electricity dom imports,net electricity imports from other states (positive = import; negative = export)
+Net elec intl imports,electricity intl imports,"net electricity imports from other countries (positive = import; negative = export), other industrial users, population query, "
+Non-Ferrous Metals_enuse,Non-Ferrous Metals_enuse,Non-Ferrous Metals energy use
+Nuclear Power,electricity,Nuclear PowerElectricity
+Oil Power,electricity,Oil PowerElectricity
+Other Industries_enuse,Other Industries_enuse,Other industries energy use
+Other Industries_fsuse,Other Industries_fsuse,Other industries feedstocks use
+Paper and Pulp_enuse,Paper and Pulp_enuse,Paper and Pulp energy use
+Pass_sector,trn_passenger,Air dom_intlbusHSRLDV_2W3W4W Rail
+Petrochem Refinery,Petrochem Refinery,
+Residential,resid,overall residential sector
+Residential Rural,resid rural,Residential_RuralBuilding
+Residential Urban,resid urban,Residential_UrbanBuilding
+Solar Power,electricity,Solar PowerElectricity
+Wind Power,electricity,Wind PowerElectricity
+trn_aviation_intl,trn_passenger,
+trn_freight_rail,trn_freight,
+trn_freight_dom_ship,trn_freight,
+trn_freight_road_truck,trn_freight,
+trn_pass_dom_aviation,trn_passenger,
+trn_pass_rail,trn_passenger,
+trn_pass_road_bus,trn_passenger,
+trn_pass_road_LDV_2W,trn_passenger,
+trn_pass_road_LDV_3W,trn_passenger,
+trn_pass_road_LDV_4W,trn_passenger,
+trn_shipping_intl,trn_passenger,
+Iron and Steel_fsuse,Iron and Steel_fsuse,
+Agriculture energy use,agriculture energy use,
+Industrial Energy Use,industrial energy use,
+Industrial Feedstocks,industrial feedstocks,

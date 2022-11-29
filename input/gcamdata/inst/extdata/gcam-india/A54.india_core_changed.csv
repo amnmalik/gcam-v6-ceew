@@ -1,0 +1,2086 @@
+# File: A54.india_core_changed.csv
+# Title: Core Value Changed
+# Units:EJ
+# Column types: nccccccnn
+# ----------
+GCAM_region_ID,UCD_sector,mode,size.class,UCD_technology,UCD_fuel,fuel,year,value
+17,Freight,Rail,All,Coal,Coal,coal,1971,0.32119178
+17,Freight,Rail,All,Coal,Coal,coal,1972,0.30909424
+17,Freight,Rail,All,Coal,Coal,coal,1973,0.28083874
+17,Freight,Rail,All,Coal,Coal,coal,1974,0.2852759
+17,Freight,Rail,All,Coal,Coal,coal,1975,0.28849912
+17,Freight,Rail,All,Coal,Coal,coal,1976,0.26572728
+17,Freight,Rail,All,Coal,Coal,coal,1977,0.26087152
+17,Freight,Rail,All,Coal,Coal,coal,1978,0.23508576
+17,Freight,Rail,All,Coal,Coal,coal,1979,0.2201836
+17,Freight,Rail,All,Coal,Coal,coal,1980,0.22889048
+17,Freight,Rail,All,Coal,Coal,coal,1981,0.21821618
+17,Freight,Rail,All,Coal,Coal,coal,1982,0.2122302
+17,Freight,Rail,All,Coal,Coal,coal,1983,0.20737444
+17,Freight,Rail,All,Coal,Coal,coal,1984,0.1833468
+17,Freight,Rail,All,Coal,Coal,coal,1985,0.18623514
+17,Freight,Rail,All,Coal,Coal,coal,1986,0.1573936
+17,Freight,Rail,All,Coal,Coal,coal,1987,0.14634256
+17,Freight,Rail,All,Coal,Coal,coal,1988,0.13064506
+17,Freight,Rail,All,Coal,Coal,coal,1989,0.1123941
+17,Freight,Rail,All,Coal,Coal,coal,1990,0.10155236
+17,Freight,Rail,All,Coal,Coal,coal,1991,0.09807798
+17,Freight,Rail,All,Coal,Coal,coal,1992,0.08409674
+17,Freight,Rail,All,Coal,Coal,coal,1993,0.03876236
+17,Freight,Rail,All,Coal,Coal,coal,1994,0.01293474
+17,Freight,Rail,All,Coal,Coal,coal,1995,0.00519064
+17,Freight,Rail,All,Coal,Coal,coal,1996,0.00267904
+17,Freight,Rail,All,Coal,Coal,coal,1997,0.00117208
+17,Freight,Rail,All,Coal,Coal,coal,1998,0
+17,Freight,Rail,All,Coal,Coal,coal,1999,0
+17,Freight,Rail,All,Coal,Coal,coal,2000,0
+17,Freight,Rail,All,Coal,Coal,coal,2001,0
+17,Freight,Rail,All,Coal,Coal,coal,2002,0
+17,Freight,Rail,All,Coal,Coal,coal,2003,0
+17,Freight,Rail,All,Coal,Coal,coal,2004,0
+17,Freight,Rail,All,Coal,Coal,coal,2005,0
+17,Freight,Rail,All,Coal,Coal,coal,2006,0
+17,Freight,Rail,All,Coal,Coal,coal,2007,0
+17,Freight,Rail,All,Coal,Coal,coal,2008,0
+17,Freight,Rail,All,Coal,Coal,coal,2009,0
+17,Freight,Rail,All,Coal,Coal,coal,2010,0
+17,Freight,Rail,All,Electric,Electricity,electricity,1971,0.003048153
+17,Freight,Rail,All,Electric,Electricity,electricity,1972,0.003417776
+17,Freight,Rail,All,Electric,Electricity,electricity,1973,0.00287419
+17,Freight,Rail,All,Electric,Electricity,electricity,1974,0.002873489
+17,Freight,Rail,All,Electric,Electricity,electricity,1975,0.003483193
+17,Freight,Rail,All,Electric,Electricity,electricity,1976,0.004050626
+17,Freight,Rail,All,Electric,Electricity,electricity,1977,0.004310503
+17,Freight,Rail,All,Electric,Electricity,electricity,1978,0.004094668
+17,Freight,Rail,All,Electric,Electricity,electricity,1979,0.004310865
+17,Freight,Rail,All,Electric,Electricity,electricity,1980,0.004246519
+17,Freight,Rail,All,Electric,Electricity,electricity,1981,0.004684372
+17,Freight,Rail,All,Electric,Electricity,electricity,1982,0.004923196
+17,Freight,Rail,All,Electric,Electricity,electricity,1983,0.005076319
+17,Freight,Rail,All,Electric,Electricity,electricity,1984,0.005402695
+17,Freight,Rail,All,Electric,Electricity,electricity,1985,0.005772667
+17,Freight,Rail,All,Electric,Electricity,electricity,1986,0.006047077
+17,Freight,Rail,All,Electric,Electricity,electricity,1987,0.0067336
+17,Freight,Rail,All,Electric,Electricity,electricity,1988,0.007501971
+17,Freight,Rail,All,Electric,Electricity,electricity,1989,0.007567815
+17,Freight,Rail,All,Electric,Electricity,electricity,1990,0.007655631
+17,Freight,Rail,All,Electric,Electricity,electricity,1991,0.008414208
+17,Freight,Rail,All,Electric,Electricity,electricity,1992,0.009444386
+17,Freight,Rail,All,Electric,Electricity,electricity,1993,0.010456648
+17,Freight,Rail,All,Electric,Electricity,electricity,1994,0.010959783
+17,Freight,Rail,All,Electric,Electricity,electricity,1995,0.01158854
+17,Freight,Rail,All,Electric,Electricity,electricity,1996,0.012281729
+17,Freight,Rail,All,Electric,Electricity,electricity,1997,0.012954006
+17,Freight,Rail,All,Electric,Electricity,electricity,1998,0.013626033
+17,Freight,Rail,All,Electric,Electricity,electricity,1999,0.015100416
+17,Freight,Rail,All,Electric,Electricity,electricity,2000,0.015329522
+17,Freight,Rail,All,Electric,Electricity,electricity,2001,0.015148188
+17,Freight,Rail,All,Electric,Electricity,electricity,2002,0.016451036
+17,Freight,Rail,All,Electric,Electricity,electricity,2003,0.017200216
+17,Freight,Rail,All,Electric,Electricity,electricity,2004,0.017745596
+17,Freight,Rail,All,Electric,Electricity,electricity,2005,0.018579343
+17,Freight,Rail,All,Electric,Electricity,electricity,2006,0.020145301
+17,Freight,Rail,All,Electric,Electricity,electricity,2007,0.020709772
+17,Freight,Rail,All,Electric,Electricity,electricity,2008,0.021735302
+17,Freight,Rail,All,Electric,Electricity,electricity,2009,0.022892194
+17,Freight,Rail,All,Electric,Electricity,electricity,2010,0.024237862
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1971,0.004851601
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1972,0.005098328
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1973,0.005305328
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1974,0.005868479
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1975,0.006274812
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1976,0.006597509
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1977,0.007072144
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1978,0.00757675
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1979,0.008486295
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1980,0.008843143
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1981,0.009146324
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1982,0.010014051
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1983,0.010739595
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1984,0.011526473
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1985,0.012391412
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1986,0.013962213
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1987,0.015355528
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1988,0.016808358
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1989,0.018134146
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1990,0.018432654
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1991,0.019354036
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1992,0.019969911
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1993,0.021681295
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1994,0.023245773
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1995,0.026064315
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1996,0.02066727
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1997,0.02141459
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1998,0.022477967
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1999,0.023574299
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2000,0.023795975
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2001,0.02322028
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2002,0.023891778
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2003,0.024258394
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2004,0.025281443
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2005,0.025472567
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2006,0.029429967
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2007,0.033394974
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2008,0.035979114
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2009,0.037196867
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2010,0.041598067
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1971,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1972,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1973,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1974,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1975,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1976,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1977,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1978,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1979,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1980,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1981,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1982,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1983,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1984,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1985,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1986,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1987,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1988,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1989,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1990,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1991,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1992,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1993,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1994,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1995,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1996,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1997,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1998,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,1999,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2000,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2001,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2002,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2003,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2004,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2005,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2006,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2007,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2008,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2009,0
+17,Freight,Rail,All,Tech-Adv-Electric,Electricity,electricity,2010,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1971,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1972,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1973,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1974,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1975,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1976,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1977,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1978,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1979,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1980,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1981,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1982,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1983,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1984,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1985,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1986,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1987,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1988,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1989,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1990,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1991,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1992,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1993,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1994,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1995,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1996,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1997,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1998,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1999,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2000,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2001,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2002,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2003,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2004,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2005,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2006,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2007,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2008,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2009,0
+17,Freight,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2010,0
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1971,0.001180119
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1972,0.001240134
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1973,0.001290485
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1974,0.001427468
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1975,0.001526306
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1976,0.001604799
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1977,0.001720251
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1978,0.001842993
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1979,0.002064234
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1980,0.002151035
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1981,0.002224782
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1982,0.00243585
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1983,0.002612334
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1984,0.002803737
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1985,0.003014127
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1986,0.003396214
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1987,0.003735128
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1988,0.004088519
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1989,0.004411008
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1990,0.004483619
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1991,0.004707739
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1992,0.004857546
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1993,0.005273829
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1994,0.005654377
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1995,0.006339969
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1996,0.005027174
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1997,0.005208954
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1998,0.005467614
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,1999,0.005734289
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2000,0.00578821
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2001,0.005648176
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2002,0.005811514
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2003,0.005900691
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2004,0.00614954
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2005,0.00619603
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2006,0.007158641
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2007,0.008123102
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2008,0.008751676
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2009,0.009047887
+17,Freight,Ship Domestic,All,Liquids,Liquids,refined liquids,2010,0.010118449
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1971,0.000131124
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1972,0.000137793
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1973,0.000143387
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1974,0.000158608
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1975,0.00016959
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1976,0.000178311
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1977,0.000191139
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1978,0.000204777
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1979,0.000229359
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1980,0.000239004
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1981,0.000247198
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1982,0.00027065
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1983,0.000290259
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1984,0.000311526
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1985,0.000334903
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1986,0.000377357
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1987,0.000415014
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1988,0.00045428
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1989,0.000490112
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1990,0.00049818
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1991,0.000523082
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1992,0.000539727
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1993,0.000585981
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1994,0.000628264
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1995,0.000704441
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1996,0.000558575
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1997,0.000578773
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1998,0.000607513
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,1999,0.000637143
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2000,0.000643134
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2001,0.000627575
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2002,0.000645724
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2003,0.000655632
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2004,0.000683282
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2005,0.000688448
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2006,0.000795405
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2007,0.000902567
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2008,0.000972408
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2009,0.001005321
+17,Freight,Ship International,All,Liquids,Liquids,refined liquids,2010,0.001124272
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1971,0.031273159
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1972,0.032863548
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1973,0.034197858
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1974,0.037827898
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1975,0.040447098
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1976,0.042527184
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1977,0.045586661
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1978,0.048839321
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1979,0.054702196
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1980,0.05700242
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1981,0.058956711
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1982,0.064550029
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1983,0.069226851
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1984,0.074299024
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1985,0.079874371
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1986,0.089999671
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1987,0.098980901
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1988,0.108345767
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1989,0.116891724
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1990,0.118815891
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1991,0.124755072
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1992,0.128724964
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1993,0.139756458
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1994,0.149840994
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1995,0.168009168
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1996,0.133220103
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1997,0.138037287
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1998,0.144891758
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,1999,0.151958656
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2000,0.153387569
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2001,0.149676671
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2002,0.154005109
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2003,0.156368299
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2004,0.162962815
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2005,0.164194791
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2006,0.189703976
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2007,0.215262198
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2008,0.231919423
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2009,0.239768996
+17,Freight,Truck,Truck (0-2t),Liquids,Liquids,refined liquids,2010,0.268138891
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1971,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1972,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1973,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1974,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1975,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1976,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1977,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1978,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1979,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1980,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1981,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1982,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1983,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1984,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1985,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1986,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1987,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1988,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1989,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1990,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1991,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1992,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1993,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1994,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1995,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1996,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1997,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1998,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,1999,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2000,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2001,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2002,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2003,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2004,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2005,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2006,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2007,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2008,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2009,0
+17,Freight,Truck,Truck (0-2t),NG,Natural Gas,gas,2010,0
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1971,0.031273159
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1972,0.032863548
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1973,0.034197858
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1974,0.037827898
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1975,0.040447098
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1976,0.042527184
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1977,0.045586661
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1978,0.048839321
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1979,0.054702196
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1980,0.05700242
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1981,0.058956711
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1982,0.064550029
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1983,0.069226851
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1984,0.074299024
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1985,0.079874371
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1986,0.089999671
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1987,0.098980901
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1988,0.108345767
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1989,0.116891724
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1990,0.118815891
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1991,0.124755072
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1992,0.128724964
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1993,0.139756458
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1994,0.149840994
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1995,0.168009168
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1996,0.133220103
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1997,0.138037287
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1998,0.144891758
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,1999,0.151958656
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2000,0.153387569
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2001,0.149676671
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2002,0.154005109
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2003,0.156368299
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2004,0.162962815
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2005,0.164194791
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2006,0.189703976
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2007,0.215262198
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2008,0.231919423
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2009,0.239768996
+17,Freight,Truck,Truck (2-5t),Liquids,Liquids,refined liquids,2010,0.268138891
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1971,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1972,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1973,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1974,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1975,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1976,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1977,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1978,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1979,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1980,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1981,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1982,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1983,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1984,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1985,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1986,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1987,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1988,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1989,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1990,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1991,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1992,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1993,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1994,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1995,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1996,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1997,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1998,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,1999,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2000,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2001,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2002,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2003,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2004,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2005,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2006,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2007,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2008,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2009,0
+17,Freight,Truck,Truck (2-5t),NG,Natural Gas,gas,2010,0
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1971,0.031273159
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1972,0.032863548
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1973,0.034197858
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1974,0.037827898
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1975,0.040447098
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1976,0.042527184
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1977,0.045586661
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1978,0.048839321
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1979,0.054702196
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1980,0.05700242
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1981,0.058956711
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1982,0.064550029
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1983,0.069226851
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1984,0.074299024
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1985,0.079874371
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1986,0.089999671
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1987,0.098980901
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1988,0.108345767
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1989,0.116891724
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1990,0.118815891
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1991,0.124755072
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1992,0.128724964
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1993,0.139756458
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1994,0.149840994
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1995,0.168009168
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1996,0.133220103
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1997,0.138037287
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1998,0.144891758
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,1999,0.151958656
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2000,0.153387569
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2001,0.149676671
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2002,0.154005109
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2003,0.156368299
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2004,0.162962815
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2005,0.164194791
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2006,0.189703976
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2007,0.215262198
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2008,0.231919423
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2009,0.239768996
+17,Freight,Truck,Truck (5-9t),Liquids,Liquids,refined liquids,2010,0.268138891
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1971,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1972,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1973,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1974,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1975,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1976,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1977,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1978,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1979,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1980,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1981,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1982,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1983,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1984,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1985,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1986,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1987,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1988,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1989,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1990,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1991,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1992,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1993,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1994,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1995,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1996,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1997,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1998,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,1999,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2000,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2001,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2002,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2003,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2004,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2005,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2006,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2007,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2008,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2009,0
+17,Freight,Truck,Truck (5-9t),NG,Natural Gas,gas,2010,0
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1971,0.031273159
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1972,0.032863548
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1973,0.034197858
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1974,0.037827898
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1975,0.040447098
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1976,0.042527184
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1977,0.045586661
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1978,0.048839321
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1979,0.054702196
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1980,0.05700242
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1981,0.058956711
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1982,0.064550029
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1983,0.069226851
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1984,0.074299024
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1985,0.079874371
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1986,0.089999671
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1987,0.098980901
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1988,0.108345767
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1989,0.116891724
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1990,0.118815891
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1991,0.124755072
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1992,0.128724964
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1993,0.139756458
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1994,0.149840994
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1995,0.168009168
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1996,0.133220103
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1997,0.138037287
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1998,0.144891758
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,1999,0.151958656
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2000,0.153387569
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2001,0.149676671
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2002,0.154005109
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2003,0.156368299
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2004,0.162962815
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2005,0.164194791
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2006,0.189703976
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2007,0.215262198
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2008,0.231919423
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2009,0.239768996
+17,Freight,Truck,Truck (9-16t),Liquids,Liquids,refined liquids,2010,0.268138891
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1971,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1972,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1973,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1974,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1975,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1976,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1977,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1978,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1979,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1980,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1981,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1982,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1983,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1984,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1985,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1986,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1987,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1988,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1989,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1990,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1991,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1992,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1993,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1994,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1995,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1996,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1997,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1998,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,1999,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2000,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2001,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2002,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2003,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2004,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2005,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2006,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2007,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2008,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2009,0
+17,Freight,Truck,Truck (9-16t),NG,Natural Gas,gas,2010,0
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1971,0.008586274
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1972,0.009022927
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1973,0.009389271
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1974,0.010385925
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1975,0.011105046
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1976,0.011676149
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1977,0.01251615
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1978,0.013409192
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1979,0.015018887
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1980,0.01565043
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1981,0.016186995
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1982,0.017722681
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1983,0.019006737
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1984,0.020399339
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1985,0.021930091
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1986,0.024710066
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1987,0.027175929
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1988,0.029747121
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1989,0.032093476
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1990,0.03262177
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1991,0.034252415
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1992,0.035342378
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1993,0.038371155
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1994,0.041139938
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1995,0.046128143
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1996,0.036576551
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1997,0.037899144
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1998,0.039781089
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,1999,0.041721358
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2000,0.042113676
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2001,0.041094822
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2002,0.042283226
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2003,0.042932057
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2004,0.04474263
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2005,0.045080878
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2006,0.052084611
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2007,0.059101807
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2008,0.06367517
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2009,0.065830327
+17,Passenger,Air Domestic,All,Liquids,Liquids,refined liquids,2010,0.073619489
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1971,0.002276602
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1972,0.002392378
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1973,0.002489512
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1974,0.002753769
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1975,0.00294444
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1976,0.003095864
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1977,0.003318586
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1978,0.003555371
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1979,0.003982173
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1980,0.004149623
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1981,0.00429189
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1982,0.004699068
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1983,0.005039528
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1984,0.005408769
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1985,0.005814639
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1986,0.006551734
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1987,0.007205543
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1988,0.00788728
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1989,0.008509403
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1990,0.008649477
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1991,0.009081833
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1992,0.009370831
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1993,0.010173894
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1994,0.010908021
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1995,0.012230615
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1996,0.009698065
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1997,0.010048743
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1998,0.01054773
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,1999,0.011062181
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2000,0.011166202
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2001,0.010896059
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2002,0.011211157
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2003,0.011383191
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2004,0.011863254
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2005,0.011952939
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2006,0.013809939
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2007,0.015670508
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2008,0.01688311
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2009,0.017454537
+17,Passenger,Air International,All,Liquids,Liquids,refined liquids,2010,0.019519789
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1971,0.005462558
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1972,0.005740356
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1973,0.005973423
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1974,0.006607491
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1975,0.007064993
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1976,0.007428326
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1977,0.007962733
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1978,0.008530883
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1979,0.009554965
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1980,0.009956751
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1981,0.010298112
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1982,0.01127511
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1983,0.012092022
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1984,0.012977991
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1985,0.01395185
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1986,0.015720461
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1987,0.017289234
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1988,0.018925018
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1989,0.020417761
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1990,0.02075386
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1991,0.021791271
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1992,0.022484702
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1993,0.024411599
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1994,0.02617309
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1995,0.029346568
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1996,0.023269878
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1997,0.024111308
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1998,0.025308595
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1999,0.026542987
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2000,0.026792578
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2001,0.026144387
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2002,0.026900446
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2003,0.02731323
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2004,0.02846511
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2005,0.028680302
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2006,0.033136053
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2007,0.03760037
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2008,0.040509928
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2009,0.041881032
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2010,0.04683647
+17,Passenger,Bus,All,NG,Natural Gas,gas,1971,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1972,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1973,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1974,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1975,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1976,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1977,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1978,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1979,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1980,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1981,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1982,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1983,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1984,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1985,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1986,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1987,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1988,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1989,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1990,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1991,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1992,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1993,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1994,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1995,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1996,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1997,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1998,0.000356312
+17,Passenger,Bus,All,NG,Natural Gas,gas,1999,0.000556738
+17,Passenger,Bus,All,NG,Natural Gas,gas,2000,0.001692484
+17,Passenger,Bus,All,NG,Natural Gas,gas,2001,0.002984116
+17,Passenger,Bus,All,NG,Natural Gas,gas,2002,0.008083836
+17,Passenger,Bus,All,NG,Natural Gas,gas,2003,0.01115703
+17,Passenger,Bus,All,NG,Natural Gas,gas,2004,0.012849513
+17,Passenger,Bus,All,NG,Natural Gas,gas,2005,0.014697883
+17,Passenger,Bus,All,NG,Natural Gas,gas,2006,0.015878168
+17,Passenger,Bus,All,NG,Natural Gas,gas,2007,0.02086654
+17,Passenger,Bus,All,NG,Natural Gas,gas,2008,0.030843285
+17,Passenger,Bus,All,NG,Natural Gas,gas,2009,0.044360884
+17,Passenger,Bus,All,NG,Natural Gas,gas,2010,0.051242166
+17,Passenger,HSR,All,Electric,Electricity,electricity,1971,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1972,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1973,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1974,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1975,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1976,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1977,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1978,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1979,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1980,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1981,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1982,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1983,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1984,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1985,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1986,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1987,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1988,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1989,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1990,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1991,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1992,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1993,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1994,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1995,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1996,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1997,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1998,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1999,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2000,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2001,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2002,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2003,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2004,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2005,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2006,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2007,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2008,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2009,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2010,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_2W,Moped,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1971,0.025176747
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1972,0.026457104
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1973,0.027531302
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1974,0.0304537
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1975,0.032562311
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1976,0.034236903
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1977,0.036699964
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1978,0.039318548
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1979,0.04403851
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1980,0.045890326
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1981,0.047463647
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1982,0.051966599
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1983,0.055731718
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1984,0.059815118
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1985,0.064303603
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1986,0.072455069
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1987,0.079685492
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1988,0.087224763
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1989,0.094104765
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1990,0.095653834
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1991,0.100435227
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1992,0.103631225
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1993,0.112512232
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1994,0.120630881
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1995,0.135257337
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1996,0.107250079
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1997,0.111128197
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1998,0.116646452
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,1999,0.122335724
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2000,0.123486084
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2001,0.120498591
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2002,0.12398324
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2003,0.125885748
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2004,0.131194724
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2005,0.132186538
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2006,0.152722944
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2007,0.173298828
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2008,0.18670888
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2009,0.193028252
+17,Passenger,LDV_2W,Moped,Liquids,Liquids,refined liquids,2010,0.215867699
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1971,0.025176747
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1972,0.026457104
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1973,0.027531302
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1974,0.0304537
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1975,0.032562311
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1976,0.034236903
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1977,0.036699964
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1978,0.039318548
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1979,0.04403851
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1980,0.045890326
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1981,0.047463647
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1982,0.051966599
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1983,0.055731718
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1984,0.059815118
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1985,0.064303603
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1986,0.072455069
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1987,0.079685492
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1988,0.087224763
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1989,0.094104765
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1990,0.095653834
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1991,0.100435227
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1992,0.103631225
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1993,0.112512232
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1994,0.120630881
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1995,0.135257337
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1996,0.107250079
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1997,0.111128197
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1998,0.116646452
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,1999,0.122335724
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2000,0.123486084
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2001,0.120498591
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2002,0.12398324
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2003,0.125885748
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2004,0.131194724
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2005,0.132186538
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2006,0.152722944
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2007,0.173298828
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2008,0.18670888
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2009,0.193028252
+17,Passenger,LDV_2W,Motorcycle (50-250cc),Liquids,Liquids,refined liquids,2010,0.215867699
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_2W,Scooter,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1971,0.025176747
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1972,0.026457104
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1973,0.027531302
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1974,0.0304537
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1975,0.032562311
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1976,0.034236903
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1977,0.036699964
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1978,0.039318548
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1979,0.04403851
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1980,0.045890326
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1981,0.047463647
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1982,0.051966599
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1983,0.055731718
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1984,0.059815118
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1985,0.064303603
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1986,0.072455069
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1987,0.079685492
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1988,0.087224763
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1989,0.094104765
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1990,0.095653834
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1991,0.100435227
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1992,0.103631225
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1993,0.112512232
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1994,0.120630881
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1995,0.135257337
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1996,0.107250079
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1997,0.111128197
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1998,0.116646452
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,1999,0.122335724
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2000,0.123486084
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2001,0.120498591
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2002,0.12398324
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2003,0.125885748
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2004,0.131194724
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2005,0.132186538
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2006,0.152722944
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2007,0.173298828
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2008,0.18670888
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2009,0.193028252
+17,Passenger,LDV_2W,Scooter,Liquids,Liquids,refined liquids,2010,0.215867699
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1971,0.014954332
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1972,0.015714831
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1973,0.016352877
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1974,0.018088705
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1975,0.019341165
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1976,0.020335829
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1977,0.021798823
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1978,0.023354194
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1979,0.026157728
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1980,0.027257659
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1981,0.028192171
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1982,0.030866807
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1983,0.03310319
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1984,0.035528623
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1985,0.038194666
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1986,0.043036425
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1987,0.047331108
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1988,0.051809239
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1989,0.055895781
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1990,0.056815887
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1991,0.05965591
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1992,0.06155425
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1993,0.066829337
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1994,0.071651603
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1995,0.080339337
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1996,0.063703755
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1997,0.066007256
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1998,0.069284956
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,1999,0.072664236
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2000,0.073347519
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2001,0.071573026
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2002,0.073642817
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2003,0.074772857
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2004,0.077926251
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2005,0.078515362
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2006,0.090713453
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2007,0.102934992
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2008,0.110900215
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2009,0.114653757
+17,Passenger,LDV_3W,Three-Wheeler,Liquids,Liquids,refined liquids,2010,0.128219794
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1990,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1998,0.000198249
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,1999,0.000309764
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2000,0.000941683
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2001,0.001660335
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2002,0.004497773
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2003,0.006207671
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2004,0.007149353
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2005,0.00817777
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2006,0.008834469
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2007,0.011609955
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2008,0.017160926
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2009,0.024681996
+17,Passenger,LDV_3W,Three-Wheeler,NG,Natural Gas,gas,2010,0.028510679
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_4W,Compact Car,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,LDV_4W,Compact Car,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,LDV_4W,Compact Car,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1971,0.011852045
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1972,0.012454778
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1973,0.012960461
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1974,0.01433619
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1975,0.015328827
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1976,0.016117147
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1977,0.017276641
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1978,0.018509349
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1979,0.020731289
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1980,0.021603038
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1981,0.022343684
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1982,0.024463466
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1983,0.026235909
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1984,0.028158184
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1985,0.030271155
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1986,0.034108487
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1987,0.037512235
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1988,0.041061375
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1989,0.044300161
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1990,0.04502939
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1991,0.047280249
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1992,0.048784776
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1993,0.052965543
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1994,0.056787426
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1995,0.063672884
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1996,0.050488365
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1997,0.052314003
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1998,0.054911742
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,1999,0.057589987
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2000,0.058131523
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2001,0.05672515
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2002,0.058365561
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2003,0.059261174
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2004,0.061760394
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2005,0.062227294
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2006,0.071894882
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2007,0.081581054
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2008,0.087893885
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2009,0.090868752
+17,Passenger,LDV_4W,Compact Car,Liquids,Liquids,refined liquids,2010,0.101620505
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1990,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1998,2.88E-05
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,1999,4.50E-05
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2000,0.000136798
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2001,0.000241197
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2002,0.000653393
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2003,0.00090179
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2004,0.001038588
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2005,0.001187987
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2006,0.001283386
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2007,0.001686581
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2008,0.002492972
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2009,0.00358556
+17,Passenger,LDV_4W,Compact Car,NG,Natural Gas,gas,2010,0.004141754
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_4W,Mini Car,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,LDV_4W,Mini Car,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,LDV_4W,Mini Car,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1971,0.011852045
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1972,0.012454778
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1973,0.012960461
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1974,0.01433619
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1975,0.015328827
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1976,0.016117147
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1977,0.017276641
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1978,0.018509349
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1979,0.020731289
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1980,0.021603038
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1981,0.022343684
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1982,0.024463466
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1983,0.026235909
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1984,0.028158184
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1985,0.030271155
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1986,0.034108487
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1987,0.037512235
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1988,0.041061375
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1989,0.044300161
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1990,0.04502939
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1991,0.047280249
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1992,0.048784776
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1993,0.052965543
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1994,0.056787426
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1995,0.063672884
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1996,0.050488365
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1997,0.052314003
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1998,0.054911742
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,1999,0.057589987
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2000,0.058131523
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2001,0.05672515
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2002,0.058365561
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2003,0.059261174
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2004,0.061760394
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2005,0.062227294
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2006,0.071894882
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2007,0.081581054
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2008,0.087893885
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2009,0.090868752
+17,Passenger,LDV_4W,Mini Car,Liquids,Liquids,refined liquids,2010,0.101620505
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1990,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1998,2.88E-05
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,1999,4.50E-05
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2000,0.000136798
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2001,0.000241197
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2002,0.000653393
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2003,0.00090179
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2004,0.001038588
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2005,0.001187987
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2006,0.001283386
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2007,0.001686581
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2008,0.002492972
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2009,0.00358556
+17,Passenger,LDV_4W,Mini Car,NG,Natural Gas,gas,2010,0.004141754
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1971,0.011852045
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1972,0.012454778
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1973,0.012960461
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1974,0.01433619
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1975,0.015328827
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1976,0.016117147
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1977,0.017276641
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1978,0.018509349
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1979,0.020731289
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1980,0.021603038
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1981,0.022343684
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1982,0.024463466
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1983,0.026235909
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1984,0.028158184
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1985,0.030271155
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1986,0.034108487
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1987,0.037512235
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1988,0.041061375
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1989,0.044300161
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1990,0.04502939
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1991,0.047280249
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1992,0.048784776
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1993,0.052965543
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1994,0.056787426
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1995,0.063672884
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1996,0.050488365
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1997,0.052314003
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1998,0.054911742
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,1999,0.057589987
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2000,0.058131523
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2001,0.05672515
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2002,0.058365561
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2003,0.059261174
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2004,0.061760394
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2005,0.062227294
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2006,0.071894882
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2007,0.081581054
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2008,0.087893885
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2009,0.090868752
+17,Passenger,LDV_4W,Multipurpose Vehicle,Liquids,Liquids,refined liquids,2010,0.101620505
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1990,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1998,2.88E-05
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,1999,4.50E-05
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2000,0.000136798
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2001,0.000241197
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2002,0.000653393
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2003,0.00090179
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2004,0.001038588
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2005,0.001187987
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2006,0.001283386
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2007,0.001686581
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2008,0.002492972
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2009,0.00358556
+17,Passenger,LDV_4W,Multipurpose Vehicle,NG,Natural Gas,gas,2010,0.004141754
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_4W,Subcompact Car,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,LDV_4W,Subcompact Car,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,LDV_4W,Subcompact Car,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1971,0.011
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1972,0.012
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1973,0.012
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1974,0.014
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1975,0.015
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1976,0.016
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1977,0.017
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1978,0.018
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1979,0.02
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1980,0.021
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1981,0.022
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1982,0.024
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1983,0.026
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1984,0.028
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1985,0.03
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1986,0.034
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1987,0.037
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1988,0.041
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1989,0.044
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1990,0.045
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1991,0.047
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1992,0.048
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1993,0.052
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1994,0.056
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1995,0.063
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1996,0.05
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1997,0.052
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1998,0.054
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,1999,0.057
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2000,0.058
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2001,0.056
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2002,0.058
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2003,0.059
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2004,0.061
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2005,0.062
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2006,0.071
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2007,0.081
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2008,0.087
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2009,0.09
+17,Passenger,LDV_4W,Subcompact Car,Liquids,Liquids,refined liquids,2010,0.101
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1990,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1998,2.88E-05
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,1999,4.50E-05
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2000,0.000136798
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2001,0.000241197
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2002,0.000653393
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2003,0.00090179
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2004,0.001038588
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2005,0.001187987
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2006,0.001283386
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2007,0.001686581
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2008,0.002492972
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2009,0.00358556
+17,Passenger,LDV_4W,Subcompact Car,NG,Natural Gas,gas,2010,0.004141754
+17,Passenger,Rail,All,Electric,Electricity,electricity,1971,0.00281368
+17,Passenger,Rail,All,Electric,Electricity,electricity,1972,0.00315487
+17,Passenger,Rail,All,Electric,Electricity,electricity,1973,0.002653098
+17,Passenger,Rail,All,Electric,Electricity,electricity,1974,0.002652452
+17,Passenger,Rail,All,Electric,Electricity,electricity,1975,0.003215255
+17,Passenger,Rail,All,Electric,Electricity,electricity,1976,0.00373904
+17,Passenger,Rail,All,Electric,Electricity,electricity,1977,0.003978926
+17,Passenger,Rail,All,Electric,Electricity,electricity,1978,0.003779693
+17,Passenger,Rail,All,Electric,Electricity,electricity,1979,0.00397926
+17,Passenger,Rail,All,Electric,Electricity,electricity,1980,0.003919864
+17,Passenger,Rail,All,Electric,Electricity,electricity,1981,0.004324036
+17,Passenger,Rail,All,Electric,Electricity,electricity,1982,0.004544489
+17,Passenger,Rail,All,Electric,Electricity,electricity,1983,0.004685833
+17,Passenger,Rail,All,Electric,Electricity,electricity,1984,0.004987103
+17,Passenger,Rail,All,Electric,Electricity,electricity,1985,0.005328616
+17,Passenger,Rail,All,Electric,Electricity,electricity,1986,0.005581917
+17,Passenger,Rail,All,Electric,Electricity,electricity,1987,0.006215631
+17,Passenger,Rail,All,Electric,Electricity,electricity,1988,0.006924896
+17,Passenger,Rail,All,Electric,Electricity,electricity,1989,0.006985676
+17,Passenger,Rail,All,Electric,Electricity,electricity,1990,0.007066736
+17,Passenger,Rail,All,Electric,Electricity,electricity,1991,0.007766962
+17,Passenger,Rail,All,Electric,Electricity,electricity,1992,0.008717894
+17,Passenger,Rail,All,Electric,Electricity,electricity,1993,0.00965229
+17,Passenger,Rail,All,Electric,Electricity,electricity,1994,0.010116723
+17,Passenger,Rail,All,Electric,Electricity,electricity,1995,0.010697114
+17,Passenger,Rail,All,Electric,Electricity,electricity,1996,0.011336981
+17,Passenger,Rail,All,Electric,Electricity,electricity,1997,0.011957544
+17,Passenger,Rail,All,Electric,Electricity,electricity,1998,0.012577877
+17,Passenger,Rail,All,Electric,Electricity,electricity,1999,0.013938845
+17,Passenger,Rail,All,Electric,Electricity,electricity,2000,0.014150328
+17,Passenger,Rail,All,Electric,Electricity,electricity,2001,0.013982942
+17,Passenger,Rail,All,Electric,Electricity,electricity,2002,0.015185572
+17,Passenger,Rail,All,Electric,Electricity,electricity,2003,0.015877123
+17,Passenger,Rail,All,Electric,Electricity,electricity,2004,0.01638055
+17,Passenger,Rail,All,Electric,Electricity,electricity,2005,0.017150163
+17,Passenger,Rail,All,Electric,Electricity,electricity,2006,0.018595663
+17,Passenger,Rail,All,Electric,Electricity,electricity,2007,0.019116713
+17,Passenger,Rail,All,Electric,Electricity,electricity,2008,0.020063356
+17,Passenger,Rail,All,Electric,Electricity,electricity,2009,0.021131256
+17,Passenger,Rail,All,Electric,Electricity,electricity,2010,0.022373412
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1971,0.005913792
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1972,0.006214537
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1973,0.006466856
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1974,0.007153302
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1975,0.007648595
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1976,0.008041942
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1977,0.008620493
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1978,0.009235575
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1979,0.010344252
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1980,0.010779227
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1981,0.011148786
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1982,0.012206489
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1983,0.013090882
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1984,0.014050036
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1985,0.015104341
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1986,0.017019047
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1987,0.018717409
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1988,0.020488316
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1989,0.022104367
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1990,0.022468229
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1991,0.023591336
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1992,0.024342047
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1993,0.026428116
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1994,0.028335114
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1995,0.031770738
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1996,0.025192083
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1997,0.026103019
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1998,0.027399207
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1999,0.028735566
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2000,0.029005776
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2001,0.02830404
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2002,0.029122553
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2003,0.029569435
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2004,0.030816466
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2005,0.031049434
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2006,0.035873252
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2007,0.040706343
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2008,0.043856244
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2009,0.045340608
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2010,0.05070539
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1971,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1972,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1973,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1974,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1975,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1976,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1977,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1978,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1979,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1980,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1981,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1982,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1983,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1984,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1985,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1986,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1987,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1988,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1989,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1990,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1991,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1992,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1993,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1994,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1995,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1996,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1997,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1998,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,1999,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2000,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2001,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2002,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2003,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2004,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2005,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2006,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2007,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2008,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2009,0
+17,Passenger,Rail,All,Tech-Adv-Electric,Electricity,electricity,2010,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1971,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1972,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1973,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1974,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1975,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1976,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1977,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1978,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1979,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1980,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1981,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1982,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1983,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1984,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1985,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1986,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1987,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1988,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1989,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1990,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1991,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1992,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1993,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1994,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1995,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1996,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1997,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1998,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,1999,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2000,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2001,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2002,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2003,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2004,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2005,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2006,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2007,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2008,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2009,0
+17,Passenger,Rail,All,Tech-Adv-Liquid,Liquids,refined liquids,2010,0

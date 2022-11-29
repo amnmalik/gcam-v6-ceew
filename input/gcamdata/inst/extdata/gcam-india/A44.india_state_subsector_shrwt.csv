@@ -1,0 +1,66 @@
+# File: A44.india_state_subsector_shrwt.csv
+# Title: Building subsector default shareweights
+# Units: Unitless
+# Source: None (GCAM assumptions)
+# Column types: cccin
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+resid rural cooling,electricity,1975,,1
+resid urban cooling,electricity,1975,,1
+resid rural coolers,electricity,1975,,1
+resid urban coolers,electricity,1975,,1
+resid rural lighting,electricity,1975,,1
+resid urban lighting,electricity,1975,,1
+resid rural space heating,electricity,1975,,1
+resid urban space heating,electricity,1975,,1
+resid rural cooking,electricity,1975,,1
+resid urban cooking,electricity,2015,,1
+resid urban cooking,electricity,2030,,1
+resid urban cooking,electricity,2100,,1
+resid rural apploth,electricity,1975,,1
+resid urban apploth,electricity,1975,,1
+resid rural space heating,coal,2040,,0
+resid urban space heating,coal,2040,,0
+resid rural cooking,coal,2020,,0
+resid urban cooking,coal,2020,,0
+resid rural apploth,coal,2020,,0
+resid urban apploth,coal,2020,,0
+resid rural space heating,biomass,2030,,0
+resid urban space heating,biomass,2030,,0
+resid rural cooking,biomass,2030,,0
+resid urban cooking,biomass,2030,,0
+resid urban cooking,refined liquids,2100,,3
+resid rural cooking,refined liquids,2100,,3
+resid rural cooking,traditional biomass,2015,,0.2
+resid rural cooking,traditional biomass,2020,,0.05
+resid rural cooking,traditional biomass,2025,,0.01
+resid rural cooking,traditional biomass,2030,,0.005
+resid rural cooking,traditional biomass,2035,,0.0025
+resid rural cooking,traditional biomass,2040,,0.001
+resid rural cooking,traditional biomass,2045,,0.00075
+resid rural cooking,traditional biomass,2050,,0
+resid urban cooking,traditional biomass,2050,,0
+resid rural apploth,biomass,2030,,0
+resid urban apploth,biomass,2030,,0
+resid rural apploth,refined liquids,1975,,0
+resid urban apploth,refined liquids,1975,,0
+resid rural apploth,gas,1975,,0
+resid urban apploth,gas,1975,,0
+resid rural cooking,gas,2015,,0.5
+resid urban cooking,gas,2100,,1
+comm hvac,electricity,1975,,1
+comm lighting,electricity,1975,,1
+comm ref,electricity,1975,,1
+comm others,electricity,1975,,1
+comm others,coal,2015,,0.5
+comm others,coal,2020,,0.1
+comm others,coal,2025,,0.005
+comm others,coal,2030,,0
+comm others,biomass,2015,,1
+comm others,biomass,2020,,0.05
+comm others,biomass,2025,,0.001
+comm others,biomass,2030,,0
+comm others,refined liquids,1975,,0
+comm cooking,refined liquids,2100,,3
+comm cooking,gas,2100,,2
+comm cooking,electricity,1975,,1

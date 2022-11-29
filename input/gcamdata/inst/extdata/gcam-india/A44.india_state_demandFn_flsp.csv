@@ -1,0 +1,9 @@
+# File: A44.india_state_demandFn_flsp.csv
+# Title: Floorspace demand function type
+# Units: NA
+# Column types: ccc 
+# ----------
+gcam.consumer,nodeInput,prodDmdFnType
+resid rural,resid rural,building-function
+resid urban,resid urban,building-function
+comm,comm,building-function

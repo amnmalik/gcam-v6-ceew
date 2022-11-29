@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="trn_pass_road_LDV">
+                <tranSubsector name="LDV_3W">
+                    <tranTechnology name="Electric">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2025">
+                            <from-value>0.005</from-value>
+                            <to-value>0.005</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2030">
+                            <from-value>0.04</from-value>
+                            <to-value>0.04</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2030" to-year="2050">
+                            <from-value>0.04</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                    <tranTechnology name="NG">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0.02</from-value>
+                            <to-value>0.02</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2050">
+                            <from-value>0.02</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2050">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_2W">
+                <tranSubsector name="LDV_2W">
+                    <tranTechnology name="Electric">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0.1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_4W">
+                <tranSubsector name="LDV_4W">
+                    <tranTechnology name="Electric">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.1</from-value>
+                            <to-value>0.1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2050">
+                            <from-value>0.1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                    <tranTechnology name="NG">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0.02</from-value>
+                            <to-value>0.02</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2050">
+                            <from-value>0.02</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2050">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road">
+                <tranSubsector name="Bus">
+                    <tranTechnology name="Electric">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2020">
+                            <from-value>0.001</from-value>
+                            <to-value>0.001</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2020" to-year="2025">
+                            <from-value>0.005</from-value>
+                            <to-value>0.005</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2030">
+                            <from-value>0.04</from-value>
+                            <to-value>0.04</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2030" to-year="2050">
+                            <from-value>0.04</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>1</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                    <tranTechnology name="NG">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.5</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="fixed"/>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0.03</from-value>
+                            <to-value>0.03</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2050">
+                            <from-value>0.03</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2050">
+                            <from-value>0.5</from-value>
+                            <to-value>0.5</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_freight_road">
+                <tranSubsector name="Truck">
+                    <tranTechnology name="NG">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2015">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2015" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2050">
+                            <from-value>0.001</from-value>
+                            <to-value>0.15</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2045" to-year="2050">
+                            <from-value>0.15</from-value>
+                            <to-value>0.15</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2050" to-year="2100">
+                            <from-value>0.15</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass">
+                <tranSubsector name="HSR">
+                    <tranTechnology name="Electric">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2025">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2025" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>1</to-value>
+                            <interpolation-function name="linear"/>
+                        </interpolation-rule>
+                    </tranTechnology>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

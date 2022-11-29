@@ -1,0 +1,25 @@
+# File: A54.india_tranSubsectorInterp.csv
+# Title: Transport default subsector shareweight interpolation
+# Units: Unitless
+# Column types: cccciic
+# ----------
+region,supplysector,tranSubsector,apply.to,from.year,to.year,interpolation.function
+India,trn_aviation_intl,Air International,share-weight,2010,2100,fixed
+India,trn_freight,Ship Domestic,share-weight,2010,2100,fixed
+India,trn_freight,Freight Rail,share-weight,2010,2100,fixed
+India,trn_freight,road,share-weight,2010,2100,fixed
+India,trn_freight_road,Truck,share-weight,2010,2100,fixed
+India,trn_pass,Cycle,share-weight,2010,2100,fixed
+India,trn_pass,Air Domestic,share-weight,2010,2100,fixed
+India,trn_pass,HSR,share-weight,2010,2100,linear
+India,trn_pass,Passenger Rail,share-weight,2010,2100,fixed
+India,trn_pass,Walk,share-weight,2010,2100,fixed
+India,trn_pass,road,share-weight,2010,2100,fixed
+India,trn_pass_road,LDV,share-weight,2010,2100,fixed
+India,trn_pass_road,Bus,share-weight,2010,2100,fixed
+India,trn_pass_road_LDV,LDV_3W,share-weight,2010,2100,fixed
+India,trn_pass_road_LDV,4W,share-weight,2010,2100,fixed
+India,trn_pass_road_LDV,2W,share-weight,2010,2100,fixed
+India,trn_pass_road_LDV_4W,LDV_4W,share-weight,2010,2100,fixed
+India,trn_pass_road_LDV_2W,LDV_2W,share-weight,2010,2100,fixed
+India,trn_shipping_intl,Ship International,share-weight,2010,2100,fixed

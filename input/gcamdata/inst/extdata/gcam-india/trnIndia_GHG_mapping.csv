@@ -1,0 +1,32 @@
+# File: trnIndia_GHG_mapping.csv
+# Title: Mapping GHG sector and fuel codes to UCD mode and fuel for India
+# Units: NA
+# Column types: ccccc
+# ----------
+mode,fuel,UCD_sector,GHG_Platform_sectors,GHG_Platform_fuels
+Air Domestic,refined liquids,Passenger,trn_pass_dom_aviation,oil
+Air International,refined liquids,Passenger,trn_aviation_intl,oil
+Bus,gas,Passenger,trn_pass_road_bus,gas
+Bus,refined liquids,Passenger,trn_pass_road_bus,oil
+Bus,electricity,Passenger,trn_pass_road_bus,electricity
+HSR,electricity,Passenger,trn_pass_hsr,electricity
+LDV_2W,electricity,Passenger,trn_pass_road_LDV_2W,electricity
+LDV_2W,refined liquids,Passenger,trn_pass_road_LDV_2W,oil
+LDV_3W,refined liquids,Passenger,trn_pass_road_LDV_3W,oil
+LDV_3W,gas,Passenger,trn_pass_road_LDV_3W,gas
+LDV_3W,electricity,Passenger,trn_pass_road_LDV_3W,electricity
+LDV_4W,electricity,Passenger,trn_pass_road_LDV_4W,electricity
+LDV_4W,gas,Passenger,trn_pass_road_LDV_4W,gas
+LDV_4W,hydrogen,Passenger,trn_pass_road_LDV_4W,hydrogen
+LDV_4W,refined liquids,Passenger,trn_pass_road_LDV_4W,oil
+Rail,electricity,Passenger,trn_pass_rail,electricity
+Rail,refined liquids,Passenger,trn_pass_rail,oil
+Rail,coal,Freight,trn_freight_rail,coal
+Rail,electricity,Freight,trn_freight_rail,electricity
+Rail,refined liquids,Freight,trn_freight_rail,oil
+Ship Domestic,refined liquids,Freight,trn_freight_dom_ship,oil
+Ship International,refined liquids,Freight,trn_shipping_intl,oil
+Truck,refined liquids,Freight,trn_freight_road_truck,oil
+Truck,gas,Freight,trn_freight_road_truck,gas
+Truck,electricity,Freight,trn_freight_road_truck,electricity
+Truck,hydrogen,Freight,trn_freight_road_truck,hydrogen

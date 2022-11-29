@@ -1,0 +1,71 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+SubregionalShares,,,,,,
+,,,,,,
+region,gcam.consumer,pop.year.fillout,inc.year.fillout,subregional.population.share,subregional.income.share,scenario
+India,commercial,1975,1975,1,1,NITI
+India,commercial,1990,1990,1,1,NITI
+India,commercial,2005,2005,1,1,NITI
+India,commercial,2010,2010,1,1,NITI
+India,commercial,2015,2015,1,1,NITI
+India,commercial,2020,2020,1,1,NITI
+India,commercial,2025,2025,1,1,NITI
+India,commercial,2030,2030,1,1,NITI
+India,commercial,2035,2035,1,1,NITI
+India,commercial,2040,2040,1,1,NITI
+India,commercial,2045,2045,1,1,NITI
+India,commercial,2050,2050,1,1,NITI
+India,commercial,2055,2055,1,1,NITI
+India,commercial,2060,2060,1,1,NITI
+India,commercial,2065,2065,1,1,NITI
+India,commercial,2070,2070,1,1,NITI
+India,commercial,2075,2075,1,1,NITI
+India,commercial,2080,2080,1,1,NITI
+India,commercial,2085,2085,1,1,NITI
+India,commercial,2090,2090,1,1,NITI
+India,commercial,2095,2095,1,1,NITI
+India,commercial,2100,2100,1,1,NITI
+India,residential rural,1975,1975,0.7446,0.485922164,NITI
+India,residential rural,1990,1990,0.7446,0.485922164,NITI
+India,residential rural,2005,2005,0.70765,0.439709199,NITI
+India,residential rural,2010,2010,0.6907,0.419957743,NITI
+India,residential rural,2015,2015,0.673,0.400218301,NITI
+India,residential rural,2020,2020,0.6553,0.385572926,NITI
+India,residential rural,2025,2025,0.63775,0.369207077,NITI
+India,residential rural,2030,2030,0.6202,0.353512217,NITI
+India,residential rural,2035,2035,0.60265,0.338437751,NITI
+India,residential rural,2040,2040,0.5851,0.323937632,NITI
+India,residential rural,2045,2045,0.56755,0.309969845,NITI
+India,residential rural,2050,2050,0.55,0.296495957,NITI
+India,residential rural,2055,2055,0.531,0.285030274,NITI
+India,residential rural,2060,2060,0.512,0.273996061,NITI
+India,residential rural,2065,2065,0.493,0.263349074,NITI
+India,residential rural,2070,2070,0.474,0.253048325,NITI
+India,residential rural,2075,2075,0.455,0.243055556,NITI
+India,residential rural,2080,2080,0.436,0.23333476,NITI
+India,residential rural,2085,2085,0.417,0.223851753,NITI
+India,residential rural,2090,2090,0.398,0.214573764,NITI
+India,residential rural,2095,2095,0.379,0.205469055,NITI
+India,residential rural,2100,2100,0.36,0.19650655,NITI
+India,residential urban,1975,1975,0.2554,0.514077836,NITI
+India,residential urban,1990,1990,0.2554,0.514077836,NITI
+India,residential urban,2005,2005,0.29235,0.560290801,NITI
+India,residential urban,2010,2010,0.3093,0.580042257,NITI
+India,residential urban,2015,2015,0.327,0.599781699,NITI
+India,residential urban,2020,2020,0.3447,0.614427074,NITI
+India,residential urban,2025,2025,0.36225,0.630792923,NITI
+India,residential urban,2030,2030,0.3798,0.646487783,NITI
+India,residential urban,2035,2035,0.39735,0.661562249,NITI
+India,residential urban,2040,2040,0.4149,0.676062368,NITI
+India,residential urban,2045,2045,0.43245,0.690030155,NITI
+India,residential urban,2050,2050,0.45,0.703504043,NITI
+India,residential urban,2055,2055,0.469,0.714969726,NITI
+India,residential urban,2060,2060,0.488,0.726003939,NITI
+India,residential urban,2065,2065,0.507,0.736650926,NITI
+India,residential urban,2070,2070,0.526,0.746951675,NITI
+India,residential urban,2075,2075,0.545,0.756944444,NITI
+India,residential urban,2080,2080,0.564,0.76666524,NITI
+India,residential urban,2085,2085,0.583,0.776148247,NITI
+India,residential urban,2090,2090,0.602,0.785426236,NITI
+India,residential urban,2095,2095,0.621,0.794530945,NITI
+India,residential urban,2100,2100,0.64,0.80349345,NITI

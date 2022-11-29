@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <supplysector name="industrial energy use">
+            <subsector name="gas">
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2030">
+                                  <from-value>0.35</from-value>
+                                  <to-value>0.44</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2055">
+                                  <from-value>0.44</from-value>
+                                  <to-value>1.1</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                                  <from-value>1</from-value>
+                                  <to-value>1</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+            </subsector>
+
+            <subsector name="biomass">
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2055">
+                                  <from-value>1.5</from-value>
+                                  <to-value>0.95</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                                  <from-value>1</from-value>
+                                  <to-value>1</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+            </subsector>
+
+           <subsector name="refined liquids">
+
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2055">
+                                  <from-value>1.043</from-value>
+                                  <to-value>1</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                                  <from-value>1</from-value>
+                                  <to-value>1</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+            </subsector>
+           <subsector name="electricity">
+
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2055">
+                                  <from-value>8.028</from-value>
+                                  <to-value>2.3</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                                  <from-value>3.06</from-value>
+                                  <to-value>3.06</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+            </subsector>
+
+           <subsector name="hydrogen">
+
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                                  <from-value>0</from-value>
+                                  <to-value>0</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2020" to-year="2100">
+                                  <from-value>0</from-value>
+                                  <to-value>0.25</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+            </subsector>
+        </supplysector>
+
+<supplysector name="agriculture energy use">
+            <subsector name="refined liquids">
+
+                 <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2015">
+                                  <from-value>0.12</from-value>
+                                  <to-value>0.12</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2055">
+                                  <from-value>0.12</from-value>
+                                  <to-value>0.32</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2100">
+                                  <from-value>0.32</from-value>
+                                  <to-value>0.32</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+
+            </subsector>
+   </supplysector>
+
+<supplysector name="industrial feedstocks">
+           <subsector name="hydrogen">
+
+
+                 <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                                  <from-value>0</from-value>
+                                  <to-value>0</to-value>
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+
+                 <interpolation-rule apply-to="share-weight" from-year="2020" to-year="2100">
+                                  <from-value>0</from-value>
+                                  <to-value>0.25</to-value>
+                  <interpolation-function name="linear"/>
+               </interpolation-rule>
+
+            </subsector>
+   </supplysector>
+
+      </region>
+   </world>
+</scenario>

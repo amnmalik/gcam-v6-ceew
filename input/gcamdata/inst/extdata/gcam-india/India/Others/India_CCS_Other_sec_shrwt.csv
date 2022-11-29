@@ -1,0 +1,21 @@
+INPUT_TABLE,,,,,,,,,
+Variable ID,,,,,,,,,
+IndiatechSharewt2,,,,,,,,,
+,,,,,,,,,
+region,supplysector,subsector,technology,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+India,refining,biomass liquids,FT biofuels CCS level 1,share-weight,2010,2100,0,0,fixed
+India,refining,biomass liquids,FT biofuels CCS level 2,share-weight,2010,2100,0,0,fixed
+India,refining,biomass liquids,cellulosic ethanol CCS level 1,share-weight,2010,2100,0,0,fixed
+India,refining,biomass liquids,cellulosic ethanol CCS level 2,share-weight,2010,2100,0,0,fixed
+India,refining,coal to liquids,coal to liquids CCS level 1,share-weight,2010,2100,0,0,fixed
+India,refining,coal to liquids,coal to liquids CCS level 2,share-weight,2010,2100,0,0,fixed
+India,H2 central production,biomass,biomass to H2 CCS,share-weight,2010,2100,0,0,fixed
+India,H2 central production,coal,coal chemical CCS,share-weight,2010,2100,0,0,fixed
+India,H2 central production,coal,coal chemical CCS,share-weight,2010,2100,0,0,fixed
+India,H2 central production,gas,natural gas steam reforming CCS,share-weight,2010,2100,0,0,fixed
+India,electricity,biomass,biomass (IGCC CCS),share-weight,2010,2100,0,0,fixed
+India,electricity,biomass,biomass (conv CCS),share-weight,2010,2100,0,0,fixed
+India,electricity,coal,coal (IGCC CCS),share-weight,2010,2100,0,0,fixed
+India,electricity,coal,coal (conv pul CCS),share-weight,2010,2100,0,0,fixed
+India,electricity,gas,gas (CC CCS),share-weight,2010,2100,0,0,fixed
+India,electricity,refined liquids,refined liquids (CC CCS),share-weight,2010,2100,0,0,fixed

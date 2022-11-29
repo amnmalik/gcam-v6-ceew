@@ -1,0 +1,41 @@
+# File: A44.india_state_globaltech_intgains.csv
+# Title: Building sector internal gain coefficients
+# Units: Unitless (heat released within building envelope per unit of energy input
+# Comments:  NOTE:  this table should include all techs of non-thermal services (even zeroes)
+# Source: Table 12a in https://www.nrel.gov/docs/fy08osti/42011.pdf (some technologies only)
+# Column types: cccn
+# ----------
+supplysector,subsector,technology,input.ratio
+resid rural lighting,electricity,hi-eff,0.866
+resid rural lighting,electricity,lo-eff,0.866
+resid urban lighting,electricity,hi-eff,0.866
+resid urban lighting,electricity,lo-eff,0.866
+resid rural cooking,electricity,electricity,0.365
+resid urban cooking,electricity,electricity,0.365
+resid rural apploth,electricity,Elec-based app,0.365
+resid urban apploth,electricity,Elec-based app,0.365
+resid rural cooking,coal,coal,0.4
+resid urban cooking,coal,coal,0.4
+resid rural cooking,biomass,biomass,0.4
+resid urban cooking,biomass,biomass,0.4
+resid urban cooking,refined liquids,refined liquids,0.3
+resid rural cooking,refined liquids,refined liquids,0.5
+resid rural cooking,traditional biomass,traditional biomass,0.4
+resid urban cooking,traditional biomass,traditional biomass,0.4
+resid rural cooking,gas,gas based cooking,0.5
+resid urban cooking,gas,gas based cooking,0.5
+resid rural apploth,biomass,biomass-based app,0.4
+resid urban apploth,biomass,biomass-based app,0.4
+resid rural apploth,refined liquids,RL-based app,0.4
+resid urban apploth,refined liquids,RL-based app,0.4
+resid rural apploth,gas,Gas-based app,0.4
+resid urban apploth,gas,Gas-based app,0.4
+comm lighting,electricity,electricity based lighting,0.866
+comm ref,electricity,electricity based ref,7.8
+comm others,electricity,electricity based others,0.5
+comm others,coal,coal based others,0.4
+comm others,biomass,biomass based others,0.1
+comm others,refined liquids,refined liquids based others,0.5
+comm cooking,refined liquids,refined liquids based cooking,0.4
+comm cooking,gas,gas based cooking,0.4
+comm cooking,electricity,electric cooking,0.365

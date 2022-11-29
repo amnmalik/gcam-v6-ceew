@@ -1,0 +1,10 @@
+# File: A44.india_state_demandFn_serv.csv
+# Title: Building service demand function type
+# Units: NA
+# Source: None (GCAM structure)
+# Column types: cccc
+# ----------
+gcam.consumer,nodeInput,building.node.input,prodDmdFnType
+resid rural,resid rural,resid rural_building,building-service-function
+resid urban,resid urban,resid urban_building,building-service-function
+comm,comm,comm_building,building-service-function
