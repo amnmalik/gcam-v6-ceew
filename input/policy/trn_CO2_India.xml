@@ -1,0 +1,3109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+           <region name="India">
+            <location-info sector-name="trn_aviation_intl" subsector-name="International Aviation">
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight" subsector-name="Domestic Ship">
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight" subsector-name="Freight Rail">
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Coal">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Electric">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight" subsector-name="road">
+                <technology name="road">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight_road" subsector-name="Heavy truck">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight_road" subsector-name="Light truck">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_freight_road" subsector-name="Medium truck">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="Cycle">
+                <technology name="Cycle">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="Domestic Aviation">
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="HSR">
+                <technology name="Electric">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="Passenger Rail">
+                <technology name="Electric">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="Walk">
+                <technology name="Walk">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass" subsector-name="road">
+                <technology name="road">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road" subsector-name="Bus">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road" subsector-name="LDV">
+                <technology name="LDV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road_LDV" subsector-name="2W and 3W">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="LA-BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road_LDV" subsector-name="4W">
+                <technology name="4W">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Car">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="FCEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Hybrid Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Large Car and Truck">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="FCEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Hybrid Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_shipping_intl" subsector-name="International Ship">
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="trn_pass_road_LDV_4W" subsector-name="Mini Car">
+                <technology name="BEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="FCEV">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Hybrid Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="Liquids">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+                <technology name="NG">
+                    <period year="1975">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2TRN"/>
+                    </period>
+                </technology>
+            </location-info>
+        </region>
+    </world>
+</scenario>

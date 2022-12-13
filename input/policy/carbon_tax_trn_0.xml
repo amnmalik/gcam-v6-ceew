@@ -1,0 +1,9 @@
+	  <region name="India">
+         <ghgpolicy name="CO2TRN">
+            <market>India</market>
+            <fixedTax year="2020">0.00</fixedTax>
+         </ghgpolicy>
+      </region>
+	  
+	  
+	 
