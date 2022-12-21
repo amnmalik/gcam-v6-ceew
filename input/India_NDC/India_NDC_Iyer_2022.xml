@@ -1,0 +1,29 @@
+    <world>
+<region name="India">
+            <policy-portfolio-standard name="GHG">
+                <policyType>tax</policyType>
+                <min-price fillout="1" year="2020">1.0</min-price>
+                <market>India</market>
+                <constraint year="2020">3044.48</constraint>
+                <min-price fillout="1" year="2025">1.0</min-price>
+                <constraint year="2025">4097.473</constraint>
+                <constraint year="2030">4785.224</constraint>
+                <constraint year="2035">3461.522</constraint>
+                <constraint year="2040">2967.019</constraint>
+                <constraint year="2045">2472.516</constraint>
+                <constraint year="2050">1978.013</constraint>
+                <constraint year="2055">1483.509</constraint>
+                <constraint year="2060">989.006</constraint>
+                <constraint year="2065">494.503</constraint>
+                <constraint year="2070">-5</constraint>
+                <constraint year="2075">-5</constraint>
+                <constraint year="2080">-5</constraint>
+                <constraint year="2085">-5</constraint>
+                <constraint year="2090">-5</constraint>
+                <constraint year="2095">-5</constraint>
+                <constraint year="2100">-5</constraint>
+            </policy-portfolio-standard>
+        </region>
+		</world>
+		
+		

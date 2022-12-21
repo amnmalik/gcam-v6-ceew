@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <ghgpolicy name="CO2">
+            <market>India</market>
+            <constraint year="2025">949.656</constraint>
+            <constraint year="2030">1233.175</constraint>
+            <constraint year="2035">1558.7796594586653</constraint>
+            <constraint year="2040">1905.3139270384509</constraint>
+           <constraint year="2045">1301.1666889136</constraint>
+            <constraint year="2050">1040.93335113088</constraint>
+            <constraint year="2055">780.70001334816</constraint>
+            <constraint year="2060">520.46667556544</constraint>
+            <constraint year="2065">260.23333778272</constraint>
+            <constraint year="2070">0.01</constraint>
+            <constraint year="2075">0.01</constraint>
+            <constraint year="2080">0.01</constraint>
+            <constraint year="2085">0.01</constraint>
+            <constraint year="2090">0.01</constraint>
+            <constraint year="2095">0.01</constraint>
+            <constraint year="2100">0.01</constraint>
+         </ghgpolicy>
+      </region>
+     
+   </world>
+</scenario>
