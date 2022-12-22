@@ -19,3 +19,8 @@ output/gcam_diagnostics/scripts/diag_header.R
 output/gcam_diagnostics/scripts/diag_util_functions.R
 output/gcam_diagnostics/solver-diagnostics.R
 CONTRIBUTING.md
+*.js
+*.py
+output/gcam_diagnostics/post_process/index_template.html
+output/gcam_diagnostics/mappings/agg_region_mapping.csv
+LICENSE.md
