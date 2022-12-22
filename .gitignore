@@ -1,0 +1,21 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Additional Licenses/LICENSE - apache.txt
+Additional Licenses/LICENSE - BaseX.txt
+Additional Licenses/LICENSE - Eigen.txt
+Additional Licenses/LICENSE - Freechart.txt
+Additional Licenses/LICENSE - joost.txt
+Additional Licenses/LICENSE - joptsimple.txt
+Additional Licenses/LICENSE - TableSorter.txt
+Additional Licenses/LICENSE - TBB.txt
+Additional Licenses/LICENSE_1_0 - Boost.txt
+exe/.basex
+*.jar
+output/gcam_diagnostics/scripts/color_schemes.R
+output/gcam_diagnostics/scripts/diag_grapher.R
+output/gcam_diagnostics/scripts/diag_header.R
+output/gcam_diagnostics/scripts/diag_util_functions.R
+output/gcam_diagnostics/solver-diagnostics.R
+CONTRIBUTING.md
