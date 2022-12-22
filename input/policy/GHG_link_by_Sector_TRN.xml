@@ -5,19 +5,10 @@
                 <price-adjust fillout="1" year="2020">1</price-adjust>
                 <demand-adjust fillout="1" year="2020">1</demand-adjust>
                 <market>India</market>
-                <linked-policy>CAP</linked-policy>
+                <linked-policy>CO2</linked-policy>
                 <price-unit>1990$/tC</price-unit>
                 <output-unit>MTC</output-unit>
             </linked-ghg-policy>
-			<linked-ghg-policy name="CO2">
-                <price-adjust fillout="1" year="2020">0</price-adjust>
-                <demand-adjust fillout="1" year="2020">0</demand-adjust>
-                <market>India</market>
-                <linked-policy>CAP</linked-policy>
-                <price-unit>1990$/tC</price-unit>
-                <output-unit>MTC</output-unit>
-            </linked-ghg-policy>
-           
-        </region>
+		        </region>
             </world>
 </scenario>
