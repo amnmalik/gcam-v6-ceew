@@ -1,3 +1,7 @@
+INPUT_TABLE
+Variable ID
+CementHeader
+
 sector-name,subsector-name,technology,year
 cement,cement,cement,1975
 cement,cement,cement,1990

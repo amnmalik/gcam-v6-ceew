@@ -1,3 +1,7 @@
+INPUT_TABLE
+Variable ID
+AluHeader
+
 sector-name,subsector-name,technology,year
 alumina,refined liquids,refined liquids,1975
 alumina,refined liquids,refined liquids,1990

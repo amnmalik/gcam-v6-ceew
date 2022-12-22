@@ -1,3 +1,7 @@
+INPUT_TABLE
+Variable ID
+ElecTPPHeader
+
 sector-name,subsector-name,technology,year
 electricity,coal,coal (conv pul),1975
 electricity,coal,coal (conv pul),1990

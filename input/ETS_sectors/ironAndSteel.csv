@@ -2,7 +2,6 @@ INPUT_TABLE
 Variable ID
 IRNSTLHeader
 
-
 sector-name,subsector-name,technology,year
 iron and steel,BLASTFUR,BLASTFUR,1975
 iron and steel,BLASTFUR,BLASTFUR,1990

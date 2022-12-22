@@ -1,3 +1,7 @@
+INPUT_TABLE
+Variable ID
+FertHeader
+
 sector-name,subsector-name,technology,year
 N fertilizer,coal,coal CCS,1975
 N fertilizer,coal,coal CCS,1990

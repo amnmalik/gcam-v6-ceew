@@ -1,6 +1,0 @@
-
-IRNSTLHeader, global-technology-database/+{sector-name}location-info, global-technology-database/+{subsector-name}location-info, location-info/+{name}stub-technology, stub-technology/+{year}period, scenario, scenario/world, world/global-technology-database, period/{name=CO2TRN}CO2
-
-blah, world/+{name}region, region/+{name}supplysector, supplysector/+{name}tranSubsector, tranSubsector/+{name}stub-technology, stub-technology/+{year}period, period/+{name}CO2, scenario, scenario/world
-
-2, world/+{name}region, region/+{name}ghgpolicy, ghgpolicy/+market, ghgpolicy/+{year}constraint, ghgpolicy/+constraint, scenario, scenario/world
