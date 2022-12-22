@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario>
     <world>
         <region name="India">
-            <ghgpolicy name="CO2TPP">
+            <ghgpolicy name="CO2Fert">
                 <market>India</market>
-                <constraint year="2025">461.8668928</constraint>
-                <constraint year="2030">566.4537855</constraint>
-                <!--<constraint year="2035">100</constraint>-->
-            <!--     <constraint year="2040">50</constraint>
+                <constraint year="2025">11.2623434</constraint>
+                <constraint year="2030">11.8246868</constraint>
+                           <!--     <constraint year="2040">50</constraint>
                 <constraint year="2045">100</constraint>
                 <constraint year="2050">100</constraint> -->
               <!--   <constraint year="2055">100</constraint>
