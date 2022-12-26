@@ -3,11 +3,12 @@
         <region name="India">
             <ghgpolicy name="CO2Alu">
                 <market>India</market>
-                <constraint year="2025">1.93</constraint>
-                <constraint year="2030">2.90</constraint>
-                           <!--     <constraint year="2040">50</constraint>
-                <constraint year="2045">100</constraint>
-                <constraint year="2050">100</constraint> -->
+                <constraint year="2025">1.9984262200404277</constraint>
+                <constraint year="2030">3.249979786312446</constraint>
+				<constraint year="2030">4.328053710655501</constraint>
+                <constraint year="2040">4.760334969679469</constraint>
+                <constraint year="2045">3.595583309269421</constraint>
+                <constraint year="2050">1.7892867455963042</constraint>
               <!--   <constraint year="2055">100</constraint>
                 <constraint year="2060">100</constraint>
                 <constraint year="2065">100</constraint>

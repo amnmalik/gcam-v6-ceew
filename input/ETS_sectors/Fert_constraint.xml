@@ -3,11 +3,12 @@
         <region name="India">
             <ghgpolicy name="CO2Fert">
                 <market>India</market>
-                <constraint year="2025">11.2623434</constraint>
-                <constraint year="2030">11.8246868</constraint>
-                           <!--     <constraint year="2040">50</constraint>
-                <constraint year="2045">100</constraint>
-                <constraint year="2050">100</constraint> -->
+                <constraint year="2025">11.441524756189047</constraint>
+                <constraint year="2030">11.893492123030757</constraint>
+				<constraint year="2035">11.225086271567893</constraint>
+                <constraint year="2040">9.919448612153037</constraint>
+                <constraint year="2045">8.443677794448613</constraint>
+                <constraint year="2050">7.3057576894223555</constraint>
               <!--   <constraint year="2055">100</constraint>
                 <constraint year="2060">100</constraint>
                 <constraint year="2065">100</constraint>
