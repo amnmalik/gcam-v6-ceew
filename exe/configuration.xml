@@ -102,32 +102,39 @@
 		<!-- Socioeconomics -->
 	<Value name = "India GDP HighGR">../input/gcamdata/xml/India/Socioeconomics/India_GDP_PoP_HighGR.xml</Value>
 		<!-- Electricity -->
-							<!-- Capital costs and capacity factors -->
+		
+		<!-- Capital costs and capacity factors -->
 		<Value name = "India capital cost">../input/gcamdata/xml/India/Electricity/India_state_tech_CC_now.xml</Value>
 		<Value name = "India capital cost">../input/gcamdata/xml/India/Electricity/India_state_inttech_CC_RT_now.xml</Value>
 		<Value name = "India capacity factor">../input/gcamdata/xml/India/Electricity/India_state_tech_CF_now.xml</Value>
         <Value name = "India capacity factor">../input/gcamdata/xml/India/Electricity/India_state_inttech_CF_RT_now.xml</Value>
-							<!-- Resource potential for wind onshore -->
+		
+		<!-- Resource potential for wind onshore -->
 		<Value name = "India wind res curve">../input/gcamdata/xml/India/Electricity/agg_elect_onshore_wind_resource_india.xml</Value>
-							<!-- India-specific OM fixed costs: note removed OM var costs  -->
+		
+		<!-- India-specific OM fixed costs: note removed OM var costs  -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_state_inttech_OMfixedvar.xml</Value>
-						<!-- Backup costs: note removed csp backup costs  -->
+		
+		<!-- Backup costs: note removed csp backup costs  -->
 		<Value name = "India intermittency cost">../input/gcamdata/xml/India/Electricity/India_IntTechBackup_elec.xml</Value> 
+		
+		<!-- Share weight -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt.xml</Value>
-			
+		
 		
 		<!-- Industry -->
 		<Value name = "India industry fuel cost adder">../input/gcamdata/xml/India/Industry/IndiaIndustryFuelAdderwH2_delivery.xml</Value>
 		
 		<!-- Others -->
 		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_cost_change_reference.xml</Value>
-	
+		<!-- <Value name = "India RPS file">../input/policy/India_Credits_50_test.xml</Value> -->
 		<!-- India NZ constraints -->
 		
 		<Value name = "India NZ">../input/India_NDC/GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
 		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value>
-		<!-- ##ETS constraints -->
-		<Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
+		
+	<!-- 	<!-- ##ETS constraints -->
+     <!--    <Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
 		<Value name = "Alm constraint">../input/ETS_sectors/Alu_constraint.xml</Value>
 		<Value name = "Cement link">../input/ETS_sectors/Cement_link.xml</Value>
 		<Value name = "Cement constraint">../input/ETS_sectors/Cement_constraint.xml</Value>
@@ -136,16 +143,29 @@
 		<Value name = "IrnStl link">../input/ETS_sectors/IrnStl_link.xml</Value>
 		<Value name = "IrnStl constraint">../input/ETS_sectors/IrnStl_constraint.xml</Value>
 		<Value name = "TPP link">../input/ETS_sectors/TPP_link.xml</Value>
-		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value>
+		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value> -->
 		
-	
+		<!-- Total ETS constraint -->
+		<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
+		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value>
+		
+		
+		<!-- Transport -->
+		<Value name = "Transport shrwt">../input/gcamdata/xml/India/Transport/India_transport_share-weights_Ref.xml</Value>		
+
+		<!-- Building -->
+		<Value name = "Building shrwt">../input/gcamdata/xml/India/Building/India_building_share-weights_Ref.xml</Value>	
+
+		<!-- Industry -->
+		
+		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt.xml</Value>		
 		
         <Value name = "wind_update">../input/gcamdata/xml/onshore_wind.xml</Value>
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 		
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">IndiaNZ+ETS_all_const</Value>
+		<Value name="scenarioName">IndiaNZ+ETS</Value>
 		<Value name="debug-region">India</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
