@@ -5,11 +5,7 @@
          <supplysector name="electricity">
             <subsector name="wind">
                <intermittent-technology name="wind">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
+                   <period year="2015">
                      <input-subsidy name="RPSCredits">
                      </input-subsidy>
                   </period>
@@ -84,14 +80,6 @@
                </intermittent-technology>
 
                <technology name="wind_storage">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -166,18 +154,7 @@
 
             <subsector name="solar">
                <intermittent-technology name="PV">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2020">
-                     <input-subsidy name="RPSCredits">
-                      </input-subsidy>
-                  </period>
+                 
                   <period year="2025">
                      <input-subsidy name="RPSCredits">
                      </input-subsidy>
@@ -245,14 +222,7 @@
                </intermittent-technology>
 
                <technology name="PV_storage">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -324,14 +294,7 @@
                </technology>
 
                <intermittent-technology name="CSP">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -403,14 +366,7 @@
                </intermittent-technology>
 
                <technology name="CSP_storage">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -485,15 +441,7 @@
 
             <subsector name="nuclear">
                <technology name="Gen_III">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2020">
+                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
                   </period>
@@ -564,14 +512,7 @@
                </technology>
 
                <technology name="Gen_II_LWR">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -647,14 +588,7 @@
 
             <subsector name="geothermal">
                <technology name="geothermal">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+               
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -728,14 +662,7 @@
 
           <subsector name="hydro">
                <technology name="hydro">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -811,14 +738,7 @@
 
             <subsector name="biomass">
                <technology name="biomass (conv)">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -890,14 +810,7 @@
                </technology>
 
                <technology name="biomass (conv CCS)">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                 
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -969,14 +882,7 @@
                </technology>
 
                <technology name="biomass (IGCC)">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -1048,14 +954,7 @@
                </technology>
 
               <technology name="biomass (IGCC CCS)">
-                  <period year="2010">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
-                  <period year="2015">
-                     <input-subsidy name="RPSCredits">
-                     </input-subsidy>
-                  </period>
+                
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -1134,37 +1033,37 @@
          <technology name="electricity_net_ownuse">
                    <period year="2020">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.2575</coefficient>
+                        <coefficient>0.19</coefficient>
                      </minicam-energy-input>
                   </period>
                    <period year="2025">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.2875</coefficient>
+                        <coefficient>0.3301</coefficient>
                      </minicam-energy-input>
                   </period>
                    <period year="2030">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.3275</coefficient>
+                        <coefficient>0.4669</coefficient>
                      </minicam-energy-input>
                   </period>
                   <period year="2035">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.385</coefficient>
+                        <coefficient>0.60</coefficient>
                      </minicam-energy-input>
                   </period>
                    <period year="2040">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.4375</coefficient>
+                        <coefficient>0.73</coefficient>
                      </minicam-energy-input>
                   </period>
                    <period year="2045">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.4975</coefficient>
+                        <coefficient></coefficient>
                      </minicam-energy-input>
                   </period>
 		  <period year="2050">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.585</coefficient>
+                        <coefficient></coefficient>
                      </minicam-energy-input>
                   </period>
                    <period year="2055">
@@ -1223,8 +1122,8 @@
          <policy-portfolio-standard name="RPSCredits">
             <market>India_Mkt</market>
             <policyType>RES</policyType>
-      	    <constraint year="2010">0</constraint>
-            <constraint year="2015">0</constraint>
+      	    
+            
             <constraint year="2020">0</constraint>
             <constraint year="2025">0</constraint>
             <constraint year="2030">0</constraint>
