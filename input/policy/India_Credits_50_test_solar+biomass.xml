@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <supplysector name="electricity">
+            
+            <subsector name="solar">
+               <technology name="PV">
+                          <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+               <technology name="PV_storage">
+                 
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+               <technology name="CSP">
+                 
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+               <technology name="CSP_storage">
+                 
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+             </subsector>
+             <subsector name="geothermal">
+               <technology name="geothermal">
+               
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+            </subsector>
+
+          
+
+
+
+            <subsector name="biomass">
+               <technology name="biomass (conv)">
+                 
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+               <technology name="biomass (conv CCS)">
+                 
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+               <technology name="biomass (IGCC)">
+                
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+
+              <technology name="biomass (IGCC CCS)">
+                
+                  <period year="2020">
+                     <input-subsidy name="RPSCredits_SoB">
+                      </input-subsidy>
+                  </period>
+                  <period year="2025">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2030">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2035">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2040">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2045">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2050">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2055">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2060">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2065">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2070">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2075">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2080">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2085">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2090">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2095">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+                  <period year="2100">
+                     <input-subsidy name="RPSCredits_SoB">
+                     </input-subsidy>
+                  </period>
+               </technology>
+              </subsector>
+
+         </supplysector>
+
+         <supplysector name="electricity_net_ownuse">
+         <subsector name="electricity_net_ownuse">
+         <technology name="electricity_net_ownuse">
+                   <period year="2020">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.2046</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2025">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.2817</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2030">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.3560</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.4317</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2040">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.5074</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2045">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.583</coefficient>
+                     </minicam-energy-input>
+                  </period>
+					<period year="2050">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient>0.6588</coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2055">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2060">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2070">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2075">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2085">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2090">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+                   <period year="2100">
+                     <minicam-energy-input name="RPSCredits_SoB">
+                        <coefficient></coefficient>
+                     </minicam-energy-input>
+                  </period>
+         	</technology>
+             </subsector>
+         </supplysector>
+         <policy-portfolio-standard name="RPSCredits_SoB">
+            <market>India_Mkt</market>
+            <policyType>RES</policyType>
+      	    
+            
+            <constraint year="2020">0</constraint>
+            <constraint year="2025">0</constraint>
+            <constraint year="2030">0</constraint>
+            <constraint year="2035">0</constraint>
+            <constraint year="2040">0</constraint>
+            <constraint year="2045">0</constraint>
+            <constraint year="2050">0</constraint>
+            <constraint year="2055">0</constraint>
+            <constraint year="2060">0</constraint>
+            <constraint year="2065">0</constraint>
+            <constraint year="2070">0</constraint>
+            <constraint year="2075">0</constraint>
+            <constraint year="2080">0</constraint>
+            <constraint year="2085">0</constraint>
+            <constraint year="2090">0</constraint>
+            <constraint year="2095">0</constraint>
+            <constraint year="2100">0</constraint>
+         </policy-portfolio-standard>
+
+      </region>
+
+   </world>
+</scenario>
