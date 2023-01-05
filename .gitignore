@@ -24,3 +24,4 @@ CONTRIBUTING.md
 output/gcam_diagnostics/post_process/index_template.html
 output/gcam_diagnostics/mappings/agg_region_mapping.csv
 LICENSE.md
+output/gcam_diagnostics/diagnostics.R

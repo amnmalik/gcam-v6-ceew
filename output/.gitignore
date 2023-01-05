@@ -17,3 +17,4 @@ gcam_diagnostics/mappings*/
 gcam_diagnostics/post_process*/
 gcam_diagnostics/scripts*/
 gcam_diagnostics*.R
+gcam_diagnostics*.xml
