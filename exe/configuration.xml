@@ -112,12 +112,14 @@
 		<!-- Resource potential for wind onshore -->
 		<Value name = "India wind res curve">../input/gcamdata/xml/India/Electricity/agg_elect_onshore_wind_resource_india.xml</Value>
 		
-		<!-- India-specific OM fixed costs: note removed OM var costs  -->
+		<!-- India-specific OM fixed and var costs: -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_state_inttech_OMfixedvar.xml</Value>
 		
 		<!-- Backup costs: note removed csp backup costs  -->
 		<Value name = "India intermittency cost">../input/gcamdata/xml/India/Electricity/India_IntTechBackup_elec.xml</Value>
 		
+		<!-- <Value name = "India technical_efficiency">../input/gcamdata/xml/India/Electricity/India_elec_TechEff.xml</Value> -->
+			
 		<!-- Share weight -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt.xml</Value>
 		
@@ -139,18 +141,19 @@
 		<!-- Industry -->
 		
 		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt.xml</Value>
-		
+		<Value name = "Industry income elasticity">../input/gcamdata/xml/India/Industry/India_indus_incelas.xml</Value>
 		
 		<!-- POLICY RELATED FILES!! -->
 		
 		<!-- India NZ constraints -->
 		
-	<!-- 	<Value name = "India NZ">../input/India_NDC/GHG_masrket_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value> -->
+		<Value name = "India NZ">../input/India_NDC/GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
+		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value>
 		
-		<!-- <Value name = "India RPS file_wind">../input/policy/India_Credits_50_test_wind.xml</Value>
-		<Value name = "India RPS file_solar+other">../input/policy/India_Credits_50_test_solar+biomass.xml</Value>
-		 -->
+	<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value>
+	<!-- 	<Value name = "India RPS file_wind">../input/policy/India_Credits_50_test_wind.xml</Value>
+		<Value name = "India RPS file_solar+other">../input/policy/India_Credits_50_test_solar+biomass.xml</Value> -->
+		
 	<!-- 	<!-- ##ETS constraints -->
 <!--         <Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
 		<Value name = "Alm constraint">../input/ETS_sectors/Alu_constraint.xml</Value>
@@ -174,7 +177,7 @@
 		
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">backup_costs</Value>
+		<Value name="scenarioName">NZ+RPS</Value>
 		<Value name="debug-region">India</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -199,7 +202,7 @@
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">8</Value>
+		<Value name="stop-period">11</Value>
 		<Value name="stop-year">-1</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
