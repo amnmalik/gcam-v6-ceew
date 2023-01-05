@@ -11,3 +11,9 @@ mag_c.csv
 magout_c.csv
 sealev_c.dis
 temps_c.dis
+gcam_diagnostics/gcam_data*/
+gcam_diagnostics/logs*/
+gcam_diagnostics/mappings*/
+gcam_diagnostics/post_process*/
+gcam_diagnostics/scripts*/
+gcam_diagnostics*.R
