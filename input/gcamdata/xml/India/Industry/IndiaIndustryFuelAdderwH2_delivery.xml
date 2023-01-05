@@ -113,8 +113,8 @@
                 </subsector>
             </supplysector>
             <supplysector name="delivered biomass">
-                <subsector name="H2 delivery">
-                    <technology name="H2 delivery">
+                <subsector name="delivered biomass">
+                    <technology name="delivered biomass">
                         <period year="1990">
                             <minicam-non-energy-input name="tax">
                                 <input-cost>0.0334</input-cost>
@@ -224,8 +224,8 @@
                 </subsector>
             </supplysector>
             <supplysector name="delivered coal">
-                <subsector name="H2 delivery">
-                    <technology name="H2 delivery">
+                <subsector name="delivered coal">
+                    <technology name="delivered coal">
                         <period year="1990">
                             <minicam-non-energy-input name="tax">
                                 <input-cost>0.1498</input-cost>
@@ -335,8 +335,8 @@
                 </subsector>
             </supplysector>
             <supplysector name="elect_td_ind">
-                <subsector name="H2 delivery">
-                    <technology name="H2 delivery">
+                <subsector name="elect_td_ind">
+                    <technology name="elect_td_ind">
                         <period year="1990">
                             <minicam-non-energy-input name="tax">
                                 <input-cost>-0.0253</input-cost>
@@ -446,8 +446,8 @@
                 </subsector>
             </supplysector>
             <supplysector name="refined liquids industrial">
-                <subsector name="H2 delivery">
-                    <technology name="H2 delivery">
+                <subsector name="refined liquids industrial">
+                    <technology name="refined liquids industrial">
                         <period year="1990">
                             <minicam-non-energy-input name="tax">
                                 <input-cost>0.0918</input-cost>
@@ -557,8 +557,8 @@
                 </subsector>
             </supplysector>
             <supplysector name="wholesale gas">
-                <subsector name="H2 delivery">
-                    <technology name="H2 delivery">
+                <subsector name="wholesale gas">
+                    <technology name="wholesale gas">
                         <period year="1990">
                             <minicam-non-energy-input name="tax">
                                 <input-cost>0.2481</input-cost>
