@@ -3,12 +3,12 @@
         <region name="India">
             <ghgpolicy name="CO2ETSAll">
                 <market>India</market>
-                <constraint year="2025">620.0011716902948</constraint>
-                <constraint year="2030">714.0632267809461</constraint>
-                <constraint year="2035">752.2819322649723</constraint>
-                <constraint year="2040">710.8575322217521</constraint>
-                <constraint year="2045">589.1939450819746</constraint>
-                <constraint year="2050">348.79733422440023</constraint>
+                <constraint year="2025">606</constraint>
+                <constraint year="2030">697</constraint>
+                <constraint year="2035">735</constraint>
+                <constraint year="2040">694</constraint>
+                <constraint year="2045">575</constraint>
+                <constraint year="2050">340</constraint>
               <!--   <constraint year="2055">100</constraint>
                 <constraint year="2060">100</constraint>
                 <constraint year="2065">100</constraint>
