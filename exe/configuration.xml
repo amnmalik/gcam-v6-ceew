@@ -145,17 +145,22 @@
 		
 		<!-- POLICY RELATED FILES!! -->
 		
-		<!-- India NZ constraints -->
 		
-		<Value name = "India NZ">../input/India_NDC/GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value>
+		<!-- India NZ constraint without RPO -->
+	<!-- 	<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
+		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value> -->
 		
-	<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value>
+		<!-- India NZ constraints, with RPO -->
+		
+<!-- 		<Value name = "India NZ">../input/India_NDC/GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
+		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value> -->
+		
+<!-- 	<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value> -->
 	<!-- 	<Value name = "India RPS file_wind">../input/policy/India_Credits_50_test_wind.xml</Value>
 		<Value name = "India RPS file_solar+other">../input/policy/India_Credits_50_test_solar+biomass.xml</Value> -->
-		
+
 	<!-- 	<!-- ##ETS constraints -->
-<!--         <Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
+   <!--      <Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
 		<Value name = "Alm constraint">../input/ETS_sectors/Alu_constraint.xml</Value>
 		<Value name = "Cement link">../input/ETS_sectors/Cement_link.xml</Value>
 		<Value name = "Cement constraint">../input/ETS_sectors/Cement_constraint.xml</Value>
@@ -167,7 +172,7 @@
 		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value> -->
 		
 		<!-- Total ETS constraint -->
-	<!-- 	<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
+<!-- 		<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
 		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value> -->
 		
 			
@@ -177,12 +182,12 @@
 		
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">NZ+RPS</Value>
+		<Value name="scenarioName">No_constraint</Value>
 		<Value name="debug-region">India</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
 		<Value name="AbatedGasForCostCurves">CO2</Value>
-	</Strings>
+	</Strings>	
 	<Bools>
 		<Value name="CalibrationActive">1</Value>
 		<Value name="BatchMode">0</Value>
@@ -198,12 +203,12 @@
 	<Ints>
 		<Value name="numMarketsToFindSD">10</Value>
 		<Value name="numPointsForSD">21</Value>
-		<Value name="numPointsForCO2CostCurve">5</Value>
+		<Value name="numPointsForCO2CostCurve">2</Value>
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">11</Value>
-		<Value name="stop-year">-1</Value>
+		<Value name="stop-period">-1</Value>
+		<Value name="stop-year">2050</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
