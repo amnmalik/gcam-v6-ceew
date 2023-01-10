@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario>
     <world>
         <global-technology-database>
-            <location-info sector-name="electricity" subsector-name="coal">
-                <technology name="coal (conv pul)">
+            <location-info sector-name="elec_refined liquids (steam/CT)" subsector-name="refined liquids (steam/CT)">
+                <technology name="refined liquids (steam/CT) (dry cooling)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -70,7 +70,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="coal (conv pul CCS)">
+                <technology name="refined liquids (steam/CT) (once through)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -138,7 +138,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="coal (IGCC)">
+                <technology name="refined liquids (steam/CT) (recirculating)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -206,213 +206,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="coal (IGCC CCS)">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-            </location-info>
-            <location-info sector-name="electricity" subsector-name="gas">
-                <technology name="coal (IGCC CCS)">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="gas (CC)">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="gas (CC CCS)">
+                <technology name="refined liquids (steam/CT) (seawater)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -481,8 +275,8 @@
                     </period>
                 </technology>
             </location-info>
-            <location-info sector-name="electricity" subsector-name="refined liquids">
-                <technology name="refined liquids (steam/CT)">
+            <location-info sector-name="elec_refined liquids (CC)" subsector-name="refined liquids (CC)">
+                <technology name="refined liquids (CC) (dry cooling)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -550,7 +344,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="refined liquids (CC)">
+                <technology name="refined liquids (CC) (once through)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -618,7 +412,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="refined liquids (CC CCS)">
+                <technology name="refined liquids (CC) (recirculating)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -686,213 +480,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-            </location-info>
-            <location-info sector-name="electricity" subsector-name="solar">
-                <technology name="CSP">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="CSP_storage">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="PV">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="PV_storage">
+                <technology name="refined liquids (CC) (seawater)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -961,8 +549,8 @@
                     </period>
                 </technology>
             </location-info>
-            <location-info sector-name="electricity" subsector-name="wind">
-                <technology name="wind">
+            <location-info sector-name="elec_refined liquids (CC CCS)" subsector-name="refined liquids (CC CCS)">
+                <technology name="refined liquids (CC CCS) (dry cooling)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1030,7 +618,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="wind_offshore">
+                <technology name="refined liquids (CC CCS) (once through)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1098,7 +686,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="wind_storage">
+                <technology name="refined liquids (CC CCS) (recirculating)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1166,77 +754,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-            </location-info>
-            <location-info sector-name="electricity" subsector-name="nuclear">
-                <technology name="Gen_III">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-                <technology name="Gen_II_LWR">
+                <technology name="refined liquids (CC CCS) (seawater)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1305,8 +823,8 @@
                     </period>
                 </technology>
             </location-info>
-            <location-info sector-name="electricity" subsector-name="biomass">
-                <technology name="biomass (IGCC CCS)">
+            <location-info sector-name="elec_gas (steam/CT)" subsector-name="gas (steam/CT)">
+                <technology name="gas (steam/CT) (dry cooling)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1374,7 +892,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="biomass (IGCC)">
+                <technology name="gas (steam/CT) (once through)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1442,7 +960,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="biomass (conv CCS)">
+                <technology name="gas (steam/CT) (recirculating)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1510,77 +1028,7 @@
                         <CO2 name="CO2Elec"/>
                     </period>
                 </technology>
-                <technology name="biomass (conv)">
-                    <period year="1975">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Elec"/>
-                    </period>
-                </technology>
-            </location-info>
-            <location-info sector-name="electricity" subsector-name="geothermal">
-                <technology name="geothermal">
+                <technology name="gas (steam/CT) (seawater)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>
@@ -1649,8 +1097,2678 @@
                     </period>
                 </technology>
             </location-info>
-            <location-info sector-name="electricity" subsector-name="rooftop_pv">
-                <technology name="rooftop_pv">
+            <location-info sector-name="elec_gas (CC)" subsector-name="gas (CC)">
+                <technology name="gas (CC) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_gas (CC CCS)" subsector-name="gas (CC CCS)">
+                <technology name="gas (CC CCS) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC CCS) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC CCS) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="gas (CC CCS) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_coal (conv pul)" subsector-name="coal (conv pul)">
+                <technology name="coal (conv pul) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_coal (conv pul CCS)" subsector-name="coal (conv pul CCS)">
+                <technology name="coal (conv pul CCS) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul CCS) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul CCS) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (conv pul CCS) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_coal (IGCC)" subsector-name="coal (IGCC)">
+                <technology name="coal (IGCC) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_coal (IGCC CCS)" subsector-name="coal (IGCC CCS)">
+                <technology name="coal (IGCC CCS) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC CCS) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC CCS) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="coal (IGCC CCS) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (conv)" subsector-name="biomass (conv)">
+                <technology name="biomass (conv) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (conv CCS)" subsector-name="biomass (conv CCS)">
+                <technology name="biomass (conv CCS) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (IGCC)" subsector-name="biomass (IGCC)">
+                <technology name="biomass (IGCC) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC) (seawater)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (IGCC CCS)" subsector-name="biomass (IGCC CCS)">
+                <technology name="biomass (IGCC CCS) (dry cooling)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (once through)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (recirculating)">
+                    <period year="1975">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="1990">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2005">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2010">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2015">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2020">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2025">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2030">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2035">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2040">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2045">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2050">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2055">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2060">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2065">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2070">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2075">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2080">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2085">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2090">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2095">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                    <period year="2100">
+                        <CO2 name="CO2Elec"/>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (seawater)">
                     <period year="1975">
                         <CO2 name="CO2Elec"/>
                     </period>

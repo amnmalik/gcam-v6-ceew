@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario>
     <world>
         <global-technology-database>
-            <location-info sector-name="alumina" subsector-name="refined liquids">
-                <technology name="refined liquids">
+            <location-info sector-name="alumina" subsector-name="biomass">
+                <technology name="biomass">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
                     </period>
@@ -70,75 +70,7 @@
                         <CO2 name="CO2Alu"/>
                     </period>
                 </technology>
-                <technology name="refined liquids cogen">
-                    <period year="1975">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                </technology>
-                <technology name="refined liquids CCS">
+                <technology name="biomass CCS">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
                     </period>
@@ -209,74 +141,6 @@
             </location-info>
             <location-info sector-name="alumina" subsector-name="coal">
                 <technology name="coal">
-                    <period year="1975">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                </technology>
-                <technology name="coal cogen">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
                     </period>
@@ -482,74 +346,6 @@
                         <CO2 name="CO2Alu"/>
                     </period>
                 </technology>
-                <technology name="gas cogen">
-                    <period year="1975">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                </technology>
                 <technology name="gas CCS">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
@@ -619,8 +415,8 @@
                     </period>
                 </technology>
             </location-info>
-            <location-info sector-name="alumina" subsector-name="biomass">
-                <technology name="biomass">
+            <location-info sector-name="alumina" subsector-name="refined liquids">
+                <technology name="refined liquids">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
                     </period>
@@ -688,75 +484,7 @@
                         <CO2 name="CO2Alu"/>
                     </period>
                 </technology>
-                <technology name="biomass cogen">
-                    <period year="1975">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="1990">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2005">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2010">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2015">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2020">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2025">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2030">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2035">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2040">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2045">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2050">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2055">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2060">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2065">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2070">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2075">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2080">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2085">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2090">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2095">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                    <period year="2100">
-                        <CO2 name="CO2Alu"/>
-                    </period>
-                </technology>
-                <technology name="biomass CCS">
+                <technology name="refined liquids CCS">
                     <period year="1975">
                         <CO2 name="CO2Alu"/>
                     </period>
@@ -825,6 +553,6 @@
                     </period>
                 </technology>
             </location-info>
-          </global-technology-database>
+        </global-technology-database>
     </world>
 </scenario>
