@@ -3,531 +3,553 @@ Variable ID
 ElecTPPHeader
 
 sector-name,subsector-name,technology,year
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),1975
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),1990
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2005
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2010
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2015
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2020
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2025
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2030
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2035
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2040
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2045
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2050
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2055
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2060
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2065
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2070
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2075
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2080
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2085
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2090
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2095
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2100
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),1975
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),1990
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2005
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2010
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2015
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2020
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2025
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2030
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2035
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2040
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2045
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2050
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2055
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2060
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2065
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2070
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2075
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2080
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2085
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2090
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2095
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2100
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),1975
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),1990
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2005
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2010
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2015
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2020
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2025
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2030
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2035
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2040
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2045
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2050
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2055
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2060
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2065
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2070
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2075
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2080
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2085
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2090
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2095
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2100
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),1975
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),1990
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2005
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2010
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2015
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2020
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2025
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2030
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2035
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2040
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2045
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2050
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2055
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2060
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2065
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2070
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2075
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2080
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2085
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2090
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2095
-elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2100
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),1975
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),1990
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2005
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2010
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2015
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2020
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2025
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2030
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2035
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2040
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2045
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2050
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2055
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2060
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2065
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2070
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2075
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2080
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2085
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2090
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2095
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2100
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),1975
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),1990
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2005
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2010
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2015
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2020
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2025
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2030
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2035
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2040
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2045
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2050
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2055
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2060
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2065
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2070
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2075
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2080
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2085
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2090
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2095
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2100
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),1975
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),1990
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2005
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2010
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2015
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2020
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2025
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2030
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2035
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2040
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2045
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2050
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2055
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2060
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2065
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2070
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2075
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2080
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2085
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2090
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2095
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2100
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),1975
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),1990
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2005
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2010
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2015
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2020
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2025
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2030
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2035
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2040
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2045
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2050
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2055
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2060
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2065
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2070
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2075
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2080
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2085
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2090
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2095
-elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2100
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),1975
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),1990
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2005
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2010
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2015
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2020
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2025
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2030
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2035
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2040
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2045
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2050
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2055
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2060
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2065
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2070
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2075
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2080
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2085
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2090
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2095
-elec_gas (CC),gas (CC),gas (CC) (dry cooling),2100
-elec_gas (CC),gas (CC),gas (CC) (once through),1975
-elec_gas (CC),gas (CC),gas (CC) (once through),1990
-elec_gas (CC),gas (CC),gas (CC) (once through),2005
-elec_gas (CC),gas (CC),gas (CC) (once through),2010
-elec_gas (CC),gas (CC),gas (CC) (once through),2015
-elec_gas (CC),gas (CC),gas (CC) (once through),2020
-elec_gas (CC),gas (CC),gas (CC) (once through),2025
-elec_gas (CC),gas (CC),gas (CC) (once through),2030
-elec_gas (CC),gas (CC),gas (CC) (once through),2035
-elec_gas (CC),gas (CC),gas (CC) (once through),2040
-elec_gas (CC),gas (CC),gas (CC) (once through),2045
-elec_gas (CC),gas (CC),gas (CC) (once through),2050
-elec_gas (CC),gas (CC),gas (CC) (once through),2055
-elec_gas (CC),gas (CC),gas (CC) (once through),2060
-elec_gas (CC),gas (CC),gas (CC) (once through),2065
-elec_gas (CC),gas (CC),gas (CC) (once through),2070
-elec_gas (CC),gas (CC),gas (CC) (once through),2075
-elec_gas (CC),gas (CC),gas (CC) (once through),2080
-elec_gas (CC),gas (CC),gas (CC) (once through),2085
-elec_gas (CC),gas (CC),gas (CC) (once through),2090
-elec_gas (CC),gas (CC),gas (CC) (once through),2095
-elec_gas (CC),gas (CC),gas (CC) (once through),2100
-elec_gas (CC),gas (CC),gas (CC) (recirculating),1975
-elec_gas (CC),gas (CC),gas (CC) (recirculating),1990
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2005
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2010
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2015
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2020
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2025
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2030
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2035
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2040
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2045
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2050
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2055
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2060
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2065
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2070
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2075
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2080
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2085
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2090
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2095
-elec_gas (CC),gas (CC),gas (CC) (recirculating),2100
-elec_gas (CC),gas (CC),gas (CC) (seawater),1975
-elec_gas (CC),gas (CC),gas (CC) (seawater),1990
-elec_gas (CC),gas (CC),gas (CC) (seawater),2005
-elec_gas (CC),gas (CC),gas (CC) (seawater),2010
-elec_gas (CC),gas (CC),gas (CC) (seawater),2015
-elec_gas (CC),gas (CC),gas (CC) (seawater),2020
-elec_gas (CC),gas (CC),gas (CC) (seawater),2025
-elec_gas (CC),gas (CC),gas (CC) (seawater),2030
-elec_gas (CC),gas (CC),gas (CC) (seawater),2035
-elec_gas (CC),gas (CC),gas (CC) (seawater),2040
-elec_gas (CC),gas (CC),gas (CC) (seawater),2045
-elec_gas (CC),gas (CC),gas (CC) (seawater),2050
-elec_gas (CC),gas (CC),gas (CC) (seawater),2055
-elec_gas (CC),gas (CC),gas (CC) (seawater),2060
-elec_gas (CC),gas (CC),gas (CC) (seawater),2065
-elec_gas (CC),gas (CC),gas (CC) (seawater),2070
-elec_gas (CC),gas (CC),gas (CC) (seawater),2075
-elec_gas (CC),gas (CC),gas (CC) (seawater),2080
-elec_gas (CC),gas (CC),gas (CC) (seawater),2085
-elec_gas (CC),gas (CC),gas (CC) (seawater),2090
-elec_gas (CC),gas (CC),gas (CC) (seawater),2095
-elec_gas (CC),gas (CC),gas (CC) (seawater),2100
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),1975
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),1990
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2005
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2010
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2015
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2020
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2025
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2030
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2035
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2040
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2045
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2050
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2055
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2060
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2065
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2070
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2075
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2080
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2085
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2090
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2095
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2100
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),1975
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),1990
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2005
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2010
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2015
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2020
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2025
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2030
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2035
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2040
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2045
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2050
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2055
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2060
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2065
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2070
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2075
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2080
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2085
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2090
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2095
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2100
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),1975
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),1990
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2005
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2010
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2015
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2020
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2025
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2030
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2035
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2040
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2045
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2050
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2055
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2060
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2065
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2070
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2075
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2080
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2085
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2090
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2095
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2100
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),1975
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),1990
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2005
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2010
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2015
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2020
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2025
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2030
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2035
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2040
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2045
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2050
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2055
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2060
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2065
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2070
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2075
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2080
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2085
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2090
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2095
-elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2100
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),1975
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),1990
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2005
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2010
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2015
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2020
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2025
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2030
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2035
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2040
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2045
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2050
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2055
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2060
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2065
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2070
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2075
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2080
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2085
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2090
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2095
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2100
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),1975
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),1990
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2005
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2010
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2015
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2020
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2025
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2030
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2035
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2040
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2045
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2050
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2055
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2060
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2065
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2070
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2075
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2080
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2085
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2090
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2095
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2100
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),1975
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),1990
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2005
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2010
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2015
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2020
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2025
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2030
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2035
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2040
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2045
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2050
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2055
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2060
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2065
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2070
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2075
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2080
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2085
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2090
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2095
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2100
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),1975
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),1990
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2005
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2010
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2015
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2020
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2025
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2030
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2035
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2040
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2045
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2050
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2055
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2060
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2065
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2070
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2075
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2080
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2085
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2090
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2095
-elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2100
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),1975
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),1990
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2005
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2010
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2015
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2020
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2025
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2030
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2035
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2040
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2045
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2050
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2055
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2060
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2065
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2070
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2075
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2080
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2085
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2090
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2095
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2100
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),1975
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),1990
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2005
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2010
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2015
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2020
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2025
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2030
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2035
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2040
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2045
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2050
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2055
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2060
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2065
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2070
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2075
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2080
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2085
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2090
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2095
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2100
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),1975
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),1990
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2005
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2010
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2015
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2020
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2025
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2030
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2035
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2040
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2045
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2050
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2055
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2060
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2065
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2070
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2075
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2080
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2085
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2090
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2095
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2100
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),1975
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),1990
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2005
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2010
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2015
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2020
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2025
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2030
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2035
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2040
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2045
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2050
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2055
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2060
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2065
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2070
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2075
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2080
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2085
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2090
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2095
-elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2100
+electricity,coal,coal (conv pul),1975
+electricity,coal,coal (conv pul),1990
+electricity,coal,coal (conv pul),2005
+electricity,coal,coal (conv pul),2010
+electricity,coal,coal (conv pul),2015
+electricity,coal,coal (conv pul),2020
+electricity,coal,coal (conv pul),2025
+electricity,coal,coal (conv pul),2030
+electricity,coal,coal (conv pul),2035
+electricity,coal,coal (conv pul),2040
+electricity,coal,coal (conv pul),2045
+electricity,coal,coal (conv pul),2050
+electricity,coal,coal (conv pul),2055
+electricity,coal,coal (conv pul),2060
+electricity,coal,coal (conv pul),2065
+electricity,coal,coal (conv pul),2070
+electricity,coal,coal (conv pul),2075
+electricity,coal,coal (conv pul),2080
+electricity,coal,coal (conv pul),2085
+electricity,coal,coal (conv pul),2090
+electricity,coal,coal (conv pul),2095
+electricity,coal,coal (conv pul),2100
+electricity,coal,coal (conv pul CCS),1975
+electricity,coal,coal (conv pul CCS),1990
+electricity,coal,coal (conv pul CCS),2005
+electricity,coal,coal (conv pul CCS),2010
+electricity,coal,coal (conv pul CCS),2015
+electricity,coal,coal (conv pul CCS),2020
+electricity,coal,coal (conv pul CCS),2025
+electricity,coal,coal (conv pul CCS),2030
+electricity,coal,coal (conv pul CCS),2035
+electricity,coal,coal (conv pul CCS),2040
+electricity,coal,coal (conv pul CCS),2045
+electricity,coal,coal (conv pul CCS),2050
+electricity,coal,coal (conv pul CCS),2055
+electricity,coal,coal (conv pul CCS),2060
+electricity,coal,coal (conv pul CCS),2065
+electricity,coal,coal (conv pul CCS),2070
+electricity,coal,coal (conv pul CCS),2075
+electricity,coal,coal (conv pul CCS),2080
+electricity,coal,coal (conv pul CCS),2085
+electricity,coal,coal (conv pul CCS),2090
+electricity,coal,coal (conv pul CCS),2095
+electricity,coal,coal (conv pul CCS),2100
+electricity,coal,coal (IGCC),1975
+electricity,coal,coal (IGCC),1990
+electricity,coal,coal (IGCC),2005
+electricity,coal,coal (IGCC),2010
+electricity,coal,coal (IGCC),2015
+electricity,coal,coal (IGCC),2020
+electricity,coal,coal (IGCC),2025
+electricity,coal,coal (IGCC),2030
+electricity,coal,coal (IGCC),2035
+electricity,coal,coal (IGCC),2040
+electricity,coal,coal (IGCC),2045
+electricity,coal,coal (IGCC),2050
+electricity,coal,coal (IGCC),2055
+electricity,coal,coal (IGCC),2060
+electricity,coal,coal (IGCC),2065
+electricity,coal,coal (IGCC),2070
+electricity,coal,coal (IGCC),2075
+electricity,coal,coal (IGCC),2080
+electricity,coal,coal (IGCC),2085
+electricity,coal,coal (IGCC),2090
+electricity,coal,coal (IGCC),2095
+electricity,coal,coal (IGCC),2100
+electricity,coal,coal (IGCC CCS),1975
+electricity,coal,coal (IGCC CCS),1990
+electricity,coal,coal (IGCC CCS),2005
+electricity,coal,coal (IGCC CCS),2010
+electricity,coal,coal (IGCC CCS),2015
+electricity,coal,coal (IGCC CCS),2020
+electricity,coal,coal (IGCC CCS),2025
+electricity,coal,coal (IGCC CCS),2030
+electricity,coal,coal (IGCC CCS),2035
+electricity,coal,coal (IGCC CCS),2040
+electricity,coal,coal (IGCC CCS),2045
+electricity,coal,coal (IGCC CCS),2050
+electricity,coal,coal (IGCC CCS),2055
+electricity,coal,coal (IGCC CCS),2060
+electricity,coal,coal (IGCC CCS),2065
+electricity,coal,coal (IGCC CCS),2070
+electricity,coal,coal (IGCC CCS),2075
+electricity,coal,coal (IGCC CCS),2080
+electricity,coal,coal (IGCC CCS),2085
+electricity,coal,coal (IGCC CCS),2090
+electricity,coal,coal (IGCC CCS),2095
+electricity,coal,coal (IGCC CCS),2100
+electricity,gas,coal (IGCC CCS),1975
+electricity,gas,coal (IGCC CCS),1990
+electricity,gas,coal (IGCC CCS),2005
+electricity,gas,coal (IGCC CCS),2010
+electricity,gas,coal (IGCC CCS),2015
+electricity,gas,coal (IGCC CCS),2020
+electricity,gas,coal (IGCC CCS),2025
+electricity,gas,coal (IGCC CCS),2030
+electricity,gas,coal (IGCC CCS),2035
+electricity,gas,coal (IGCC CCS),2040
+electricity,gas,coal (IGCC CCS),2045
+electricity,gas,coal (IGCC CCS),2050
+electricity,gas,coal (IGCC CCS),2055
+electricity,gas,coal (IGCC CCS),2060
+electricity,gas,coal (IGCC CCS),2065
+electricity,gas,coal (IGCC CCS),2070
+electricity,gas,coal (IGCC CCS),2075
+electricity,gas,coal (IGCC CCS),2080
+electricity,gas,coal (IGCC CCS),2085
+electricity,gas,coal (IGCC CCS),2090
+electricity,gas,coal (IGCC CCS),2095
+electricity,gas,coal (IGCC CCS),2100
+electricity,gas,gas (CC),1975
+electricity,gas,gas (CC),1990
+electricity,gas,gas (CC),2005
+electricity,gas,gas (CC),2010
+electricity,gas,gas (CC),2015
+electricity,gas,gas (CC),2020
+electricity,gas,gas (CC),2025
+electricity,gas,gas (CC),2030
+electricity,gas,gas (CC),2035
+electricity,gas,gas (CC),2040
+electricity,gas,gas (CC),2045
+electricity,gas,gas (CC),2050
+electricity,gas,gas (CC),2055
+electricity,gas,gas (CC),2060
+electricity,gas,gas (CC),2065
+electricity,gas,gas (CC),2070
+electricity,gas,gas (CC),2075
+electricity,gas,gas (CC),2080
+electricity,gas,gas (CC),2085
+electricity,gas,gas (CC),2090
+electricity,gas,gas (CC),2095
+electricity,gas,gas (CC),2100
+electricity,gas,gas (CC CCS),1975
+electricity,gas,gas (CC CCS),1990
+electricity,gas,gas (CC CCS),2005
+electricity,gas,gas (CC CCS),2010
+electricity,gas,gas (CC CCS),2015
+electricity,gas,gas (CC CCS),2020
+electricity,gas,gas (CC CCS),2025
+electricity,gas,gas (CC CCS),2030
+electricity,gas,gas (CC CCS),2035
+electricity,gas,gas (CC CCS),2040
+electricity,gas,gas (CC CCS),2045
+electricity,gas,gas (CC CCS),2050
+electricity,gas,gas (CC CCS),2055
+electricity,gas,gas (CC CCS),2060
+electricity,gas,gas (CC CCS),2065
+electricity,gas,gas (CC CCS),2070
+electricity,gas,gas (CC CCS),2075
+electricity,gas,gas (CC CCS),2080
+electricity,gas,gas (CC CCS),2085
+electricity,gas,gas (CC CCS),2090
+electricity,gas,gas (CC CCS),2095
+electricity,gas,gas (CC CCS),2100
+electricity,refined liquids,refined liquids (steam/CT),1975
+electricity,refined liquids,refined liquids (steam/CT),1990
+electricity,refined liquids,refined liquids (steam/CT),2005
+electricity,refined liquids,refined liquids (steam/CT),2010
+electricity,refined liquids,refined liquids (steam/CT),2015
+electricity,refined liquids,refined liquids (steam/CT),2020
+electricity,refined liquids,refined liquids (steam/CT),2025
+electricity,refined liquids,refined liquids (steam/CT),2030
+electricity,refined liquids,refined liquids (steam/CT),2035
+electricity,refined liquids,refined liquids (steam/CT),2040
+electricity,refined liquids,refined liquids (steam/CT),2045
+electricity,refined liquids,refined liquids (steam/CT),2050
+electricity,refined liquids,refined liquids (steam/CT),2055
+electricity,refined liquids,refined liquids (steam/CT),2060
+electricity,refined liquids,refined liquids (steam/CT),2065
+electricity,refined liquids,refined liquids (steam/CT),2070
+electricity,refined liquids,refined liquids (steam/CT),2075
+electricity,refined liquids,refined liquids (steam/CT),2080
+electricity,refined liquids,refined liquids (steam/CT),2085
+electricity,refined liquids,refined liquids (steam/CT),2090
+electricity,refined liquids,refined liquids (steam/CT),2095
+electricity,refined liquids,refined liquids (steam/CT),2100
+electricity,refined liquids,refined liquids (CC),1975
+electricity,refined liquids,refined liquids (CC),1990
+electricity,refined liquids,refined liquids (CC),2005
+electricity,refined liquids,refined liquids (CC),2010
+electricity,refined liquids,refined liquids (CC),2015
+electricity,refined liquids,refined liquids (CC),2020
+electricity,refined liquids,refined liquids (CC),2025
+electricity,refined liquids,refined liquids (CC),2030
+electricity,refined liquids,refined liquids (CC),2035
+electricity,refined liquids,refined liquids (CC),2040
+electricity,refined liquids,refined liquids (CC),2045
+electricity,refined liquids,refined liquids (CC),2050
+electricity,refined liquids,refined liquids (CC),2055
+electricity,refined liquids,refined liquids (CC),2060
+electricity,refined liquids,refined liquids (CC),2065
+electricity,refined liquids,refined liquids (CC),2070
+electricity,refined liquids,refined liquids (CC),2075
+electricity,refined liquids,refined liquids (CC),2080
+electricity,refined liquids,refined liquids (CC),2085
+electricity,refined liquids,refined liquids (CC),2090
+electricity,refined liquids,refined liquids (CC),2095
+electricity,refined liquids,refined liquids (CC),2100
+electricity,refined liquids,refined liquids (CC CCS),1975
+electricity,refined liquids,refined liquids (CC CCS),1990
+electricity,refined liquids,refined liquids (CC CCS),2005
+electricity,refined liquids,refined liquids (CC CCS),2010
+electricity,refined liquids,refined liquids (CC CCS),2015
+electricity,refined liquids,refined liquids (CC CCS),2020
+electricity,refined liquids,refined liquids (CC CCS),2025
+electricity,refined liquids,refined liquids (CC CCS),2030
+electricity,refined liquids,refined liquids (CC CCS),2035
+electricity,refined liquids,refined liquids (CC CCS),2040
+electricity,refined liquids,refined liquids (CC CCS),2045
+electricity,refined liquids,refined liquids (CC CCS),2050
+electricity,refined liquids,refined liquids (CC CCS),2055
+electricity,refined liquids,refined liquids (CC CCS),2060
+electricity,refined liquids,refined liquids (CC CCS),2065
+electricity,refined liquids,refined liquids (CC CCS),2070
+electricity,refined liquids,refined liquids (CC CCS),2075
+electricity,refined liquids,refined liquids (CC CCS),2080
+electricity,refined liquids,refined liquids (CC CCS),2085
+electricity,refined liquids,refined liquids (CC CCS),2090
+electricity,refined liquids,refined liquids (CC CCS),2095
+electricity,refined liquids,refined liquids (CC CCS),2100
+electricity,solar,CSP,1975
+electricity,solar,CSP,1990
+electricity,solar,CSP,2005
+electricity,solar,CSP,2010
+electricity,solar,CSP,2015
+electricity,solar,CSP,2020
+electricity,solar,CSP,2025
+electricity,solar,CSP,2030
+electricity,solar,CSP,2035
+electricity,solar,CSP,2040
+electricity,solar,CSP,2045
+electricity,solar,CSP,2050
+electricity,solar,CSP,2055
+electricity,solar,CSP,2060
+electricity,solar,CSP,2065
+electricity,solar,CSP,2070
+electricity,solar,CSP,2075
+electricity,solar,CSP,2080
+electricity,solar,CSP,2085
+electricity,solar,CSP,2090
+electricity,solar,CSP,2095
+electricity,solar,CSP,2100
+electricity,solar,CSP_storage,1975
+electricity,solar,CSP_storage,1990
+electricity,solar,CSP_storage,2005
+electricity,solar,CSP_storage,2010
+electricity,solar,CSP_storage,2015
+electricity,solar,CSP_storage,2020
+electricity,solar,CSP_storage,2025
+electricity,solar,CSP_storage,2030
+electricity,solar,CSP_storage,2035
+electricity,solar,CSP_storage,2040
+electricity,solar,CSP_storage,2045
+electricity,solar,CSP_storage,2050
+electricity,solar,CSP_storage,2055
+electricity,solar,CSP_storage,2060
+electricity,solar,CSP_storage,2065
+electricity,solar,CSP_storage,2070
+electricity,solar,CSP_storage,2075
+electricity,solar,CSP_storage,2080
+electricity,solar,CSP_storage,2085
+electricity,solar,CSP_storage,2090
+electricity,solar,CSP_storage,2095
+electricity,solar,CSP_storage,2100
+electricity,solar,PV,1975
+electricity,solar,PV,1990
+electricity,solar,PV,2005
+electricity,solar,PV,2010
+electricity,solar,PV,2015
+electricity,solar,PV,2020
+electricity,solar,PV,2025
+electricity,solar,PV,2030
+electricity,solar,PV,2035
+electricity,solar,PV,2040
+electricity,solar,PV,2045
+electricity,solar,PV,2050
+electricity,solar,PV,2055
+electricity,solar,PV,2060
+electricity,solar,PV,2065
+electricity,solar,PV,2070
+electricity,solar,PV,2075
+electricity,solar,PV,2080
+electricity,solar,PV,2085
+electricity,solar,PV,2090
+electricity,solar,PV,2095
+electricity,solar,PV,2100
+electricity,solar,PV_storage,1975
+electricity,solar,PV_storage,1990
+electricity,solar,PV_storage,2005
+electricity,solar,PV_storage,2010
+electricity,solar,PV_storage,2015
+electricity,solar,PV_storage,2020
+electricity,solar,PV_storage,2025
+electricity,solar,PV_storage,2030
+electricity,solar,PV_storage,2035
+electricity,solar,PV_storage,2040
+electricity,solar,PV_storage,2045
+electricity,solar,PV_storage,2050
+electricity,solar,PV_storage,2055
+electricity,solar,PV_storage,2060
+electricity,solar,PV_storage,2065
+electricity,solar,PV_storage,2070
+electricity,solar,PV_storage,2075
+electricity,solar,PV_storage,2080
+electricity,solar,PV_storage,2085
+electricity,solar,PV_storage,2090
+electricity,solar,PV_storage,2095
+electricity,solar,PV_storage,2100
+electricity,wind,wind,1975
+electricity,wind,wind,1990
+electricity,wind,wind,2005
+electricity,wind,wind,2010
+electricity,wind,wind,2015
+electricity,wind,wind,2020
+electricity,wind,wind,2025
+electricity,wind,wind,2030
+electricity,wind,wind,2035
+electricity,wind,wind,2040
+electricity,wind,wind,2045
+electricity,wind,wind,2050
+electricity,wind,wind,2055
+electricity,wind,wind,2060
+electricity,wind,wind,2065
+electricity,wind,wind,2070
+electricity,wind,wind,2075
+electricity,wind,wind,2080
+electricity,wind,wind,2085
+electricity,wind,wind,2090
+electricity,wind,wind,2095
+electricity,wind,wind,2100
+electricity,wind,wind_offshore,1975
+electricity,wind,wind_offshore,1990
+electricity,wind,wind_offshore,2005
+electricity,wind,wind_offshore,2010
+electricity,wind,wind_offshore,2015
+electricity,wind,wind_offshore,2020
+electricity,wind,wind_offshore,2025
+electricity,wind,wind_offshore,2030
+electricity,wind,wind_offshore,2035
+electricity,wind,wind_offshore,2040
+electricity,wind,wind_offshore,2045
+electricity,wind,wind_offshore,2050
+electricity,wind,wind_offshore,2055
+electricity,wind,wind_offshore,2060
+electricity,wind,wind_offshore,2065
+electricity,wind,wind_offshore,2070
+electricity,wind,wind_offshore,2075
+electricity,wind,wind_offshore,2080
+electricity,wind,wind_offshore,2085
+electricity,wind,wind_offshore,2090
+electricity,wind,wind_offshore,2095
+electricity,wind,wind_offshore,2100
+electricity,wind,wind_storage,1975
+electricity,wind,wind_storage,1990
+electricity,wind,wind_storage,2005
+electricity,wind,wind_storage,2010
+electricity,wind,wind_storage,2015
+electricity,wind,wind_storage,2020
+electricity,wind,wind_storage,2025
+electricity,wind,wind_storage,2030
+electricity,wind,wind_storage,2035
+electricity,wind,wind_storage,2040
+electricity,wind,wind_storage,2045
+electricity,wind,wind_storage,2050
+electricity,wind,wind_storage,2055
+electricity,wind,wind_storage,2060
+electricity,wind,wind_storage,2065
+electricity,wind,wind_storage,2070
+electricity,wind,wind_storage,2075
+electricity,wind,wind_storage,2080
+electricity,wind,wind_storage,2085
+electricity,wind,wind_storage,2090
+electricity,wind,wind_storage,2095
+electricity,wind,wind_storage,2100
+electricity,nuclear,Gen_III,1975
+electricity,nuclear,Gen_III,1990
+electricity,nuclear,Gen_III,2005
+electricity,nuclear,Gen_III,2010
+electricity,nuclear,Gen_III,2015
+electricity,nuclear,Gen_III,2020
+electricity,nuclear,Gen_III,2025
+electricity,nuclear,Gen_III,2030
+electricity,nuclear,Gen_III,2035
+electricity,nuclear,Gen_III,2040
+electricity,nuclear,Gen_III,2045
+electricity,nuclear,Gen_III,2050
+electricity,nuclear,Gen_III,2055
+electricity,nuclear,Gen_III,2060
+electricity,nuclear,Gen_III,2065
+electricity,nuclear,Gen_III,2070
+electricity,nuclear,Gen_III,2075
+electricity,nuclear,Gen_III,2080
+electricity,nuclear,Gen_III,2085
+electricity,nuclear,Gen_III,2090
+electricity,nuclear,Gen_III,2095
+electricity,nuclear,Gen_III,2100
+electricity,nuclear,Gen_II_LWR,1975
+electricity,nuclear,Gen_II_LWR,1990
+electricity,nuclear,Gen_II_LWR,2005
+electricity,nuclear,Gen_II_LWR,2010
+electricity,nuclear,Gen_II_LWR,2015
+electricity,nuclear,Gen_II_LWR,2020
+electricity,nuclear,Gen_II_LWR,2025
+electricity,nuclear,Gen_II_LWR,2030
+electricity,nuclear,Gen_II_LWR,2035
+electricity,nuclear,Gen_II_LWR,2040
+electricity,nuclear,Gen_II_LWR,2045
+electricity,nuclear,Gen_II_LWR,2050
+electricity,nuclear,Gen_II_LWR,2055
+electricity,nuclear,Gen_II_LWR,2060
+electricity,nuclear,Gen_II_LWR,2065
+electricity,nuclear,Gen_II_LWR,2070
+electricity,nuclear,Gen_II_LWR,2075
+electricity,nuclear,Gen_II_LWR,2080
+electricity,nuclear,Gen_II_LWR,2085
+electricity,nuclear,Gen_II_LWR,2090
+electricity,nuclear,Gen_II_LWR,2095
+electricity,nuclear,Gen_II_LWR,2100
+electricity,biomass,biomass (IGCC CCS),1975
+electricity,biomass,biomass (IGCC CCS),1990
+electricity,biomass,biomass (IGCC CCS),2005
+electricity,biomass,biomass (IGCC CCS),2010
+electricity,biomass,biomass (IGCC CCS),2015
+electricity,biomass,biomass (IGCC CCS),2020
+electricity,biomass,biomass (IGCC CCS),2025
+electricity,biomass,biomass (IGCC CCS),2030
+electricity,biomass,biomass (IGCC CCS),2035
+electricity,biomass,biomass (IGCC CCS),2040
+electricity,biomass,biomass (IGCC CCS),2045
+electricity,biomass,biomass (IGCC CCS),2050
+electricity,biomass,biomass (IGCC CCS),2055
+electricity,biomass,biomass (IGCC CCS),2060
+electricity,biomass,biomass (IGCC CCS),2065
+electricity,biomass,biomass (IGCC CCS),2070
+electricity,biomass,biomass (IGCC CCS),2075
+electricity,biomass,biomass (IGCC CCS),2080
+electricity,biomass,biomass (IGCC CCS),2085
+electricity,biomass,biomass (IGCC CCS),2090
+electricity,biomass,biomass (IGCC CCS),2095
+electricity,biomass,biomass (IGCC CCS),2100
+electricity,biomass,biomass (IGCC),1975
+electricity,biomass,biomass (IGCC),1990
+electricity,biomass,biomass (IGCC),2005
+electricity,biomass,biomass (IGCC),2010
+electricity,biomass,biomass (IGCC),2015
+electricity,biomass,biomass (IGCC),2020
+electricity,biomass,biomass (IGCC),2025
+electricity,biomass,biomass (IGCC),2030
+electricity,biomass,biomass (IGCC),2035
+electricity,biomass,biomass (IGCC),2040
+electricity,biomass,biomass (IGCC),2045
+electricity,biomass,biomass (IGCC),2050
+electricity,biomass,biomass (IGCC),2055
+electricity,biomass,biomass (IGCC),2060
+electricity,biomass,biomass (IGCC),2065
+electricity,biomass,biomass (IGCC),2070
+electricity,biomass,biomass (IGCC),2075
+electricity,biomass,biomass (IGCC),2080
+electricity,biomass,biomass (IGCC),2085
+electricity,biomass,biomass (IGCC),2090
+electricity,biomass,biomass (IGCC),2095
+electricity,biomass,biomass (IGCC),2100
+electricity,biomass,biomass (conv CCS),1975
+electricity,biomass,biomass (conv CCS),1990
+electricity,biomass,biomass (conv CCS),2005
+electricity,biomass,biomass (conv CCS),2010
+electricity,biomass,biomass (conv CCS),2015
+electricity,biomass,biomass (conv CCS),2020
+electricity,biomass,biomass (conv CCS),2025
+electricity,biomass,biomass (conv CCS),2030
+electricity,biomass,biomass (conv CCS),2035
+electricity,biomass,biomass (conv CCS),2040
+electricity,biomass,biomass (conv CCS),2045
+electricity,biomass,biomass (conv CCS),2050
+electricity,biomass,biomass (conv CCS),2055
+electricity,biomass,biomass (conv CCS),2060
+electricity,biomass,biomass (conv CCS),2065
+electricity,biomass,biomass (conv CCS),2070
+electricity,biomass,biomass (conv CCS),2075
+electricity,biomass,biomass (conv CCS),2080
+electricity,biomass,biomass (conv CCS),2085
+electricity,biomass,biomass (conv CCS),2090
+electricity,biomass,biomass (conv CCS),2095
+electricity,biomass,biomass (conv CCS),2100
+electricity,biomass,biomass (conv),1975
+electricity,biomass,biomass (conv),1990
+electricity,biomass,biomass (conv),2005
+electricity,biomass,biomass (conv),2010
+electricity,biomass,biomass (conv),2015
+electricity,biomass,biomass (conv),2020
+electricity,biomass,biomass (conv),2025
+electricity,biomass,biomass (conv),2030
+electricity,biomass,biomass (conv),2035
+electricity,biomass,biomass (conv),2040
+electricity,biomass,biomass (conv),2045
+electricity,biomass,biomass (conv),2050
+electricity,biomass,biomass (conv),2055
+electricity,biomass,biomass (conv),2060
+electricity,biomass,biomass (conv),2065
+electricity,biomass,biomass (conv),2070
+electricity,biomass,biomass (conv),2075
+electricity,biomass,biomass (conv),2080
+electricity,biomass,biomass (conv),2085
+electricity,biomass,biomass (conv),2090
+electricity,biomass,biomass (conv),2095
+electricity,biomass,biomass (conv),2100
+electricity,geothermal,geothermal,1975
+electricity,geothermal,geothermal,1990
+electricity,geothermal,geothermal,2005
+electricity,geothermal,geothermal,2010
+electricity,geothermal,geothermal,2015
+electricity,geothermal,geothermal,2020
+electricity,geothermal,geothermal,2025
+electricity,geothermal,geothermal,2030
+electricity,geothermal,geothermal,2035
+electricity,geothermal,geothermal,2040
+electricity,geothermal,geothermal,2045
+electricity,geothermal,geothermal,2050
+electricity,geothermal,geothermal,2055
+electricity,geothermal,geothermal,2060
+electricity,geothermal,geothermal,2065
+electricity,geothermal,geothermal,2070
+electricity,geothermal,geothermal,2075
+electricity,geothermal,geothermal,2080
+electricity,geothermal,geothermal,2085
+electricity,geothermal,geothermal,2090
+electricity,geothermal,geothermal,2095
+electricity,geothermal,geothermal,2100
+electricity,rooftop_pv,rooftop_pv,1975
+electricity,rooftop_pv,rooftop_pv,1990
+electricity,rooftop_pv,rooftop_pv,2005
+electricity,rooftop_pv,rooftop_pv,2010
+electricity,rooftop_pv,rooftop_pv,2015
+electricity,rooftop_pv,rooftop_pv,2020
+electricity,rooftop_pv,rooftop_pv,2025
+electricity,rooftop_pv,rooftop_pv,2030
+electricity,rooftop_pv,rooftop_pv,2035
+electricity,rooftop_pv,rooftop_pv,2040
+electricity,rooftop_pv,rooftop_pv,2045
+electricity,rooftop_pv,rooftop_pv,2050
+electricity,rooftop_pv,rooftop_pv,2055
+electricity,rooftop_pv,rooftop_pv,2060
+electricity,rooftop_pv,rooftop_pv,2065
+electricity,rooftop_pv,rooftop_pv,2070
+electricity,rooftop_pv,rooftop_pv,2075
+electricity,rooftop_pv,rooftop_pv,2080
+electricity,rooftop_pv,rooftop_pv,2085
+electricity,rooftop_pv,rooftop_pv,2090
+electricity,rooftop_pv,rooftop_pv,2095
+electricity,rooftop_pv,rooftop_pv,2100
