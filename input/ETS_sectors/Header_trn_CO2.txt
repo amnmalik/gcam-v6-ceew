@@ -5,9 +5,3 @@ CementHeader, global-technology-database/+{sector-name}location-info, global-tec
 ElecTPPHeader, global-technology-database/+{sector-name}location-info, global-technology-database/+{subsector-name}location-info, location-info/+{name}technology, technology/+{year}period, scenario, scenario/world, world/global-technology-database, period/{name=CO2Elec}CO2
 FertHeader, global-technology-database/+{sector-name}location-info, global-technology-database/+{subsector-name}location-info, location-info/+{name}technology, technology/+{year}period, scenario, scenario/world, world/global-technology-database, period/{name=CO2Fert}CO2
 ETSAllHeader, global-technology-database/+{sector-name}location-info, global-technology-database/+{subsector-name}location-info, location-info/+{name}technology, technology/+{year}period, scenario, scenario/world, world/global-technology-database, period/{name=CO2ETSAll}CO2
-
-
-
-blah, world/+{name}region, region/+{name}supplysector, supplysector/+{name}tranSubsector, tranSubsector/+{name}stub-technology, stub-technology/+{year}period, period/+{name}CO2, scenario, scenario/world
-
-2, world/+{name}region, region/+{name}ghgpolicy, ghgpolicy/+market, ghgpolicy/+{year}constraint, ghgpolicy/+constraint, scenario, scenario/world
