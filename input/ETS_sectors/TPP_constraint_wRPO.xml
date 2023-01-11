@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario>
     <world>
         <region name="India">
-            <ghgpolicy name="CO2IRSTL">
+            <ghgpolicy name="CO2Elec">
                 <market>India</market>
-                <constraint year="2025">107.06</constraint>
-                <constraint year="2030">113.48</constraint>
-                <constraint year="2035">116.03</constraint>
-               <constraint year="2040">112.81</constraint>
-                <constraint year="2045">65.22</constraint>
-                <constraint year="2050">31.63</constraint>
+                <constraint year="2025">427.9</constraint>
+                <constraint year="2030">506.18</constraint>
+                <constraint year="2035">539.57</constraint>
+                <constraint year="2040">505.11</constraint>
+                <constraint year="2045">351.67</constraint>
+                <constraint year="2050">193.09</constraint>
               <!--   <constraint year="2055">100</constraint>
                 <constraint year="2060">100</constraint>
                 <constraint year="2065">100</constraint>

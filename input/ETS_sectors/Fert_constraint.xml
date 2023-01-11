@@ -4,11 +4,11 @@
             <ghgpolicy name="CO2Fert">
                 <market>India</market>
                 <constraint year="2025">11.45</constraint>
-                <constraint year="2030">11.9</constraint>
-				<constraint year="2035">11.21</constraint>
-                <constraint year="2040">9.85</constraint>
-                <constraint year="2045">8.45</constraint>
-                <constraint year="2050">7.47</constraint>
+                <constraint year="2030">11.89</constraint>
+				<constraint year="2035">11.22</constraint>
+                <constraint year="2040">9.92</constraint>
+                <constraint year="2045">8.58</constraint>
+                <constraint year="2050">7.64</constraint>
               <!--   <constraint year="2055">100</constraint>
                 <constraint year="2060">100</constraint>
                 <constraint year="2065">100</constraint>
