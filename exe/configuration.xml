@@ -100,7 +100,7 @@
 		
 		<!-- India specific parameters (Don't change!!) -->
 		<!-- Socioeconomics -->
-		<Value name = "India GDP HighGR">../input/gcamdata/xml/India/Socioeconomics/India_GDP_PoP_HighGR.xml</Value>
+		<Value name = "India GDP HighGR">../input/gcamdata/xml/India/Socioeconomics/LTS_India_update_BAU.xml</Value>
 		<!-- Electricity -->
 		
 		<!-- Capital costs and capacity factors -->
