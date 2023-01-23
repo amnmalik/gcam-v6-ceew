@@ -2,22 +2,22 @@
 <Configuration>
 	<Files>
 		<Value name="xmlInputFileName">../input/gcamdata/xml/Other/modeltime.xml</Value>
-		<Value name="BatchFileName">batch_ag.xml</Value>
+		<Value name="BatchFileName">batch_CMP.xml</Value>
 		<Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
 		<Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
 		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb</Value>
 		<Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
-		<Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
+		<Value write-output="0" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
 		<Value write-output="1" append-scenario-name="1" name="costCurvesOutputFileName">cost_curves.xml</Value>
-		<Value write-output="1" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
+		<Value write-output="0" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
 		<Value write-output="0" append-scenario-name="0" name="supplyDemandOutputFileName">SDCurves.csv</Value>
 		<Value write-output="0" append-scenario-name="0" name="flow-graph">gcam-flow-graph.dot</Value>
 		<Value write-output="0" append-scenario-name="0" name="dependencyGraphName">DependencyGraph.dot</Value>
 		<Value write-output="0" append-scenario-name="0" name="landAllocatorGraphName">LandAllocatorGraph.dot</Value>
 	</Files>
 	<ScenarioComponents>
-        <Value name = "climate">../input/gcamdata/xml/Other/hector.xml</Value>
+      	<Value name = "climate">../input/gcamdata/xml/Other/hector.xml</Value>
 		<Value name = "socioeconomics">../input/gcamdata/xml/Other/socioeconomics_gSSP2.xml</Value>
 		<Value name = "resources">../input/gcamdata/xml/Other/resources.xml</Value>
 		<Value name = "energy_supply">../input/gcamdata/xml/Other/en_supply.xml</Value>
@@ -100,7 +100,7 @@
 		
 		<!-- India specific parameters (Don't change!!) -->
 		<!-- Socioeconomics -->
-	<Value name = "India GDP HighGR">../input/gcamdata/xml/India/Socioeconomics/India_GDP_PoP_HighGR.xml</Value>
+		<Value name = "India GDP HighGR">../input/gcamdata/xml/India/Socioeconomics/India_GDP_PoP_HighGR.xml</Value>
 		<!-- Electricity -->
 		
 		<!-- Capital costs and capacity factors -->
@@ -143,46 +143,13 @@
 		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt.xml</Value>
 		<Value name = "Industry income elasticity">../input/gcamdata/xml/India/Industry/India_indus_incelas.xml</Value>
 		
-		<!-- POLICY RELATED FILES!! -->
-		
-		
-		<!-- India NZ constraint without RPO -->
-	<!-- 	<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value> -->
-		
-		<!-- India NZ constraints, with RPO -->
-		
-<!-- 		<Value name = "India NZ">../input/India_NDC/GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/GHG_market_constraints_2040_2070_row.xml</Value> -->
-		
-<!-- 	<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value> -->
-	<!-- 	<Value name = "India RPS file_wind">../input/policy/India_Credits_50_test_wind.xml</Value>
-		<Value name = "India RPS file_solar+other">../input/policy/India_Credits_50_test_solar+biomass.xml</Value> -->
-
-	<!-- 	<!-- ##ETS constraints -->
-   <!--      <Value name = "Alm link">../input/ETS_sectors/Alu_link.xml</Value>
-		<Value name = "Alm constraint">../input/ETS_sectors/Alu_constraint.xml</Value>
-		<Value name = "Cement link">../input/ETS_sectors/Cement_link.xml</Value>
-		<Value name = "Cement constraint">../input/ETS_sectors/Cement_constraint.xml</Value>
-		<Value name = "Fert link">../input/ETS_sectors/Fert_link.xml</Value>
-		<Value name = "Fert constraint">../input/ETS_sectors/Fert_constraint.xml</Value>
-		<Value name = "IrnStl link">../input/ETS_sectors/IrnStl_link.xml</Value>
-		<Value name = "IrnStl constraint">../input/ETS_sectors/IrnStl_constraint.xml</Value>
-		<Value name = "TPP link">../input/ETS_sectors/TPP_link.xml</Value>
-		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value> -->
-		
-		<!-- Total ETS constraint -->
-<!-- 		<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
-		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value> -->
-		
-			
-		
-        <Value name = "wind_update">../input/gcamdata/xml/Other/onshore_wind.xml</Value>
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
+
+        <Value name = "wind_update">../input/gcamdata/xml/Other/onshore_wind.xml</Value>
 		
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">No_constraint</Value>
+		<Value name="scenarioName">India</Value>
 		<Value name="debug-region">India</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -190,7 +157,7 @@
 	</Strings>	
 	<Bools>
 		<Value name="CalibrationActive">1</Value>
-		<Value name="BatchMode">0</Value>
+		<Value name="BatchMode">1</Value>
 		<Value name="find-path">0</Value>
 		<Value name="createCostCurve">0</Value>
 		<Value name="debugChecking">0</Value>
@@ -208,7 +175,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">-1</Value>
-		<Value name="stop-year">2050</Value>
+		<Value name="stop-year">2070</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
