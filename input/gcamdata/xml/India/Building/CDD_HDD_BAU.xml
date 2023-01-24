@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <thermal-building-service-input name="comm cooling">
+                            <degree-days year="1975">2906</degree-days>
+                            <degree-days year="1990">2976</degree-days>
+                            <degree-days year="2005">3105</degree-days>
+                            <degree-days year="2010">3162</degree-days>
+                            <degree-days year="2015">3227</degree-days>
+                            <degree-days year="2020">3298</degree-days>
+                            <degree-days year="2025">3375</degree-days>
+                            <degree-days year="2030">3458</degree-days>
+                            <degree-days year="2035">3545</degree-days>
+                            <degree-days year="2040">3635</degree-days>
+                            <degree-days year="2045">3727</degree-days>
+                            <degree-days year="2050">3820</degree-days>
+                            <degree-days year="2055">3911</degree-days>
+                            <degree-days year="2060">3999</degree-days>
+                            <degree-days year="2065">4083</degree-days>
+                            <degree-days year="2070">4158</degree-days>
+                            <degree-days year="2075">4225</degree-days>
+                            <degree-days year="2080">4278</degree-days>
+                            <degree-days year="2085">4317</degree-days>
+                            <degree-days year="2090">4338</degree-days>
+                            <degree-days year="2095">4338</degree-days>
+                            <degree-days year="2100">4320</degree-days>
+                        </thermal-building-service-input>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <thermal-building-service-input name="resid cooling">
+                            <degree-days year="1975">2906</degree-days>
+                            <degree-days year="1990">2976</degree-days>
+                            <degree-days year="2005">3105</degree-days>
+                            <degree-days year="2010">3162</degree-days>
+                            <degree-days year="2015">3227</degree-days>
+                            <degree-days year="2020">3298</degree-days>
+                            <degree-days year="2025">3375</degree-days>
+                            <degree-days year="2030">3458</degree-days>
+                            <degree-days year="2035">3545</degree-days>
+                            <degree-days year="2040">3635</degree-days>
+                            <degree-days year="2045">3727</degree-days>
+                            <degree-days year="2050">3820</degree-days>
+                            <degree-days year="2055">3911</degree-days>
+                            <degree-days year="2060">3999</degree-days>
+                            <degree-days year="2065">4083</degree-days>
+                            <degree-days year="2070">4158</degree-days>
+                            <degree-days year="2075">4225</degree-days>
+                            <degree-days year="2080">4278</degree-days>
+                            <degree-days year="2085">4317</degree-days>
+                            <degree-days year="2090">4338</degree-days>
+                            <degree-days year="2095">4338</degree-days>
+                            <degree-days year="2100">4320</degree-days>
+                        </thermal-building-service-input>
+                        <thermal-building-service-input name="resid heating">
+                            <degree-days year="1975">303</degree-days>
+                            <degree-days year="1990">291</degree-days>
+                            <degree-days year="2005">270</degree-days>
+                            <degree-days year="2010">262</degree-days>
+                            <degree-days year="2015">253</degree-days>
+                            <degree-days year="2020">244</degree-days>
+                            <degree-days year="2025">234</degree-days>
+                            <degree-days year="2030">225</degree-days>
+                            <degree-days year="2035">216</degree-days>
+                            <degree-days year="2040">207</degree-days>
+                            <degree-days year="2045">198</degree-days>
+                            <degree-days year="2050">190</degree-days>
+                            <degree-days year="2055">182</degree-days>
+                            <degree-days year="2060">175</degree-days>
+                            <degree-days year="2065">168</degree-days>
+                            <degree-days year="2070">162</degree-days>
+                            <degree-days year="2075">157</degree-days>
+                            <degree-days year="2080">153</degree-days>
+                            <degree-days year="2085">150</degree-days>
+                            <degree-days year="2090">147</degree-days>
+                            <degree-days year="2095">146</degree-days>
+                            <degree-days year="2100">145</degree-days>
+                        </thermal-building-service-input>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+    </world>
+</scenario>
