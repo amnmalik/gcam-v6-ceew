@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario>
     <world>
         <region name="India">
-            <ghgpolicy name="CO2ETSAll">
+            <ghgpolicy name="CO2ETS">
                 <market>India</market>
                 <constraint year="2025">610</constraint>
                 <constraint year="2030">717</constraint>
