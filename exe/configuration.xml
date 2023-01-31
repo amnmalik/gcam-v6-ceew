@@ -119,7 +119,7 @@
 		<Value name = "India intermittency cost">../input/gcamdata/xml/India/Electricity/India_IntTechBackup_elec.xml</Value>
 		
 		<!-- <Value name = "India technical_efficiency">../input/gcamdata/xml/India/Electricity/India_elec_TechEff.xml</Value> -->
-			
+		
 		<!-- Share weight -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt.xml</Value>
 		
@@ -138,12 +138,12 @@
 
 		<!-- Building -->
 		<Value name = "Building shrwt">../input/gcamdata/xml/India/Building/India_building_share-weights_Ref.xml</Value>
-		<Value name = "Building heating cooling days">../input/gcamdata/xml/India/Building/CDD_HDD_BAU.xml</Value>		
+		<Value name = "Building heating cooling days">../input/gcamdata/xml/India/Building/CDD_HDD_BAU.xml</Value>
 		<!-- Industry -->
 		
 		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt.xml</Value>
-		<Value name = "Other Industry income elasticity">../input/gcamdata/xml/India/Industry/India_other_indus_incelas.xml</Value>
-		<Value name = "Irn Stl and Cement income elasticity">../input/gcamdata/xml/India/Industry/India_indus_incelas_cemtn_irnstl_BAU.xml</Value>
+		<Value name = "India industry income elasticity">../input/gcamdata/xml/India/Industry/India_indus_incelas.xml</Value>
+		<Value name = "India Industry tech efficiencies">../input/gcamdata/xml/India/Industry/India_indus_eff.xml</Value>
 		
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
@@ -177,7 +177,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">-1</Value>
-		<Value name="stop-year">2050</Value>
+		<Value name="stop-year">2070</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
