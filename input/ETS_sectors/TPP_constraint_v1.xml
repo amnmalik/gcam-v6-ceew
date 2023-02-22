@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <ghgpolicy name="CO2Elec">
+                <market>India</market>
+                <constraint year="2025">412.04</constraint>
+                <constraint year="2030">464.87</constraint>
+                <constraint year="2035">504.30</constraint>
+                <constraint year="2040">543.72</constraint>
+                <constraint year="2045">453.10</constraint>
+                <constraint year="2050">362.49</constraint>
+				<constraint year="2055">271.87</constraint>
+                <constraint year="2060">181.25</constraint>
+                <constraint year="2065">90.63</constraint>
+                <constraint year="2070">0.01</constraint>
+               <!--  <constraint year="2075">80</constraint>
+                <constraint year="2080">80</constraint>
+                <constraint year="2085">80</constraint>
+                <constraint year="2090">80</constraint>
+                <constraint year="2095">80</constraint>
+                <constraint year="2100">80</constraint>  -->
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>

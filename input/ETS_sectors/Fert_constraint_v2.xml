@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <ghgpolicy name="CO2Fert">
+                <market>India</market>
+                <constraint year="2025">11.55</constraint>
+                <constraint year="2030">11.49</constraint>
+				<constraint year="2035">10.42</constraint>
+                <constraint year="2040">9.34</constraint>
+                <constraint year="2045">7.78</constraint>
+                <constraint year="2050">6.23</constraint>
+				<constraint year="2055">4.67</constraint>
+                <constraint year="2060">3.12</constraint>
+                <constraint year="2065">1.56</constraint>
+                <constraint year="2070">0.01</constraint>
+               <!--  <constraint year="2075">80</constraint>
+                <constraint year="2080">80</constraint>
+                <constraint year="2085">80</constraint>
+                <constraint year="2090">80</constraint>
+                <constraint year="2095">80</constraint>
+                <constraint year="2100">80</constraint> -->
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>
