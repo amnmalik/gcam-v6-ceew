@@ -4,14 +4,14 @@
             <ghgpolicy name="CO2Elec">
                 <market>India</market>
                 <constraint year="2025">412.04</constraint>
-                <constraint year="2030">494.55</constraint>
-                <constraint year="2035">567.03</constraint>
-                <constraint year="2040">624.97</constraint>
-                <constraint year="2045">520.81</constraint>
-                <constraint year="2050">416.65</constraint>
-				<constraint year="2055">312.49</constraint>
-                <constraint year="2060">208.33</constraint>
-                <constraint year="2065">104.17</constraint>
+                <constraint year="2030">479.71</constraint>
+                <constraint year="2035">533.59</constraint>
+                <constraint year="2040">587.47</constraint>
+                <constraint year="2045">505.19</constraint>
+                <constraint year="2050">404.15</constraint>
+				<constraint year="2055">303.12</constraint>
+                <constraint year="2060">202.08</constraint>
+                <constraint year="2065">101.05</constraint>
                 <constraint year="2070">0.01</constraint>
                <!--  <constraint year="2075">80</constraint>
                 <constraint year="2080">80</constraint>
