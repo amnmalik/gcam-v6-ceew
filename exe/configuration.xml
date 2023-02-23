@@ -131,7 +131,7 @@
 		<!-- Others -->
 		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_cost_change_reference.xml</Value>
 		<Value name = "India Ccoef">../input/gcamdata/xml/India/Others/India_CarbonCoef.xml</Value>
-		<Value name = "Global Ccoef">../input/gcamdata/xml/India/Others/Global Carbon Coeff Revised.xml</Value>
+		<Value name = "Global Ccoef">../input/gcamdata/xml/India/Others/Global Carbon Coeff Revised_noUnconOil.xml</Value>
 		<Value name = "Biomass constraint">../input/gcamdata/xml/India/Others/India_biomassliquids_weights_restrict.xml</Value>
 		
 		<!-- Transport -->
@@ -180,7 +180,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">-1</Value>
-		<Value name="stop-year">2040</Value>
+		<Value name="stop-year">2025</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
