@@ -12,7 +12,7 @@
               <constraint year="2055">64.35</constraint>
                 <constraint year="2060">42.90</constraint>
                 <constraint year="2065">21.46</constraint>
-                <constraint year="2070">0.01</constraint>
+                <constraint year="2070">0.02</constraint>
               <!--   <constraint year="2075">80</constraint>
                 <constraint year="2080">80</constraint>
                 <constraint year="2085">80</constraint>
