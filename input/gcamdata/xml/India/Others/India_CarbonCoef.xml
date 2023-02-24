@@ -18,7 +18,7 @@
          <PrimaryFuelCO2Coef name="wholesale gas">14.8</PrimaryFuelCO2Coef>
          <PrimaryFuelCO2Coef name="delivered gas">14.8</PrimaryFuelCO2Coef>
          <PrimaryFuelCO2Coef name="crude oil">19.97</PrimaryFuelCO2Coef>
-		<PrimaryFuelCO2Coef name="unconventional oil">21.1</PrimaryFuelCO2Coef>
+	<!-- 	<PrimaryFuelCO2Coef name="unconventional oil">21.1</PrimaryFuelCO2Coef> -->
         <!--  <PrimaryFuelCO2Coef name="unconventional oil production">19.97</PrimaryFuelCO2Coef> -->
          <PrimaryFuelCO2Coef name="regional oil">19.97</PrimaryFuelCO2Coef>
          <PrimaryFuelCO2Coef name="refining">19.97</PrimaryFuelCO2Coef>
