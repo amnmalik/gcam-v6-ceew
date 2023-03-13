@@ -3,16 +3,15 @@
         <region name="India">
             <ghgpolicy name="CO2Cement">
                 <market>India</market>
-                <constraint year="2025">67.75</constraint>
-                <constraint year="2030">75.97</constraint>
-               <constraint year="2035">92.32</constraint>
-              <constraint year="2040">108.67</constraint>
-                <constraint year="2045">86.98</constraint>
-                <constraint year="2050">69.59</constraint>
-              <constraint year="2055">52.19</constraint>
-                <constraint year="2060">34.80</constraint>
-                <constraint year="2065">17.40</constraint>
-                <constraint year="2070">2</constraint>
+                <constraint year="2030">83.1</constraint>
+               <constraint year="2035">101.6</constraint>
+              <constraint year="2040">119.5</constraint>
+                <constraint year="2045">107.9</constraint>
+                <constraint year="2050">96.3</constraint>
+              <constraint year="2055">84.8</constraint>
+                <constraint year="2060">73.2</constraint>
+                <constraint year="2065">61.6</constraint>
+                <constraint year="2070">50</constraint>
               <!--   <constraint year="2075">80</constraint>
                 <constraint year="2080">80</constraint>
                 <constraint year="2085">80</constraint>
