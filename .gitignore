@@ -26,4 +26,3 @@ output/gcam_diagnostics/mappings/agg_region_mapping.csv
 LICENSE.md
 output/gcam_diagnostics/diagnostics.R
 ModelInterface
-*.xml
