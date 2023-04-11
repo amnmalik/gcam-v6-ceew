@@ -210,8 +210,8 @@
 			<subsector name="rooftop_pv">
 			<interpolation-rule apply-to="share-weight"
                         from-year="2015" to-year="2020">
-                        <from-value>0.09</from-value>
-                        <to-value>0.09</to-value>
+                        <from-value>0.1</from-value>
+                        <to-value>0.1</to-value>
                         <interpolation-function name="fixed"/>
                     </interpolation-rule>
 					    </subsector>
