@@ -29,7 +29,7 @@
 		<Value name = "energy_distribution">../input/gcamdata/xml/Other/en_distribution.xml</Value>
 		<Value name = "other_industry">../input/gcamdata/xml/Other/other_industry.xml</Value>
 		<Value name = "industry_income_elas">../input/gcamdata/xml/Other/other_industry_incelas_gssp2.xml</Value>
- 		<Value name = "iron_steel">../input/gcamdata/xml/Other/iron_steel_AM1.xml</Value>
+ 		<Value name = "iron_steel">../input/gcamdata/xml/Other/iron_steel.xml</Value>
 		<Value name = "iron_steel_income_elas">../input/gcamdata/xml/Other/iron_steel_incelas_gssp2.xml</Value>   
  		<Value name = "Off_road">../input/gcamdata/xml/Other/Off_road.xml</Value>
 		<Value name = "Off_road_income_elas">../input/gcamdata/xml/Other/Off_road_incelas_gssp2.xml</Value>  
@@ -178,7 +178,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">-1</Value>
-		<Value name="stop-year">2040</Value>
+		<Value name="stop-year">2070</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
