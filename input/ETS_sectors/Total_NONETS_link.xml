@@ -2,7 +2,7 @@
 <scenario>
     <world>
         <global-technology-database> 
-	<location-info sector-name="regional oil" subsector-name="imported crude oil">
+		<location-info sector-name="regional oil" subsector-name="imported crude oil">
                 <technology name="imported crude oil">
                     <period year="1975">
                         <CO2 name="CO2NONETSAll"/>
@@ -73,7 +73,7 @@
                 </technology>
 				      </location-info>
 	<location-info sector-name="regional natural gas" subsector-name="regional natural gas">
-                <technology name="regional natural gas">
+                <technology name="imported natural gas">
                     <period year="1975">
                         <CO2 name="CO2NONETSAll"/>
                     </period>
