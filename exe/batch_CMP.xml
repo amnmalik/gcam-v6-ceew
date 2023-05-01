@@ -3,24 +3,24 @@
 	<ComponentSet name="Policy Scenarios">
 		
 		<!-- <FileSet name="_NoConstraint">
+		</FileSet>  -->
+		
+		<!-- <FileSet name="_NZ">
+		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
+		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
 		</FileSet> -->
 		
-		<FileSet name="_NZ">
-		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
-		</FileSet> 
-		
 		<FileSet name="_NZ+ETS">
-		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
 		<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
 		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value>
-		</FileSet>
-			
-		<!-- <FileSet name="_NZ+CC">
-		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
-			
+		<Value name = "Total Non-ETS link">../input/ETS_sectors/Total_NONETS_link.xml</Value>
+		<Value name = "Total Non-ETS constraint">../input/ETS_sectors/Total_NONETS_constraint.xml</Value>
+		</FileSet> 
+		
+	<!-- 	<FileSet name="_NZ+CC">
+		<Value name = "Total Non-ETS link">../input/ETS_sectors/Total_NONETS_link.xml</Value>
+		<Value name = "Total Non-ETS constraint">../input/ETS_sectors/Total_NONETS_constraint.xml</Value>
+		
 		<Value name = "Cement link">../input/ETS_sectors/Cement_link.xml</Value>
 		<Value name = "Cement constraint">../input/ETS_sectors/Cement_constraint.xml</Value>
 		<Value name = "Fert link">../input/ETS_sectors/Fert_link.xml</Value>
@@ -29,9 +29,9 @@
 		<Value name = "IrnStl constraint">../input/ETS_sectors/IrnStl_constraint.xml</Value>
 		<Value name = "TPP link">../input/ETS_sectors/TPP_link.xml</Value>
 		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value>
-		</FileSet>  -->
+		</FileSet> --> 
 		
-		<FileSet name="_NZ+CC_v1">
+	<!-- 	<FileSet name="_NZ+CC_v1">
 		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
 		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
 			
@@ -43,9 +43,9 @@
 		<Value name = "IrnStl constraint">../input/ETS_sectors/IrnStl_constraint_v1.xml</Value>
 		<Value name = "TPP link">../input/ETS_sectors/TPP_link.xml</Value>
 		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint_v1.xml</Value>
-		</FileSet> 
+		</FileSet>  -->
 		
-		<FileSet name="_NZ+CC_v2">
+		<!-- <FileSet name="_NZ+CC_v2">
 		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
 		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
 			
@@ -57,17 +57,18 @@
 		<Value name = "IrnStl constraint">../input/ETS_sectors/IrnStl_constraint_v2.xml</Value>
 		<Value name = "TPP link">../input/ETS_sectors/TPP_link.xml</Value>
 		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint_v2.xml</Value>
-		</FileSet> 
+		</FileSet> --> 
 		
 		
-		<FileSet name="_NZ+RPO+ETS">
-		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
-		<Value name = "Rest of the world">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_row.xml</Value>
-		<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value>
+		<!-- <FileSet name="_NZ+RPO+ETS">
 		<Value name = "Total ETS link">../input/ETS_sectors/Total_ETS_link.xml</Value>
-		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value>	
+		<Value name = "Total ETS constraint">../input/ETS_sectors/Total_ETS_constraint.xml</Value>
+		<Value name = "Total Non-ETS link">../input/ETS_sectors/Total_NONETS_link.xml</Value>
+		<Value name = "Total Non-ETS constraint">../input/ETS_sectors/Total_NONETS_constraint.xml</Value>
+		<Value name = "India RPS file_general">../input/policy/India_Credits_50_test.xml</Value>
+	
  
-		</FileSet>
+		</FileSet> -->
 		
 		<!-- <FileSet name="_NZ+RPO">
 		<Value name = "India NZ">../input/India_NDC/NZonly_GHG_market_constraints_2040_2070_India_high_gr.xml </Value>
@@ -93,6 +94,5 @@
 		<Value name = "TPP constraint">../input/ETS_sectors/TPP_constraint.xml</Value>
 		</FileSet>   -->
 		
-
 	</ComponentSet>
 </BatchRunner>
