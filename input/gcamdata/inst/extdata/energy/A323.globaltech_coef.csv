@@ -4,38 +4,38 @@
 # Column types: ccccnnn
 # ----------
 supplysector,subsector,technology,minicam.energy.input,1971,2010,2100
-iron and steel,BLASTFUR,Biomass-based,delivered biomass,0.016777903,0.016777903,0.012237873
-iron and steel,BLASTFUR,Biomass-based,refined liquids industrial,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,Biomass-based,elect_td_ind,0.000548226,0.000548226,0.000399878
-iron and steel,BLASTFUR,Biomass-based,wholesale gas,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,BLASTFUR,delivered coal,0.016777903,0.016777903,0.012237873
-iron and steel,BLASTFUR,BLASTFUR,refined liquids industrial,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,BLASTFUR,elect_td_ind,0.000548226,0.000548226,0.000399878
-iron and steel,BLASTFUR,BLASTFUR,wholesale gas,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,BLASTFUR CCS,delivered coal,0.013390014,0.013390014,0.013390014
-iron and steel,BLASTFUR,BLASTFUR CCS,refined liquids industrial,0.00001,0.00001,0.00001
-iron and steel,BLASTFUR,BLASTFUR CCS,elect_td_ind,0.001061098,0.001061098,0.001061098
-iron and steel,BLASTFUR,BLASTFUR CCS,wholesale gas,0.00001,0.00001,0.00001
-iron and steel,EAF with DRI,EAF with DRI,delivered coal,0.0023401,0.0023401,0.001706879
-iron and steel,EAF with DRI,EAF with DRI,refined liquids industrial,0.0025312,0.0025312,0.001846268
-iron and steel,EAF with DRI,EAF with DRI,elect_td_ind,0.001315008,0.001315008,0.000959172
-iron and steel,EAF with DRI,EAF with DRI,wholesale gas,0.01436931,0.01436931,0.010481035
-iron and steel,EAF with DRI,EAF with DRI CCS,delivered coal,0.0023401,0.0023401,0.0023401
-iron and steel,EAF with DRI,EAF with DRI CCS,refined liquids industrial,0.0025312,0.0025312,0.0025312
-iron and steel,EAF with DRI,EAF with DRI CCS,elect_td_ind,0.001315008,0.001315008,0.001315008
-iron and steel,EAF with DRI,EAF with DRI CCS,wholesale gas,0.01436931,0.01436931,0.01436931
-iron and steel,EAF with DRI,Hydrogen-based DRI,H2 industrial,0.01436931,0.01436931,0.010481035
-iron and steel,EAF with DRI,Hydrogen-based DRI,elect_td_ind,0.001240346,0.001240346,0.000904714
-iron and steel,EAF with scrap,EAF with scrap,refined liquids industrial,0.000562694,0.000562694,0.000410431
-iron and steel,EAF with scrap,EAF with scrap,elect_td_ind,0.00154741,0.00154741,0.001128687
-iron and steel,EAF with scrap,EAF with scrap,scrap,1.1,1.1,1.1
-iron and steel,BLASTFUR,BLASTFUR with hydrogen,delivered coal,0.013657903,0.013657903,0.009962132
-iron and steel,BLASTFUR,BLASTFUR with hydrogen,refined liquids industrial,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,BLASTFUR with hydrogen,elect_td_ind,0.000548226,0.000548226,0.000399878
-iron and steel,BLASTFUR,BLASTFUR with hydrogen,wholesale gas,0.00001,0.00001,7.29404E-06
-iron and steel,BLASTFUR,BLASTFUR with hydrogen,H2 industrial,0.0032989,0.0032989,0.002406231
-iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,delivered coal,0.010270014,0.010270014,0.010270014
-iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,refined liquids industrial,0.00001,0.00001,0.00001
-iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,elect_td_ind,0.001061098,0.001061098,0.001061098
-iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,wholesale gas,0.00001,0.00001,0.00001
-iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,H2 industrial,0.0032989,0.0032989,0.0032989
+iron and steel,BLASTFUR,Biomass-based,delivered biomass,0.016777903,0.016777903,0.009903545
+iron and steel,BLASTFUR,Biomass-based,refined liquids industrial,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,Biomass-based,elect_td_ind,0.000548226,0.000548226,0.000323603
+iron and steel,BLASTFUR,Biomass-based,wholesale gas,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR,delivered coal,0.016777903,0.016777903,0.009903545
+iron and steel,BLASTFUR,BLASTFUR,refined liquids industrial,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR,elect_td_ind,0.000548226,0.000548226,0.000323603
+iron and steel,BLASTFUR,BLASTFUR,wholesale gas,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR CCS,delivered coal,0.013390014,0.013390014,0.007903765
+iron and steel,BLASTFUR,BLASTFUR CCS,refined liquids industrial,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR CCS,elect_td_ind,0.001061098,0.001061098,0.000626338
+iron and steel,BLASTFUR,BLASTFUR CCS,wholesale gas,0.00001,0.00001,5.90273E-06
+iron and steel,EAF with DRI,EAF with DRI,delivered coal,0.0023401,0.0023401,0.001381298
+iron and steel,EAF with DRI,EAF with DRI,refined liquids industrial,0.0025312,0.0025312,0.001494099
+iron and steel,EAF with DRI,EAF with DRI,elect_td_ind,0.001315008,0.001315008,0.000776214
+iron and steel,EAF with DRI,EAF with DRI,wholesale gas,0.01436931,0.01436931,0.008481817
+iron and steel,EAF with DRI,EAF with DRI CCS,delivered coal,0.0023401,0.0023401,0.001381298
+iron and steel,EAF with DRI,EAF with DRI CCS,refined liquids industrial,0.0025312,0.0025312,0.001494099
+iron and steel,EAF with DRI,EAF with DRI CCS,elect_td_ind,0.001315008,0.001315008,0.000776214
+iron and steel,EAF with DRI,EAF with DRI CCS,wholesale gas,0.01436931,0.01436931,0.008481817
+iron and steel,EAF with DRI,Hydrogen-based DRI,H2 industrial,0.01436931,0.01436931,0.008481817
+iron and steel,EAF with DRI,Hydrogen-based DRI,elect_td_ind,0.001240346,0.001240346,0.000732143
+iron and steel,EAF with scrap,EAF with scrap,refined liquids industrial,0.000562694,0.000562694,0.000332143
+iron and steel,EAF with scrap,EAF with scrap,elect_td_ind,0.00154741,0.00154741,0.000913395
+iron and steel,EAF with scrap,EAF with scrap,scrap,1.1,1.1,0.649300425
+iron and steel,BLASTFUR,BLASTFUR with hydrogen,delivered coal,0.013657903,0.013657903,0.008061893
+iron and steel,BLASTFUR,BLASTFUR with hydrogen,refined liquids industrial,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR with hydrogen,elect_td_ind,0.000548226,0.000548226,0.000323603
+iron and steel,BLASTFUR,BLASTFUR with hydrogen,wholesale gas,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR with hydrogen,H2 industrial,0.0032989,0.0032989,0.001947252
+iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,delivered coal,0.010270014,0.010270014,0.006062113
+iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,refined liquids industrial,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,elect_td_ind,0.001061098,0.001061098,0.000626338
+iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,wholesale gas,0.00001,0.00001,5.90273E-06
+iron and steel,BLASTFUR,BLASTFUR CCS with hydrogen,H2 industrial,0.0032989,0.0032989,0.001947252
