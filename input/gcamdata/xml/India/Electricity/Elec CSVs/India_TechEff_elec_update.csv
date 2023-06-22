@@ -1,0 +1,1076 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionTechEff_new,,,,,,
+,,,,,,
+Region,supplysector,subsector,technology,year,minicam.energy.input,efficiency
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2020,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2025,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2030,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2035,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2040,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2045,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2050,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2055,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2060,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2065,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2070,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2075,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2080,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2085,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2090,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2095,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (once through),2100,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2020,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2025,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2030,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2035,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2040,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2045,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2050,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2055,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2060,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2065,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2070,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2075,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2080,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2085,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2090,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2095,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (seawater),2100,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2020,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2025,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2030,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2035,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2040,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2045,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2050,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2055,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2060,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2065,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2070,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2075,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2080,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2085,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2090,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2095,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (recirculating),2100,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2020,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2025,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2030,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2035,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2040,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2045,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2050,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2055,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2060,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2065,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2070,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2075,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2080,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2085,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2090,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2095,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (cooling pond),2100,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2020,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2025,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2030,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2035,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2040,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2045,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2050,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2055,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2060,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2065,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2070,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2075,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2080,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2085,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2090,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2095,regional coal,0.4
+India,elec_coal (conv pul),coal (conv pul),coal (conv pul) (dry cooling),2100,regional coal,0.4
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2020,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2025,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2030,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2035,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2040,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2045,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2050,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2055,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2060,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2065,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2070,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2075,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2080,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2085,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2090,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2095,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (once through),2100,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2020,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2025,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2030,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2035,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2040,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2045,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2050,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2055,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2060,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2065,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2070,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2075,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2080,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2085,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2090,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2095,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (seawater),2100,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2020,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2025,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2030,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2035,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2040,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2045,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2050,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2055,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2060,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2065,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2070,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2075,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2080,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2085,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2090,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2095,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (recirculating),2100,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2020,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2025,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2030,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2035,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2040,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2045,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2050,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2055,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2060,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2065,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2070,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2075,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2080,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2085,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2090,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2095,regional coal,0.45
+India,elec_coal (IGCC),coal (IGCC),coal (IGCC) (dry cooling),2100,regional coal,0.45
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2020,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2025,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2030,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2035,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2040,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2045,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2050,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2055,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2060,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2065,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2070,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2075,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2080,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2085,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2090,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2095,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (once through),2100,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2020,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2025,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2030,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2035,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2040,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2045,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2050,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2055,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2060,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2065,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2070,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2075,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2080,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2085,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2090,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2095,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (seawater),2100,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2020,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2025,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2030,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2035,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2040,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2045,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2050,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2055,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2060,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2065,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2070,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2075,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2080,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2085,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2090,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2095,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (recirculating),2100,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2020,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2025,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2030,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2035,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2040,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2045,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2050,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2055,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2060,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2065,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2070,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2075,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2080,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2085,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2090,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2095,regional coal,0.4
+India,elec_coal (conv pul CCS),coal (conv pul CCS),coal (conv pul CCS) (dry cooling),2100,regional coal,0.4
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2020,regional coal,0.42
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2025,regional coal,0.43
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2030,regional coal,0.44
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2035,regional coal,0.455
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2040,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2045,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2050,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2055,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2060,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2065,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2070,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2075,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2080,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2085,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2090,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2095,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (once through),2100,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2020,regional coal,0.42
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2025,regional coal,0.43
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2030,regional coal,0.44
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2035,regional coal,0.455
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2040,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2045,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2050,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2055,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2060,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2065,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2070,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2075,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2080,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2085,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2090,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2095,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (seawater),2100,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2020,regional coal,0.42
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2025,regional coal,0.43
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2030,regional coal,0.44
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2035,regional coal,0.455
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2040,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2045,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2050,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2055,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2060,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2065,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2070,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2075,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2080,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2085,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2090,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2095,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (recirculating),2100,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2020,regional coal,0.42
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2025,regional coal,0.43
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2030,regional coal,0.44
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2035,regional coal,0.455
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2040,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2045,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2050,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2055,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2060,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2065,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2070,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2075,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2080,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2085,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2090,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2095,regional coal,0.47
+India,elec_coal (IGCC CCS),coal (IGCC CCS),coal (IGCC CCS) (dry cooling),2100,regional coal,0.47
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2020,wholesale gas,0.38
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2025,wholesale gas,0.385
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2030,wholesale gas,0.39
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2035,wholesale gas,0.4
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2040,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2045,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2050,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2055,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2060,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2065,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2070,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2075,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2080,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2085,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2090,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2095,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (once through),2100,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2020,wholesale gas,0.38
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2025,wholesale gas,0.385
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2030,wholesale gas,0.39
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2035,wholesale gas,0.4
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2040,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2045,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2050,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2055,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2060,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2065,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2070,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2075,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2080,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2085,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2090,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (seawater),2095,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2100,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2020,wholesale gas,0.38
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2025,wholesale gas,0.385
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2030,wholesale gas,0.39
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2035,wholesale gas,0.4
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2040,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2045,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2050,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2055,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2060,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2065,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2070,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2075,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2080,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2085,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2090,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2095,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (recirculating),2100,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2020,wholesale gas,0.38
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2025,wholesale gas,0.385
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2030,wholesale gas,0.39
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2035,wholesale gas,0.4
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2040,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2045,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2050,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2055,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2060,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2065,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2070,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2075,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2080,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2085,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2090,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2095,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (cooling pond),2100,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2020,wholesale gas,0.38
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2025,wholesale gas,0.385
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2030,wholesale gas,0.39
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2035,wholesale gas,0.4
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2040,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2045,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2050,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2055,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2060,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2065,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2070,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2075,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2080,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2085,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2090,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2095,wholesale gas,0.41
+India,elec_gas (steam/CT),gas (steam/CT),gas (steam/CT) (dry cooling),2100,wholesale gas,0.41
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2020,wholesale gas,0.56
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2025,wholesale gas,0.565
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2030,wholesale gas,0.57
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2035,wholesale gas,0.575
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2040,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2045,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2050,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2055,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2060,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2065,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2070,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2075,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2080,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2085,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2090,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2095,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (once through),2100,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2020,wholesale gas,0.56
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2025,wholesale gas,0.565
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2030,wholesale gas,0.57
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2035,wholesale gas,0.575
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2040,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2045,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2050,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2055,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2060,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2065,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2070,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2075,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2080,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2085,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2090,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2095,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (seawater),2100,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2020,wholesale gas,0.56
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2025,wholesale gas,0.565
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2030,wholesale gas,0.57
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2035,wholesale gas,0.575
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2040,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2045,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2050,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2055,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2060,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2065,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2070,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2075,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2080,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2085,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2090,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2095,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (recirculating),2100,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2020,wholesale gas,0.56
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2025,wholesale gas,0.565
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2030,wholesale gas,0.57
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2035,wholesale gas,0.575
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2040,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2045,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2050,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2055,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2060,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2065,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2070,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2075,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2080,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2085,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2090,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2095,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (cooling pond),2100,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2020,wholesale gas,0.56
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2025,wholesale gas,0.565
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2030,wholesale gas,0.57
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2035,wholesale gas,0.575
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2040,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2045,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2050,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2055,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2060,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2065,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2070,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2075,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2080,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2085,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2090,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2095,wholesale gas,0.58
+India,elec_gas (CC),gas (CC),gas (CC) (dry cooling),2100,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2020,wholesale gas,0.56
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2025,wholesale gas,0.565
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2030,wholesale gas,0.57
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2035,wholesale gas,0.575
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2040,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2045,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2050,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2055,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2060,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2065,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2070,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2075,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2080,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2085,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2090,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2095,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (once through),2100,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2020,wholesale gas,0.56
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2025,wholesale gas,0.565
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2030,wholesale gas,0.57
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2035,wholesale gas,0.575
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2040,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2045,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2050,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2055,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2060,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2065,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2070,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2075,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2080,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2085,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2090,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2095,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (seawater),2100,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2020,wholesale gas,0.56
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2025,wholesale gas,0.565
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2030,wholesale gas,0.57
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2035,wholesale gas,0.575
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2040,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2045,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2050,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2055,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2060,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2065,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2070,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2075,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2080,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2085,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2090,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2095,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (recirculating),2100,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2020,wholesale gas,0.56
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2025,wholesale gas,0.565
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2030,wholesale gas,0.57
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2035,wholesale gas,0.575
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2040,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2045,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2050,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2055,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2060,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2065,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2070,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2075,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2080,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2085,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2090,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2095,wholesale gas,0.58
+India,elec_gas (CC CCS),gas (CC CCS),gas (CC CCS) (dry cooling),2100,wholesale gas,0.58
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2020,refined liquids industrial,0.371
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2025,refined liquids industrial,0.38
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2030,refined liquids industrial,0.388
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2035,refined liquids industrial,0.395
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2040,refined liquids industrial,0.402
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2045,refined liquids industrial,0.409
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2050,refined liquids industrial,0.415
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2055,refined liquids industrial,0.421
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2060,refined liquids industrial,0.427
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2065,refined liquids industrial,0.433
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2070,refined liquids industrial,0.438
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2075,refined liquids industrial,0.443
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2080,refined liquids industrial,0.448
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2085,refined liquids industrial,0.452
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2090,refined liquids industrial,0.457
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2095,refined liquids industrial,0.461
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (once through),2100,refined liquids industrial,0.465
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2020,refined liquids industrial,0.371
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2025,refined liquids industrial,0.38
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2030,refined liquids industrial,0.388
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2035,refined liquids industrial,0.395
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2040,refined liquids industrial,0.402
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2045,refined liquids industrial,0.409
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2050,refined liquids industrial,0.415
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2055,refined liquids industrial,0.421
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2060,refined liquids industrial,0.427
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2065,refined liquids industrial,0.433
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2070,refined liquids industrial,0.438
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2075,refined liquids industrial,0.443
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2080,refined liquids industrial,0.448
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2085,refined liquids industrial,0.452
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2090,refined liquids industrial,0.457
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2095,refined liquids industrial,0.461
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (seawater),2100,refined liquids industrial,0.465
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2020,refined liquids industrial,0.371
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2025,refined liquids industrial,0.38
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2030,refined liquids industrial,0.388
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2035,refined liquids industrial,0.395
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2040,refined liquids industrial,0.402
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2045,refined liquids industrial,0.409
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2050,refined liquids industrial,0.415
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2055,refined liquids industrial,0.421
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2060,refined liquids industrial,0.427
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2065,refined liquids industrial,0.433
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2070,refined liquids industrial,0.438
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2075,refined liquids industrial,0.443
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2080,refined liquids industrial,0.448
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2085,refined liquids industrial,0.452
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2090,refined liquids industrial,0.457
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2095,refined liquids industrial,0.461
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (recirculating),2100,refined liquids industrial,0.465
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2020,refined liquids industrial,0.371
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2025,refined liquids industrial,0.38
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2030,refined liquids industrial,0.388
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2035,refined liquids industrial,0.395
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2040,refined liquids industrial,0.402
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2045,refined liquids industrial,0.409
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2050,refined liquids industrial,0.415
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2055,refined liquids industrial,0.421
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2060,refined liquids industrial,0.427
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2065,refined liquids industrial,0.433
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2070,refined liquids industrial,0.438
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2075,refined liquids industrial,0.443
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2080,refined liquids industrial,0.448
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2085,refined liquids industrial,0.452
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2090,refined liquids industrial,0.457
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2095,refined liquids industrial,0.461
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (cooling pond),2100,refined liquids industrial,0.465
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2020,refined liquids industrial,0.371
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2025,refined liquids industrial,0.38
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2030,refined liquids industrial,0.388
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2035,refined liquids industrial,0.395
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2040,refined liquids industrial,0.402
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2045,refined liquids industrial,0.409
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2050,refined liquids industrial,0.415
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2055,refined liquids industrial,0.421
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2060,refined liquids industrial,0.427
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2065,refined liquids industrial,0.433
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2070,refined liquids industrial,0.438
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2075,refined liquids industrial,0.443
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2080,refined liquids industrial,0.448
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2085,refined liquids industrial,0.452
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2090,refined liquids industrial,0.457
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2095,refined liquids industrial,0.461
+India,elec_refined liquids (steam/CT),refined liquids (steam/CT),refined liquids (steam/CT) (dry cooling),2100,refined liquids industrial,0.465
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2020,refined liquids industrial,0.568
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2025,refined liquids industrial,0.579
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2030,refined liquids industrial,0.59
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2035,refined liquids industrial,0.601
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2040,refined liquids industrial,0.61
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2045,refined liquids industrial,0.619
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2050,refined liquids industrial,0.627
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2055,refined liquids industrial,0.634
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2060,refined liquids industrial,0.641
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2065,refined liquids industrial,0.648
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2070,refined liquids industrial,0.654
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2075,refined liquids industrial,0.659
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2080,refined liquids industrial,0.664
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2085,refined liquids industrial,0.669
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2090,refined liquids industrial,0.674
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2095,refined liquids industrial,0.678
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (once through),2100,refined liquids industrial,0.682
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2020,refined liquids industrial,0.568
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2025,refined liquids industrial,0.579
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2030,refined liquids industrial,0.59
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2035,refined liquids industrial,0.601
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2040,refined liquids industrial,0.61
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2045,refined liquids industrial,0.619
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2050,refined liquids industrial,0.627
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2055,refined liquids industrial,0.634
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2060,refined liquids industrial,0.641
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2065,refined liquids industrial,0.648
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2070,refined liquids industrial,0.654
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2075,refined liquids industrial,0.659
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2080,refined liquids industrial,0.664
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2085,refined liquids industrial,0.669
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2090,refined liquids industrial,0.674
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2095,refined liquids industrial,0.678
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (seawater),2100,refined liquids industrial,0.682
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2020,refined liquids industrial,0.568
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2025,refined liquids industrial,0.579
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2030,refined liquids industrial,0.59
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2035,refined liquids industrial,0.601
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2040,refined liquids industrial,0.61
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2045,refined liquids industrial,0.619
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2050,refined liquids industrial,0.627
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2055,refined liquids industrial,0.634
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2060,refined liquids industrial,0.641
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2065,refined liquids industrial,0.648
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2070,refined liquids industrial,0.654
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2075,refined liquids industrial,0.659
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2080,refined liquids industrial,0.664
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2085,refined liquids industrial,0.669
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2090,refined liquids industrial,0.674
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2095,refined liquids industrial,0.678
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (recirculating),2100,refined liquids industrial,0.682
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2020,refined liquids industrial,0.568
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2025,refined liquids industrial,0.579
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2030,refined liquids industrial,0.59
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2035,refined liquids industrial,0.601
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2040,refined liquids industrial,0.61
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2045,refined liquids industrial,0.619
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2050,refined liquids industrial,0.627
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2055,refined liquids industrial,0.634
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2060,refined liquids industrial,0.641
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2065,refined liquids industrial,0.648
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2070,refined liquids industrial,0.654
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2075,refined liquids industrial,0.659
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2080,refined liquids industrial,0.664
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2085,refined liquids industrial,0.669
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2090,refined liquids industrial,0.674
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2095,refined liquids industrial,0.678
+India,elec_refined liquids (CC),refined liquids (CC),refined liquids (CC) (dry cooling),2100,refined liquids industrial,0.682
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2020,refined liquids industrial,0.467
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2025,refined liquids industrial,0.505
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2030,refined liquids industrial,0.536
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2035,refined liquids industrial,0.562
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2040,refined liquids industrial,0.584
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2045,refined liquids industrial,0.602
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2050,refined liquids industrial,0.618
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2055,refined liquids industrial,0.631
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2060,refined liquids industrial,0.642
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2065,refined liquids industrial,0.652
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2070,refined liquids industrial,0.661
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2075,refined liquids industrial,0.668
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2080,refined liquids industrial,0.675
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2085,refined liquids industrial,0.681
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2090,refined liquids industrial,0.686
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2095,refined liquids industrial,0.691
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (once through),2100,refined liquids industrial,0.696
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2020,refined liquids industrial,0.467
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2025,refined liquids industrial,0.505
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2030,refined liquids industrial,0.536
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2035,refined liquids industrial,0.562
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2040,refined liquids industrial,0.584
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2045,refined liquids industrial,0.602
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2050,refined liquids industrial,0.618
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2055,refined liquids industrial,0.631
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2060,refined liquids industrial,0.642
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2065,refined liquids industrial,0.652
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2070,refined liquids industrial,0.661
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2075,refined liquids industrial,0.668
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2080,refined liquids industrial,0.675
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2085,refined liquids industrial,0.681
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2090,refined liquids industrial,0.686
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2095,refined liquids industrial,0.691
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (seawater),2100,refined liquids industrial,0.696
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2020,refined liquids industrial,0.467
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2025,refined liquids industrial,0.505
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2030,refined liquids industrial,0.536
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2035,refined liquids industrial,0.562
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2040,refined liquids industrial,0.584
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2045,refined liquids industrial,0.602
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2050,refined liquids industrial,0.618
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2055,refined liquids industrial,0.631
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2060,refined liquids industrial,0.642
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2065,refined liquids industrial,0.652
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2070,refined liquids industrial,0.661
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2075,refined liquids industrial,0.668
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2080,refined liquids industrial,0.675
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2085,refined liquids industrial,0.681
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2090,refined liquids industrial,0.686
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2095,refined liquids industrial,0.691
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (recirculating),2100,refined liquids industrial,0.696
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2020,refined liquids industrial,0.467
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2025,refined liquids industrial,0.505
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2030,refined liquids industrial,0.536
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2035,refined liquids industrial,0.562
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2040,refined liquids industrial,0.584
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2045,refined liquids industrial,0.602
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2050,refined liquids industrial,0.618
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2055,refined liquids industrial,0.631
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2060,refined liquids industrial,0.642
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2065,refined liquids industrial,0.652
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2070,refined liquids industrial,0.661
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2075,refined liquids industrial,0.668
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2080,refined liquids industrial,0.675
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2085,refined liquids industrial,0.681
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2090,refined liquids industrial,0.686
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2095,refined liquids industrial,0.691
+India,elec_refined liquids (CC CCS),refined liquids (CC CCS),refined liquids (CC CCS) (dry cooling),2100,refined liquids industrial,0.696
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2020,regional biomass,0.278
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2025,regional biomass,0.289
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2030,regional biomass,0.298
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2035,regional biomass,0.308
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2040,regional biomass,0.316
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2045,regional biomass,0.324
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2050,regional biomass,0.331
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2055,regional biomass,0.338
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2060,regional biomass,0.345
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2065,regional biomass,0.35
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2070,regional biomass,0.356
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2075,regional biomass,0.361
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2080,regional biomass,0.366
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2085,regional biomass,0.37
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2090,regional biomass,0.374
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2095,regional biomass,0.378
+India,elec_biomass (conv),biomass (conv),biomass (conv) (once through),2100,regional biomass,0.381
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2020,regional biomass,0.278
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2025,regional biomass,0.289
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2030,regional biomass,0.298
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2035,regional biomass,0.308
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2040,regional biomass,0.316
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2045,regional biomass,0.324
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2050,regional biomass,0.331
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2055,regional biomass,0.338
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2060,regional biomass,0.345
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2065,regional biomass,0.35
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2070,regional biomass,0.356
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2075,regional biomass,0.361
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2080,regional biomass,0.366
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2085,regional biomass,0.37
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2090,regional biomass,0.374
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2095,regional biomass,0.378
+India,elec_biomass (conv),biomass (conv),biomass (conv) (seawater),2100,regional biomass,0.381
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2020,regional biomass,0.278
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2025,regional biomass,0.289
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2030,regional biomass,0.298
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2035,regional biomass,0.308
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2040,regional biomass,0.316
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2045,regional biomass,0.324
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2050,regional biomass,0.331
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2055,regional biomass,0.338
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2060,regional biomass,0.345
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2065,regional biomass,0.35
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2070,regional biomass,0.356
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2075,regional biomass,0.361
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2080,regional biomass,0.366
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2085,regional biomass,0.37
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2090,regional biomass,0.374
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2095,regional biomass,0.378
+India,elec_biomass (conv),biomass (conv),biomass (conv) (recirculating),2100,regional biomass,0.381
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2020,regional biomass,0.278
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2025,regional biomass,0.289
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2030,regional biomass,0.298
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2035,regional biomass,0.308
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2040,regional biomass,0.316
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2045,regional biomass,0.324
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2050,regional biomass,0.331
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2055,regional biomass,0.338
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2060,regional biomass,0.345
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2065,regional biomass,0.35
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2070,regional biomass,0.356
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2075,regional biomass,0.361
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2080,regional biomass,0.366
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2085,regional biomass,0.37
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2090,regional biomass,0.374
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2095,regional biomass,0.378
+India,elec_biomass (conv),biomass (conv),biomass (conv) (cooling pond),2100,regional biomass,0.381
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2020,regional biomass,0.278
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2025,regional biomass,0.289
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2030,regional biomass,0.298
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2035,regional biomass,0.308
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2040,regional biomass,0.316
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2045,regional biomass,0.324
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2050,regional biomass,0.331
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2055,regional biomass,0.338
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2060,regional biomass,0.345
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2065,regional biomass,0.35
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2070,regional biomass,0.356
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2075,regional biomass,0.361
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2080,regional biomass,0.366
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2085,regional biomass,0.37
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2090,regional biomass,0.374
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2095,regional biomass,0.378
+India,elec_biomass (conv),biomass (conv),biomass (conv) (dry cooling),2100,regional biomass,0.381
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2020,regional biomass,0.337
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2025,regional biomass,0.353
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2030,regional biomass,0.367
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2035,regional biomass,0.379
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2040,regional biomass,0.391
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2045,regional biomass,0.402
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2050,regional biomass,0.411
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2055,regional biomass,0.42
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2060,regional biomass,0.427
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2065,regional biomass,0.434
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2070,regional biomass,0.441
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2075,regional biomass,0.446
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2080,regional biomass,0.451
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2085,regional biomass,0.456
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2090,regional biomass,0.46
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2095,regional biomass,0.464
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (once through),2100,regional biomass,0.468
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2020,regional biomass,0.337
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2025,regional biomass,0.353
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2030,regional biomass,0.367
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2035,regional biomass,0.379
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2040,regional biomass,0.391
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2045,regional biomass,0.402
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2050,regional biomass,0.411
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2055,regional biomass,0.42
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2060,regional biomass,0.427
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2065,regional biomass,0.434
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2070,regional biomass,0.441
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2075,regional biomass,0.446
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2080,regional biomass,0.451
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2085,regional biomass,0.456
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2090,regional biomass,0.46
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2095,regional biomass,0.464
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (seawater),2100,regional biomass,0.468
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2020,regional biomass,0.337
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2025,regional biomass,0.353
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2030,regional biomass,0.367
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2035,regional biomass,0.379
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2040,regional biomass,0.391
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2045,regional biomass,0.402
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2050,regional biomass,0.411
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2055,regional biomass,0.42
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2060,regional biomass,0.427
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2065,regional biomass,0.434
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2070,regional biomass,0.441
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2075,regional biomass,0.446
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2080,regional biomass,0.451
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2085,regional biomass,0.456
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2090,regional biomass,0.46
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2095,regional biomass,0.464
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (recirculating),2100,regional biomass,0.468
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2020,regional biomass,0.337
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2025,regional biomass,0.353
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2030,regional biomass,0.367
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2035,regional biomass,0.379
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2040,regional biomass,0.391
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2045,regional biomass,0.402
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2050,regional biomass,0.411
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2055,regional biomass,0.42
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2060,regional biomass,0.427
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2065,regional biomass,0.434
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2070,regional biomass,0.441
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2075,regional biomass,0.446
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2080,regional biomass,0.451
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2085,regional biomass,0.456
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2090,regional biomass,0.46
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2095,regional biomass,0.464
+India,elec_biomass (IGCC),biomass (IGCC),biomass (IGCC) (dry cooling),2100,regional biomass,0.468
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2020,regional biomass,0.23
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2025,regional biomass,0.257
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2030,regional biomass,0.28
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2035,regional biomass,0.3
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2040,regional biomass,0.316
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2045,regional biomass,0.33
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2050,regional biomass,0.342
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2055,regional biomass,0.353
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2060,regional biomass,0.362
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2065,regional biomass,0.37
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2070,regional biomass,0.377
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2075,regional biomass,0.383
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2080,regional biomass,0.389
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2085,regional biomass,0.394
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2090,regional biomass,0.399
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2095,regional biomass,0.403
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (once through),2100,regional biomass,0.407
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2020,regional biomass,0.23
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2025,regional biomass,0.257
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2030,regional biomass,0.28
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2035,regional biomass,0.3
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2040,regional biomass,0.316
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2045,regional biomass,0.33
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2050,regional biomass,0.342
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2055,regional biomass,0.353
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2060,regional biomass,0.362
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2065,regional biomass,0.37
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2070,regional biomass,0.377
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2075,regional biomass,0.383
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2080,regional biomass,0.389
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2085,regional biomass,0.394
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2090,regional biomass,0.399
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2095,regional biomass,0.403
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (seawater),2100,regional biomass,0.407
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2020,regional biomass,0.23
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2025,regional biomass,0.257
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2030,regional biomass,0.28
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2035,regional biomass,0.3
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2040,regional biomass,0.316
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2045,regional biomass,0.33
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2050,regional biomass,0.342
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2055,regional biomass,0.353
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2060,regional biomass,0.362
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2065,regional biomass,0.37
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2070,regional biomass,0.377
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2075,regional biomass,0.383
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2080,regional biomass,0.389
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2085,regional biomass,0.394
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2090,regional biomass,0.399
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2095,regional biomass,0.403
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (recirculating),2100,regional biomass,0.407
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2020,regional biomass,0.23
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2025,regional biomass,0.257
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2030,regional biomass,0.28
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2035,regional biomass,0.3
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2040,regional biomass,0.316
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2045,regional biomass,0.33
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2050,regional biomass,0.342
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2055,regional biomass,0.353
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2060,regional biomass,0.362
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2065,regional biomass,0.37
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2070,regional biomass,0.377
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2075,regional biomass,0.383
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2080,regional biomass,0.389
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2085,regional biomass,0.394
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2090,regional biomass,0.399
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2095,regional biomass,0.403
+India,elec_biomass (conv CCS),biomass (conv CCS),biomass (conv CCS) (dry cooling),2100,regional biomass,0.407
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2020,regional biomass,0.23
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2025,regional biomass,0.257
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2030,regional biomass,0.28
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2035,regional biomass,0.3
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2040,regional biomass,0.316
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2045,regional biomass,0.33
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2050,regional biomass,0.342
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2055,regional biomass,0.353
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2060,regional biomass,0.362
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2065,regional biomass,0.37
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2070,regional biomass,0.377
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2075,regional biomass,0.383
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2080,regional biomass,0.389
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2085,regional biomass,0.394
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2090,regional biomass,0.399
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2095,regional biomass,0.403
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (once through),2100,regional biomass,0.407
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2020,regional biomass,0.23
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2025,regional biomass,0.257
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2030,regional biomass,0.28
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2035,regional biomass,0.3
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2040,regional biomass,0.316
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2045,regional biomass,0.33
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2050,regional biomass,0.342
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2055,regional biomass,0.353
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2060,regional biomass,0.362
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2065,regional biomass,0.37
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2070,regional biomass,0.377
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2075,regional biomass,0.383
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2080,regional biomass,0.389
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2085,regional biomass,0.394
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2090,regional biomass,0.399
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2095,regional biomass,0.403
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (seawater),2100,regional biomass,0.407
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2020,regional biomass,0.23
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2025,regional biomass,0.257
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2030,regional biomass,0.28
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2035,regional biomass,0.3
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2040,regional biomass,0.316
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2045,regional biomass,0.33
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2050,regional biomass,0.342
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2055,regional biomass,0.353
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2060,regional biomass,0.362
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2065,regional biomass,0.37
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2070,regional biomass,0.377
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2075,regional biomass,0.383
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2080,regional biomass,0.389
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2085,regional biomass,0.394
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2090,regional biomass,0.399
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2095,regional biomass,0.403
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (recirculating),2100,regional biomass,0.407
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2020,regional biomass,0.23
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2025,regional biomass,0.257
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2030,regional biomass,0.28
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2035,regional biomass,0.3
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2040,regional biomass,0.316
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2045,regional biomass,0.33
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2050,regional biomass,0.342
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2055,regional biomass,0.353
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2060,regional biomass,0.362
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2065,regional biomass,0.37
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2070,regional biomass,0.377
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2075,regional biomass,0.383
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2080,regional biomass,0.389
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2085,regional biomass,0.394
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2090,regional biomass,0.399
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2095,regional biomass,0.403
+India,elec_biomass (IGCC CCS),biomass (IGCC CCS),biomass (IGCC CCS) (dry cooling),2100,regional biomass,0.407
+India,elec_geothermal,geothermal,geothermal (recirculating),2020,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2025,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2030,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2035,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2040,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2045,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2050,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2055,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2060,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2065,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2070,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2075,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2080,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2085,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2090,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2095,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (recirculating),2100,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2020,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2025,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2030,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2035,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2040,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2045,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2050,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2055,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2060,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2065,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2070,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2075,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2080,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2085,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2090,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2095,geothermal,0.1
+India,elec_geothermal,geothermal,geothermal (dry_hybrid),2100,geothermal,0.1

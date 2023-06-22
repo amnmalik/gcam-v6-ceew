@@ -1,0 +1,41 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+Wind_adjustment,,,,,,
+,,,,,,
+region,supplysector,subsector,stub.technology,year,minicam-non-energy-input,input-cost
+India,electricity,wind,wind,1990,regional price adjustment,0
+India,electricity,wind,wind,2005,regional price adjustment,0
+India,electricity,wind,wind,2010,regional price adjustment,0
+India,electricity,wind,wind,2015,regional price adjustment,0
+India,electricity,wind,wind,2020,regional price adjustment,0
+India,electricity,wind,wind,2025,regional price adjustment,0
+India,electricity,wind,wind,2030,regional price adjustment,0
+India,electricity,wind,wind,2035,regional price adjustment,0
+India,electricity,wind,wind,2040,regional price adjustment,0
+India,electricity,wind,wind,2045,regional price adjustment,0
+India,electricity,wind,wind,2050,regional price adjustment,0
+India,electricity,wind,wind,2055,regional price adjustment,0
+India,electricity,wind,wind,2060,regional price adjustment,0
+India,electricity,wind,wind,2065,regional price adjustment,0
+India,electricity,wind,wind,2070,regional price adjustment,0
+India,electricity,wind,wind,2080,regional price adjustment,0
+India,electricity,wind,wind,2095,regional price adjustment,0
+India,electricity,wind,wind,2100,regional price adjustment,0
+India,electricity,wind,wind_storage,1990,regional price adjustment,0
+India,electricity,wind,wind_storage,2005,regional price adjustment,0
+India,electricity,wind,wind_storage,2010,regional price adjustment,0
+India,electricity,wind,wind_storage,2015,regional price adjustment,0
+India,electricity,wind,wind_storage,2020,regional price adjustment,0
+India,electricity,wind,wind_storage,2025,regional price adjustment,0
+India,electricity,wind,wind_storage,2030,regional price adjustment,0
+India,electricity,wind,wind_storage,2035,regional price adjustment,0
+India,electricity,wind,wind_storage,2040,regional price adjustment,0
+India,electricity,wind,wind_storage,2045,regional price adjustment,0
+India,electricity,wind,wind_storage,2050,regional price adjustment,0
+India,electricity,wind,wind_storage,2055,regional price adjustment,0
+India,electricity,wind,wind_storage,2060,regional price adjustment,0
+India,electricity,wind,wind_storage,2065,regional price adjustment,0
+India,electricity,wind,wind_storage,2070,regional price adjustment,0
+India,electricity,wind,wind_storage,2080,regional price adjustment,0
+India,electricity,wind,wind_storage,2095,regional price adjustment,0
+India,electricity,wind,wind_storage,2100,regional price adjustment,0
