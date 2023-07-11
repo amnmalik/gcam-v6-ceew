@@ -10,7 +10,7 @@
 		<Value write-output="0" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
 		<Value write-output="1" append-scenario-name="1" name="costCurvesOutputFileName">cost_curves.xml</Value>
-		<Value write-output="0" append-scenario-name="0" name="batchCSVOutputFile">batch-csv-out.csv</Value>
+		<Value write-output="0" append-scenario-name="1" name="batchCSVOutputFile">batch-csv-out.csv</Value>
 		<Value write-output="0" append-scenario-name="0" name="supplyDemandOutputFileName">SDCurves.csv</Value>
 		<Value write-output="0" append-scenario-name="0" name="flow-graph">gcam-flow-graph.dot</Value>
 		<Value write-output="0" append-scenario-name="0" name="dependencyGraphName">DependencyGraph.dot</Value>
@@ -108,7 +108,8 @@
 		<Value name = "India capital cost">../input/gcamdata/xml/India/Electricity/India_state_inttech_CC_RT_now.xml</Value>
 		<Value name = "India capacity factor">../input/gcamdata/xml/India/Electricity/India_state_tech_CF_now.xml</Value>
         <Value name = "India capacity factor">../input/gcamdata/xml/India/Electricity/India_state_inttech_CF_RT_now.xml</Value>
-		
+		<!-- Tech efficiencies  -->
+		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_TechEff_elec_update.xml</Value>
 		<!-- Resource potential for wind onshore -->
 		<Value name = "India wind res curve">../input/gcamdata/xml/India/Electricity/agg_elect_onshore_wind_resource_india.xml</Value>
 		
@@ -118,8 +119,7 @@
 		<!-- Backup costs: note removed csp backup costs  -->
 		<Value name = "India intermittency cost">../input/gcamdata/xml/India/Electricity/India_IntTechBackup_elec.xml</Value>
 		
-		<!-- <Value name = "India technical_efficiency">../input/gcamdata/xml/India/Electricity/India_elec_TechEff.xml</Value> -->
-		
+			
 		<!-- Share weight -->
 		<Value name = "India other parameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt_1.xml</Value>
 		
@@ -173,7 +173,7 @@
 	<Ints>
 		<Value name="numMarketsToFindSD">10</Value>
 		<Value name="numPointsForSD">21</Value>
-		<Value name="numPointsForCO2CostCurve">1</Value>
+		<Value name="numPointsForCO2CostCurve">2</Value>
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
