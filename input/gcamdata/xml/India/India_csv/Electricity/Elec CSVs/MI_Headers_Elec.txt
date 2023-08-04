@@ -1,0 +1,31 @@
+	
+
+
+RegionTechCapital, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}input-capital, input-capital/+capital-overnight, input-capital/+fixed-charge-rate, scenario, scenario/world
+
+RegionIntTechCapital, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+{name}input-capital, input-capital/+capital-overnight, input-capital/+fixed-charge-rate, scenario, scenario/world
+
+RegionTechCF, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+capacity-factor, scenario, scenario/world
+
+RegionIntTechCF, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+capacity-factor, scenario, scenario/world
+
+RegionTechOMfixed, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}input-OM-fixed, input-OM-fixed/+OM-fixed, scenario, scenario/world
+
+RegionTechOMvar, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}input-OM-var, input-OM-var/+OM-var, scenario, scenario/world
+
+RegionIntTechOMfixed, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+{name}input-OM-fixed, input-OM-fixed/+OM-fixed, scenario, scenario/world
+
+RegionIntTechOMvar, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+{name}input-OM-var, input-OM-var/+OM-var, scenario, scenario/world
+
+RegionIntTechBackup, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+electric-sector-name, period/+trial-market-name, period/+backup-capital-cost, period/+backup-capacity-factor, capacity-limit-backup-calculator/+capacity-limit, period/+{name}minicam-energy-input, period/+{name}minicam-non-energy-input, scenario, scenario/world, world/global-technology-database, period/capacity-limit-backup-calculator
+
+
+RegionTechCost, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}minicam-non-energy-input, minicam-non-energy-input/+input-cost, scenario, scenario/world
+
+RegionFuelAdder,world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}minicam-non-energy-input, minicam-non-energy-input/+input-cost, scenario, scenario/world
+
+RegionIntTechLifetime, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}intermittent-technology, intermittent-technology/+{year}period, period/+{name}lifetime, scenario, scenario/world
+
+RegionTechLifetime, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}lifetime, scenario, scenario/world
+
+RegionLifetime, world/+{name}region, region/+{name}supplysector, supplysector/+{name}subsector, subsector/+{name}technology, technology/+{year}period, period/+{name}lifetime, lifetime+{name}shutdown.rate, shutdown.rate+{name}half.life, half.life+{name}steepness, steepness+{name}median.shutdown.point, median.shutdown.point+{name}profit.shutdown.steepness, scenario, scenario/world

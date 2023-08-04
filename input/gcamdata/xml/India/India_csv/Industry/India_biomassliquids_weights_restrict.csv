@@ -1,0 +1,31 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaIndusSharewt,,,,,,,,
+,,,,,,,,
+region,supplysector,subsector,apply.to,from.year,to.year,from.value,to-value,interpolation.function
+India,industrial energy use,gas,share-weight,2010,2020,0.3,0.3,fixed
+India,industrial energy use,gas,share-weight,2015,2055,0.3,1,linear
+India,industrial energy use,gas,share-weight,2050,2100,1,1,fixed
+India,industrial energy use,biomass,share-weight,2010,2015,1.1,1.1,fixed
+India,industrial energy use,biomass,share-weight,2015,2055,1.1,1,linear
+India,industrial energy use,biomass,share-weight,2050,2100,1,1,fixed
+India,industrial energy use,electricity,share-weight,2010,2020,7.5,7.5,fixed
+India,industrial energy use,electricity,share-weight,2015,2025,7.5,7.5,fixed
+India,industrial energy use,electricity,share-weight,2020,2100,8.5,6,linear
+India,industrial energy use,electricity,share-weight,2095,2100,6,6,fixed
+India,industrial energy use,coal,share-weight,2010,2015,1,1,fixed
+India,industrial energy use,coal,share-weight,2015,2050,1,1,fixed
+India,industrial energy use,coal,share-weight,2050,2100,1,1,fixed
+India,industrial energy use,refined liquids,share-weight,2010,2020,1,1,fixed
+India,industrial energy use,refined liquids,share-weight,2015,2055,1,1,fixed
+India,industrial energy use,refined liquids,share-weight,2050,2100,1,1,fixed
+India,industrial energy use,hydrogen,share-weight,2010,2015,0,0,fixed
+India,industrial energy use,hydrogen,share-weight,2015,2050,0,0.1,linear
+India,industrial energy use,hydrogen,share-weight,2045,2100,0.1,0.25,linear
+India,industrial energy use,hydrogen,share-weight,2010,2015,0,0,fixed
+India,industrial energy use,hydrogen,share-weight,2015,2050,0,0.1,linear
+India,industrial energy use,hydrogen,share-weight,2045,2100,0.1,0.25,linear
+India,agriculture energy use,refined liquids,share-weight,2010,2020,0.1,0.1,fixed
+India,agriculture energy use,refined liquids,share-weight,2015,2025,0.1,0.1,fixed
+India,agriculture energy use,refined liquids,share-weight,2020,2100,0.1,0.05,linear
+India,agriculture energy use,refined liquids,share-weight,2095,2100,0.05,0.05,fixed

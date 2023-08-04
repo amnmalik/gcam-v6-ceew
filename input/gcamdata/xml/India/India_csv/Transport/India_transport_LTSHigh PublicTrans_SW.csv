@@ -1,0 +1,17 @@
+INPUT_TABLE,,,,,,,,
+Variable ID,,,,,,,,
+IndiaTransubsectorInterpTo,,,,,,,,
+,,,,,,,,
+region,supplysector,tranSubsector,apply.to,from.year,to-year,from.value,to-value,interpolation.function
+India,trn_pass_road,Bus,share-weight,2010,2025,0.001,0.001,fixed
+India,trn_pass_road,Bus,share-weight,2020,2100,0.001,0.005,linear
+India,trn_pass_road,Bus,share-weight,2095,2100,0.005,0.005,fixed
+India,trn_pass,Passenger Rail,share-weight,2010,2025,0.012,0.012,fixed
+India,trn_pass,Passenger Rail,share-weight,2020,2100,0.012,0.24,linear
+India,trn_pass,Passenger Rail,share-weight,2095,2100,0.24,0.24,fixed
+India,trn_pass,Cycle,share-weight,2010,2025,0.027,0.027,fixed
+India,trn_pass,Cycle,share-weight,2020,2100,0.027,0.03,linear
+India,trn_pass,Cycle,share-weight,2095,2100,0.03,0.03,linear
+India,trn_pass,Walk,share-weight,2010,2025,0.505,0.505,fixed
+India,trn_pass,Walk,share-weight,2020,2100,0.505,0.55,linear
+India,trn_pass,Walk,share-weight,2095,2100,0.55,0.55,linear

@@ -1,0 +1,21 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionTechCost,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,H2 central production,electricity,electrolysis,2025,non-energy,-0.841930674
+India,H2 central production,electricity,electrolysis,2030,non-energy,-0.311664456
+India,H2 central production,electricity,electrolysis,2035,non-energy,0.298801759
+India,H2 central production,electricity,electrolysis,2040,non-energy,0.828987977
+India,H2 central production,electricity,electrolysis,2045,non-energy,1.381654193
+India,H2 central production,electricity,electrolysis,2050,non-energy,1.604040411
+India,H2 central production,electricity,electrolysis,2055,non-energy,1.975126629
+India,H2 central production,electricity,electrolysis,2060,non-energy,2.218785955
+India,H2 central production,electricity,electrolysis,2065,non-energy,2.530182171
+India,H2 central production,electricity,electrolysis,2070,non-energy,2.591611301
+India,H2 central production,electricity,electrolysis,2075,non-energy,2.576322454
+India,H2 central production,electricity,electrolysis,2080,non-energy,2.673824694
+India,H2 central production,electricity,electrolysis,2085,non-energy,2.554275952
+India,H2 central production,electricity,electrolysis,2090,non-energy,2.547510318
+India,H2 central production,electricity,electrolysis,2095,non-energy,2.549594684
+India,H2 central production,electricity,electrolysis,2100,non-energy,2.722824684

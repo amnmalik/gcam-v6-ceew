@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="electricity">
+                <subsector name="biomass">
+                    <technology name="biomass (conv CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.196</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.23</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.257</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.28</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.3</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.316</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.33</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.342</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.353</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.362</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.37</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.377</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.383</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.389</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.394</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.399</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.403</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.407</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="biomass (conv)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.266</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.278</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.289</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.298</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.308</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.316</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.324</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.331</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.338</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.345</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.35</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.356</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.361</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.366</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.37</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.374</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.378</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.381</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="biomass (IGCC CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.262</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.295</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.323</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.346</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.366</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.383</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.398</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.411</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.422</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.431</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.44</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.447</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.454</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.46</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.465</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.474</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.478</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="biomass (IGCC)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.32</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.337</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.353</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.367</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.379</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.391</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.402</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.411</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.42</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.427</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.434</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.441</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.446</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.451</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.456</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.46</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.464</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional biomass">
+                                <efficiency>0.468</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (conv pul CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.292</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="coal (conv pul)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="coal (IGCC CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.42</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.43</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.44</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.455</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.47</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="coal (IGCC)">
+                        <period year="2015">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="regional coal">
+                                <efficiency>0.45</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="solar">
+                    <technology name="CSP_storage">
+                        <period year="2015">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="PV_storage">
+                        <period year="2015">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="global solar resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.56</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.56</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.565</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.57</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.575</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="gas (CC)">
+                        <period year="2015">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.56</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.56</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.565</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.57</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.575</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.58</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="gas (steam/CT)">
+                        <period year="2015">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.38</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.38</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.385</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.39</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.4</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="wholesale gas">
+                                <efficiency>0.41</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="nuclear">
+                    <technology name="Gen_II_LWR">
+                        <period year="2015">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="nuclearFuelGenII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="Gen_III">
+                        <period year="2015">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="nuclearFuelGenIII">
+                                <efficiency>0.333</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="geothermal">
+                    <technology name="geothermal">
+                        <period year="2015">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="geothermal">
+                                <efficiency>0.1</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids (CC CCS)">
+                        <period year="2015">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.42</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.467</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.505</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.536</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.562</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.584</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.602</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.618</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.631</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.642</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.652</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.661</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.668</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.675</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.681</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.686</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.691</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.696</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids (CC)">
+                        <period year="2015">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.555</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.568</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.579</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.59</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.601</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.61</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.619</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.627</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.634</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.641</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.648</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.654</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.659</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.664</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.669</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.674</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.678</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.682</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                    <technology name="refined liquids (steam/CT)">
+                        <period year="2015">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.363</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.371</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.38</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.388</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.395</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.402</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.409</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.415</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.421</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.427</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.433</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.438</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.443</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.448</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.452</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.457</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.461</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="refined liquids industrial">
+                                <efficiency>0.465</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+                <subsector name="wind">
+                    <technology name="wind_storage">
+                        <period year="2015">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2020">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2025">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2040">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2045">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2050">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2055">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2060">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2065">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2070">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2075">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2080">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2085">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2090">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2095">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                        <period year="2100">
+                            <minicam-energy-input name="onshore wind resource">
+                                <efficiency>0.96</efficiency>
+                            </minicam-energy-input>
+                            <CO2 name="CO2"/>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+      <region name="India">
+         <supplysector name="industry">
+            <subsector name="industry">
+               <stub-technology name="industry">
+                  <period year="2015">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.800527267</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.199472733</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2020">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.8062701</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.1937299</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2025">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7996283</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2003717</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2030">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7929864</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2070136</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2035">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7863445</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2136555</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2040">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7797026</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2202974</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2045">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7730607</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2269393</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2050">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7664188</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2335812</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2055">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.759777</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.240223</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2060">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7531351</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2468649</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2065">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7464932</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2535068</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2070">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7398513</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2601487</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2075">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7332094</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2667906</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2080">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7265675</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2734325</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2085">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7199257</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2800743</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2090">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7132838</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2867162</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2095">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7066419</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.2933581</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+                  <period year="2100">
+                     <minicam-energy-input name="industrial energy use">
+                        <coefficient>0.7</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                     <minicam-energy-input name="industrial feedstocks">
+                        <coefficient>0.3</coefficient>
+                        <market-name>India</market-name>
+                     </minicam-energy-input>
+                  </period>
+               </stub-technology>
+            </subsector>
+         </supplysector>
+      </region>
+   </world>
+</scenario>

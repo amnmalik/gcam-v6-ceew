@@ -1,0 +1,213 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionTechCost,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,H2 central production,biomass,biomass to H2,2025,non-energy,2.8943
+India,H2 central production,biomass,biomass to H2 CCS,2025,non-energy,3.772
+India,H2 central production,coal,coal chemical,2025,non-energy,2.9137
+India,H2 central production,coal,coal chemical CCS,2025,non-energy,3.772
+India,H2 central production,electricity,electrolysis,2025,non-energy,-2.593247168
+India,H2 central production,gas,natural gas steam reforming,2025,non-energy,1.0043
+India,H2 central production,gas,natural gas steam reforming CCS,2025,non-energy,1.532
+India,H2 central production,nuclear,thermal splitting,2025,non-energy,7
+India,H2 central production,solar,electrolysis,2025,non-energy,6.174523543
+India,H2 central production,wind,electrolysis,2025,non-energy,6.599299859
+India,H2 distribution,H2 distribution,H2 distribution,2025,non-energy,3.31468
+India,H2 forecourt production,electricity,electrolysis,2025,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2025,non-energy,6.2097
+India,H2 central production,biomass,biomass to H2,2030,non-energy,2.8097
+India,H2 central production,biomass,biomass to H2 CCS,2030,non-energy,3.666
+India,H2 central production,coal,coal chemical,2030,non-energy,2.8283
+India,H2 central production,coal,coal chemical CCS,2030,non-energy,3.666
+India,H2 central production,electricity,electrolysis,2030,non-energy,-2.9673
+India,H2 central production,gas,natural gas steam reforming,2030,non-energy,0.9797
+India,H2 central production,gas,natural gas steam reforming CCS,2030,non-energy,1.485
+India,H2 central production,nuclear,thermal splitting,2030,non-energy,7
+India,H2 central production,solar,electrolysis,2030,non-energy,4.952037087
+India,H2 central production,wind,electrolysis,2030,non-energy,5.801159718
+India,H2 distribution,H2 distribution,H2 distribution,2030,non-energy,2.815523333
+India,H2 forecourt production,electricity,electrolysis,2030,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2030,non-energy,5.9553
+India,H2 central production,biomass,biomass to H2,2035,non-energy,2.725
+India,H2 central production,biomass,biomass to H2 CCS,2035,non-energy,3.56
+India,H2 central production,coal,coal chemical,2035,non-energy,2.743
+India,H2 central production,coal,coal chemical CCS,2035,non-energy,3.56
+India,H2 central production,electricity,electrolysis,2035,non-energy,-2.829037688
+India,H2 central production,gas,natural gas steam reforming,2035,non-energy,0.955
+India,H2 central production,gas,natural gas steam reforming CCS,2035,non-energy,1.438
+India,H2 central production,nuclear,thermal splitting,2035,non-energy,7
+India,H2 central production,solar,electrolysis,2035,non-energy,3.930089495
+India,H2 central production,wind,electrolysis,2035,non-energy,4.632873793
+India,H2 distribution,H2 distribution,H2 distribution,2035,non-energy,2.356026667
+India,H2 forecourt production,electricity,electrolysis,2035,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2035,non-energy,5.701
+India,H2 central production,biomass,biomass to H2,2040,non-energy,2.6477
+India,H2 central production,biomass,biomass to H2 CCS,2040,non-energy,3.4627
+India,H2 central production,coal,coal chemical,2040,non-energy,2.665
+India,H2 central production,coal,coal chemical CCS,2040,non-energy,3.4627
+India,H2 central production,electricity,electrolysis,2040,non-energy,-2.700848
+India,H2 central production,gas,natural gas steam reforming,2040,non-energy,0.932
+India,H2 central production,gas,natural gas steam reforming CCS,2040,non-energy,1.395
+India,H2 central production,nuclear,thermal splitting,2040,non-energy,7
+India,H2 central production,solar,electrolysis,2040,non-energy,2.908141904
+India,H2 central production,wind,electrolysis,2040,non-energy,3.464277868
+India,H2 distribution,H2 distribution,H2 distribution,2040,non-energy,2.01289
+India,H2 forecourt production,electricity,electrolysis,2040,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2040,non-energy,5.4763
+India,H2 central production,biomass,biomass to H2,2045,non-energy,2.5703
+India,H2 central production,biomass,biomass to H2 CCS,2045,non-energy,3.3653
+India,H2 central production,coal,coal chemical,2045,non-energy,2.587
+India,H2 central production,coal,coal chemical CCS,2045,non-energy,3.3653
+India,H2 central production,electricity,electrolysis,2045,non-energy,-2.560065535
+India,H2 central production,gas,natural gas steam reforming,2045,non-energy,0.909
+India,H2 central production,gas,natural gas steam reforming CCS,2045,non-energy,1.352
+India,H2 central production,nuclear,thermal splitting,2045,non-energy,7
+India,H2 central production,solar,electrolysis,2045,non-energy,2.213295494
+India,H2 central production,wind,electrolysis,2045,non-energy,2.99354048
+India,H2 distribution,H2 distribution,H2 distribution,2045,non-energy,1.695743333
+India,H2 forecourt production,electricity,electrolysis,2045,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2045,non-energy,5.2517
+India,H2 central production,biomass,biomass to H2,2050,non-energy,2.493
+India,H2 central production,biomass,biomass to H2 CCS,2050,non-energy,3.268
+India,H2 central production,coal,coal chemical,2050,non-energy,2.509
+India,H2 central production,coal,coal chemical CCS,2050,non-energy,3.268
+India,H2 central production,electricity,electrolysis,2050,non-energy,-2.599726892
+India,H2 central production,gas,natural gas steam reforming,2050,non-energy,0.886
+India,H2 central production,gas,natural gas steam reforming CCS,2050,non-energy,1.309
+India,H2 central production,nuclear,thermal splitting,2050,non-energy,7
+India,H2 central production,solar,electrolysis,2050,non-energy,1.518449083
+India,H2 central production,wind,electrolysis,2050,non-energy,2.523963093
+India,H2 distribution,H2 distribution,H2 distribution,2050,non-energy,1.362756667
+India,H2 forecourt production,electricity,electrolysis,2050,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2050,non-energy,5.027
+India,H2 central production,biomass,biomass to H2,2055,non-energy,2.422
+India,H2 central production,biomass,biomass to H2 CCS,2055,non-energy,3.1787
+India,H2 central production,coal,coal chemical,2055,non-energy,2.4377
+India,H2 central production,coal,coal chemical CCS,2055,non-energy,3.1787
+India,H2 central production,electricity,electrolysis,2055,non-energy,-2.530299753
+India,H2 central production,gas,natural gas steam reforming,2055,non-energy,0.865
+India,H2 central production,gas,natural gas steam reforming CCS,2055,non-energy,1.27
+India,H2 central production,nuclear,thermal splitting,2055,non-energy,6.1473
+India,H2 central production,solar,electrolysis,2055,non-energy,1.518469083
+India,H2 central production,wind,electrolysis,2055,non-energy,2.522593093
+India,H2 distribution,H2 distribution,H2 distribution,2055,non-energy,1.357246667
+India,H2 forecourt production,electricity,electrolysis,2055,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2055,non-energy,4.8293
+India,H2 central production,biomass,biomass to H2,2060,non-energy,2.351
+India,H2 central production,biomass,biomass to H2 CCS,2060,non-energy,3.0893
+India,H2 central production,coal,coal chemical,2060,non-energy,2.3663
+India,H2 central production,coal,coal chemical CCS,2060,non-energy,3.0893
+India,H2 central production,electricity,electrolysis,2060,non-energy,-2.529269845
+India,H2 central production,gas,natural gas steam reforming,2060,non-energy,0.844
+India,H2 central production,gas,natural gas steam reforming CCS,2060,non-energy,1.231
+India,H2 central production,nuclear,thermal splitting,2060,non-energy,5.2947
+India,H2 central production,solar,electrolysis,2060,non-energy,1.518499083
+India,H2 central production,wind,electrolysis,2060,non-energy,2.520413093
+India,H2 distribution,H2 distribution,H2 distribution,2060,non-energy,1.349046667
+India,H2 forecourt production,electricity,electrolysis,2060,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2060,non-energy,4.6317
+India,H2 central production,biomass,biomass to H2,2065,non-energy,2.28
+India,H2 central production,biomass,biomass to H2 CCS,2065,non-energy,3
+India,H2 central production,coal,coal chemical,2065,non-energy,2.295
+India,H2 central production,coal,coal chemical CCS,2065,non-energy,3
+India,H2 central production,electricity,electrolysis,2065,non-energy,-2.492832986
+India,H2 central production,gas,natural gas steam reforming,2065,non-energy,0.823
+India,H2 central production,gas,natural gas steam reforming CCS,2065,non-energy,1.192
+India,H2 central production,nuclear,thermal splitting,2065,non-energy,4.442
+India,H2 central production,solar,electrolysis,2065,non-energy,1.518519083
+India,H2 central production,wind,electrolysis,2065,non-energy,2.519523093
+India,H2 distribution,H2 distribution,H2 distribution,2065,non-energy,1.340376667
+India,H2 forecourt production,electricity,electrolysis,2065,non-energy,7.397
+India,H2 forecourt production,gas,natural gas steam reforming,2065,non-energy,4.434
+India,H2 central production,biomass,biomass to H2,2070,non-energy,2.2253
+India,H2 central production,biomass,biomass to H2 CCS,2070,non-energy,2.928
+India,H2 central production,coal,coal chemical,2070,non-energy,2.24
+India,H2 central production,coal,coal chemical CCS,2070,non-energy,2.928
+India,H2 central production,electricity,electrolysis,2070,non-energy,-2.366059003
+India,H2 central production,gas,natural gas steam reforming,2070,non-energy,0.8033
+India,H2 central production,gas,natural gas steam reforming CCS,2070,non-energy,1.1633
+India,H2 central production,nuclear,thermal splitting,2070,non-energy,4.3353
+India,H2 central production,solar,electrolysis,2070,non-energy,1.518519083
+India,H2 central production,wind,electrolysis,2070,non-energy,2.517503093
+India,H2 distribution,H2 distribution,H2 distribution,2070,non-energy,1.336536667
+India,H2 forecourt production,electricity,electrolysis,2070,non-energy,7.2193
+India,H2 forecourt production,gas,natural gas steam reforming,2070,non-energy,4.3273
+India,H2 central production,biomass,biomass to H2,2075,non-energy,2.1707
+India,H2 central production,biomass,biomass to H2 CCS,2075,non-energy,2.856
+India,H2 central production,coal,coal chemical,2075,non-energy,2.185
+India,H2 central production,coal,coal chemical CCS,2075,non-energy,2.856
+India,H2 central production,electricity,electrolysis,2075,non-energy,-2.281740174
+India,H2 central production,gas,natural gas steam reforming,2075,non-energy,0.7837
+India,H2 central production,gas,natural gas steam reforming CCS,2075,non-energy,1.1347
+India,H2 central production,nuclear,thermal splitting,2075,non-energy,4.2287
+India,H2 central production,solar,electrolysis,2075,non-energy,1.518529083
+India,H2 central production,wind,electrolysis,2075,non-energy,2.515543093
+India,H2 distribution,H2 distribution,H2 distribution,2075,non-energy,1.332386667
+India,H2 forecourt production,electricity,electrolysis,2075,non-energy,7.0417
+India,H2 forecourt production,gas,natural gas steam reforming,2075,non-energy,4.2207
+India,H2 central production,biomass,biomass to H2,2080,non-energy,2.116
+India,H2 central production,biomass,biomass to H2 CCS,2080,non-energy,2.784
+India,H2 central production,coal,coal chemical,2080,non-energy,2.13
+India,H2 central production,coal,coal chemical CCS,2080,non-energy,2.784
+India,H2 central production,electricity,electrolysis,2080,non-energy,-2.134559268
+India,H2 central production,gas,natural gas steam reforming,2080,non-energy,0.764
+India,H2 central production,gas,natural gas steam reforming CCS,2080,non-energy,1.106
+India,H2 central production,nuclear,thermal splitting,2080,non-energy,4.122
+India,H2 central production,solar,electrolysis,2080,non-energy,1.518539083
+India,H2 central production,wind,electrolysis,2080,non-energy,2.513863093
+India,H2 distribution,H2 distribution,H2 distribution,2080,non-energy,1.333046667
+India,H2 forecourt production,electricity,electrolysis,2080,non-energy,6.864
+India,H2 forecourt production,gas,natural gas steam reforming,2080,non-energy,4.114
+India,H2 central production,biomass,biomass to H2,2085,non-energy,2.065
+India,H2 central production,biomass,biomass to H2 CCS,2085,non-energy,2.717
+India,H2 central production,coal,coal chemical,2085,non-energy,2.0787
+India,H2 central production,coal,coal chemical CCS,2085,non-energy,2.717
+India,H2 central production,electricity,electrolysis,2085,non-energy,-2.113652529
+India,H2 central production,gas,natural gas steam reforming,2085,non-energy,0.7457
+India,H2 central production,gas,natural gas steam reforming CCS,2085,non-energy,1.0793
+India,H2 central production,nuclear,thermal splitting,2085,non-energy,4.023
+India,H2 central production,solar,electrolysis,2085,non-energy,1.518539083
+India,H2 central production,wind,electrolysis,2085,non-energy,2.513233093
+India,H2 distribution,H2 distribution,H2 distribution,2085,non-energy,1.333776667
+India,H2 forecourt production,electricity,electrolysis,2085,non-energy,6.699
+India,H2 forecourt production,gas,natural gas steam reforming,2085,non-energy,4.0153
+India,H2 central production,biomass,biomass to H2,2090,non-energy,2.014
+India,H2 central production,biomass,biomass to H2 CCS,2090,non-energy,2.65
+India,H2 central production,coal,coal chemical,2090,non-energy,2.0273
+India,H2 central production,coal,coal chemical CCS,2090,non-energy,2.65
+India,H2 central production,electricity,electrolysis,2090,non-energy,-2.031853283
+India,H2 central production,gas,natural gas steam reforming,2090,non-energy,0.7273
+India,H2 central production,gas,natural gas steam reforming CCS,2090,non-energy,1.0527
+India,H2 central production,nuclear,thermal splitting,2090,non-energy,3.924
+India,H2 central production,solar,electrolysis,2090,non-energy,1.518549083
+India,H2 central production,wind,electrolysis,2090,non-energy,2.512293093
+India,H2 distribution,H2 distribution,H2 distribution,2090,non-energy,1.333026667
+India,H2 forecourt production,electricity,electrolysis,2090,non-energy,6.534
+India,H2 forecourt production,gas,natural gas steam reforming,2090,non-energy,3.9167
+India,H2 central production,biomass,biomass to H2,2095,non-energy,1.963
+India,H2 central production,biomass,biomass to H2 CCS,2095,non-energy,2.583
+India,H2 central production,coal,coal chemical,2095,non-energy,1.976
+India,H2 central production,coal,coal chemical CCS,2095,non-energy,2.583
+India,H2 central production,electricity,electrolysis,2095,non-energy,-1.944528302
+India,H2 central production,gas,natural gas steam reforming,2095,non-energy,0.709
+India,H2 central production,gas,natural gas steam reforming CCS,2095,non-energy,1.026
+India,H2 central production,nuclear,thermal splitting,2095,non-energy,3.825
+India,H2 central production,solar,electrolysis,2095,non-energy,1.518559083
+India,H2 central production,wind,electrolysis,2095,non-energy,2.511863093
+India,H2 distribution,H2 distribution,H2 distribution,2095,non-energy,1.332986667
+India,H2 forecourt production,electricity,electrolysis,2095,non-energy,6.369
+India,H2 forecourt production,gas,natural gas steam reforming,2095,non-energy,3.818
+India,H2 central production,biomass,biomass to H2,2100,non-energy,1.963
+India,H2 central production,biomass,biomass to H2 CCS,2100,non-energy,2.583
+India,H2 central production,coal,coal chemical,2100,non-energy,1.976
+India,H2 central production,coal,coal chemical CCS,2100,non-energy,2.583
+India,H2 central production,electricity,electrolysis,2100,non-energy,-1.849671672
+India,H2 central production,gas,natural gas steam reforming,2100,non-energy,0.709
+India,H2 central production,gas,natural gas steam reforming CCS,2100,non-energy,1.026
+India,H2 central production,nuclear,thermal splitting,2100,non-energy,3.825
+India,H2 central production,solar,electrolysis,2100,non-energy,1.518559083
+India,H2 central production,wind,electrolysis,2100,non-energy,2.511113093
+India,H2 distribution,H2 distribution,H2 distribution,2100,non-energy,1.337656667
+India,H2 forecourt production,electricity,electrolysis,2100,non-energy,6.369
+India,H2 forecourt production,gas,natural gas steam reforming,2100,non-energy,3.818

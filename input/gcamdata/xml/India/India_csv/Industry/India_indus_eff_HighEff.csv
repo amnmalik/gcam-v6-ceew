@@ -1,0 +1,113 @@
+INPUT_TABLE,,,,,,,
+Variable ID,,,,,,,
+TechEff,,,,,,,
+,,,,,,,
+region,supplysector,subsector,technology,year,minicam-energy-input,efficiency,market-name
+India,industrial energy use,biomass,biomass,2015,delivered biomass,0.798,India
+India,industrial energy use,biomass,biomass,2020,delivered biomass,0.8778,India
+India,industrial energy use,biomass,biomass,2025,delivered biomass,0.922576622,India
+India,industrial energy use,biomass,biomass,2030,delivered biomass,0.969637302,India
+India,industrial energy use,biomass,biomass,2035,delivered biomass,1.019098549,India
+India,industrial energy use,biomass,biomass,2040,delivered biomass,1.071082817,India
+India,industrial energy use,biomass,biomass,2045,delivered biomass,1.125718805,India
+India,industrial energy use,biomass,biomass,2050,delivered biomass,1.183141778,India
+India,industrial energy use,biomass,biomass,2055,delivered biomass,1.21301759,India
+India,industrial energy use,biomass,biomass,2060,delivered biomass,1.243647805,India
+India,industrial energy use,biomass,biomass,2065,delivered biomass,1.27505147,India
+India,industrial energy use,biomass,biomass,2070,delivered biomass,1.307248118,India
+India,industrial energy use,biomass,biomass,2075,delivered biomass,1.340257771,India
+India,industrial energy use,biomass,biomass,2080,delivered biomass,1.374100959,India
+India,industrial energy use,biomass,biomass,2085,delivered biomass,1.40879873,India
+India,industrial energy use,biomass,biomass,2090,delivered biomass,1.444372663,India
+India,industrial energy use,biomass,biomass,2095,delivered biomass,1.480844883,India
+India,industrial energy use,biomass,biomass,2100,delivered biomass,1.518238072,India
+India,industrial energy use,coal,coal,2015,delivered coal,0.882,India
+India,industrial energy use,coal,coal,2020,delivered coal,0.9702,India
+India,industrial energy use,coal,coal,2025,delivered coal,1.019689951,India
+India,industrial energy use,coal,coal,2030,delivered coal,1.071704386,India
+India,industrial energy use,coal,coal,2035,delivered coal,1.12637208,India
+India,industrial energy use,coal,coal,2040,delivered coal,1.183828377,India
+India,industrial energy use,coal,coal,2045,delivered coal,1.244215522,India
+India,industrial energy use,coal,coal,2050,delivered coal,1.307683018,India
+India,industrial energy use,coal,coal,2055,delivered coal,1.340703653,India
+India,industrial energy use,coal,coal,2060,delivered coal,1.3745581,India
+India,industrial energy use,coal,coal,2065,delivered coal,1.409267414,India
+India,industrial energy use,coal,coal,2070,delivered coal,1.444853183,India
+India,industrial energy use,coal,coal,2075,delivered coal,1.481337536,India
+India,industrial energy use,coal,coal,2080,delivered coal,1.518743165,India
+India,industrial energy use,coal,coal,2085,delivered coal,1.557093333,India
+India,industrial energy use,coal,coal,2090,delivered coal,1.596411891,India
+India,industrial energy use,coal,coal,2095,delivered coal,1.636723292,India
+India,industrial energy use,coal,coal,2100,delivered coal,1.678052606,India
+India,industrial energy use,electricity,electricity,2015,elect_td_ind,1.01,India
+India,industrial energy use,electricity,electricity,2020,elect_td_ind,1.111,India
+India,industrial energy use,electricity,electricity,2025,elect_td_ind,1.167672166,India
+India,industrial energy use,electricity,electricity,2030,elect_td_ind,1.227235181,India
+India,industrial energy use,electricity,electricity,2035,elect_td_ind,1.289836509,India
+India,industrial energy use,electricity,electricity,2040,elect_td_ind,1.355631134,India
+India,industrial energy use,electricity,electricity,2045,elect_td_ind,1.424781946,India
+India,industrial energy use,electricity,electricity,2050,elect_td_ind,1.497460145,India
+India,industrial energy use,electricity,electricity,2055,elect_td_ind,1.53527289,India
+India,industrial energy use,electricity,electricity,2060,elect_td_ind,1.574040454,India
+India,industrial energy use,electricity,electricity,2065,elect_td_ind,1.613786948,India
+India,industrial energy use,electricity,electricity,2070,elect_td_ind,1.654537091,India
+India,industrial energy use,electricity,electricity,2075,elect_td_ind,1.696316226,India
+India,industrial energy use,electricity,electricity,2080,elect_td_ind,1.739150336,India
+India,industrial energy use,electricity,electricity,2085,elect_td_ind,1.783066062,India
+India,industrial energy use,electricity,electricity,2090,elect_td_ind,1.828090714,India
+India,industrial energy use,electricity,electricity,2095,elect_td_ind,1.874252296,India
+India,industrial energy use,electricity,electricity,2100,elect_td_ind,1.921579515,India
+India,industrial energy use,gas,gas,2015,wholesale gas,0.893,India
+India,industrial energy use,gas,gas,2020,wholesale gas,0.9823,India
+India,industrial energy use,gas,gas,2025,wholesale gas,1.032407172,India
+India,industrial energy use,gas,gas,2030,wholesale gas,1.085070314,India
+India,industrial energy use,gas,gas,2035,wholesale gas,1.140419805,India
+India,industrial energy use,gas,gas,2040,wholesale gas,1.198592676,India
+India,industrial energy use,gas,gas,2045,wholesale gas,1.259732949,India
+India,industrial energy use,gas,gas,2050,wholesale gas,1.32399199,India
+India,industrial energy use,gas,gas,2055,wholesale gas,1.357424446,India
+India,industrial energy use,gas,gas,2060,wholesale gas,1.391701115,India
+India,industrial energy use,gas,gas,2065,wholesale gas,1.426843312,India
+India,industrial energy use,gas,gas,2070,wholesale gas,1.462872893,India
+India,industrial energy use,gas,gas,2075,wholesale gas,1.499812267,India
+India,industrial energy use,gas,gas,2080,wholesale gas,1.537684406,India
+India,industrial energy use,gas,gas,2085,wholesale gas,1.576512865,India
+India,industrial energy use,gas,gas,2090,wholesale gas,1.61632179,India
+India,industrial energy use,gas,gas,2095,wholesale gas,1.657135941,India
+India,industrial energy use,gas,gas,2100,wholesale gas,1.6989807,India
+India,industrial energy use,hydrogen,hydrogen,2015,H2 enduse,1,India
+India,industrial energy use,hydrogen,hydrogen,2020,H2 enduse,1.1,India
+India,industrial energy use,hydrogen,hydrogen,2025,H2 enduse,1.156111055,India
+India,industrial energy use,hydrogen,hydrogen,2030,H2 enduse,1.215084338,India
+India,industrial energy use,hydrogen,hydrogen,2035,H2 enduse,1.277065851,India
+India,industrial energy use,hydrogen,hydrogen,2040,H2 enduse,1.342209044,India
+India,industrial energy use,hydrogen,hydrogen,2045,H2 enduse,1.410675195,India
+India,industrial energy use,hydrogen,hydrogen,2050,H2 enduse,1.482633807,India
+India,industrial energy use,hydrogen,hydrogen,2055,H2 enduse,1.520072168,India
+India,industrial energy use,hydrogen,hydrogen,2060,H2 enduse,1.558455896,India
+India,industrial energy use,hydrogen,hydrogen,2065,H2 enduse,1.59780886,India
+India,industrial energy use,hydrogen,hydrogen,2070,H2 enduse,1.638155536,India
+India,industrial energy use,hydrogen,hydrogen,2075,H2 enduse,1.679521016,India
+India,industrial energy use,hydrogen,hydrogen,2080,H2 enduse,1.721931026,India
+India,industrial energy use,hydrogen,hydrogen,2085,H2 enduse,1.765411942,India
+India,industrial energy use,hydrogen,hydrogen,2090,H2 enduse,1.809990806,India
+India,industrial energy use,hydrogen,hydrogen,2095,H2 enduse,1.855695342,India
+India,industrial energy use,hydrogen,hydrogen,2100,H2 enduse,1.902553975,India
+India,industrial energy use,refined liquids,refined liquids,2015,refined liquids industrial,0.995,India
+India,industrial energy use,refined liquids,refined liquids,2020,refined liquids industrial,1.0945,India
+India,industrial energy use,refined liquids,refined liquids,2025,refined liquids industrial,1.1503305,India
+India,industrial energy use,refined liquids,refined liquids,2030,refined liquids industrial,1.209008916,India
+India,industrial energy use,refined liquids,refined liquids,2035,refined liquids industrial,1.270680522,India
+India,industrial energy use,refined liquids,refined liquids,2040,refined liquids industrial,1.335497999,India
+India,industrial energy use,refined liquids,refined liquids,2045,refined liquids industrial,1.403621819,India
+India,industrial energy use,refined liquids,refined liquids,2050,refined liquids industrial,1.475220638,India
+India,industrial energy use,refined liquids,refined liquids,2055,refined liquids industrial,1.512471808,India
+India,industrial energy use,refined liquids,refined liquids,2060,refined liquids industrial,1.550663616,India
+India,industrial energy use,refined liquids,refined liquids,2065,refined liquids industrial,1.589819816,India
+India,industrial energy use,refined liquids,refined liquids,2070,refined liquids industrial,1.629964758,India
+India,industrial energy use,refined liquids,refined liquids,2075,refined liquids industrial,1.671123411,India
+India,industrial energy use,refined liquids,refined liquids,2080,refined liquids industrial,1.713321371,India
+India,industrial energy use,refined liquids,refined liquids,2085,refined liquids industrial,1.756584883,India
+India,industrial energy use,refined liquids,refined liquids,2090,refined liquids industrial,1.800940852,India
+India,industrial energy use,refined liquids,refined liquids,2095,refined liquids industrial,1.846416866,India
+India,industrial energy use,refined liquids,refined liquids,2100,refined liquids industrial,1.893041205,India

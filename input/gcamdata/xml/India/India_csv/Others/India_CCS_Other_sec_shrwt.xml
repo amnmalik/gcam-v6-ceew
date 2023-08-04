@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="refining">
+                <subsector name="biomass liquids">
+                    <technology name="FT biofuels CCS level 1">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="FT biofuels CCS level 2">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="cellulosic ethanol CCS level 1">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="cellulosic ethanol CCS level 2">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal to liquids">
+                    <technology name="coal to liquids CCS level 1">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="coal to liquids CCS level 2">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="H2 central production">
+                <subsector name="biomass">
+                    <technology name="biomass to H2 CCS">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal chemical CCS">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="natural gas steam reforming CCS">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="electricity">
+                <subsector name="biomass">
+                    <technology name="biomass (IGCC CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="biomass (conv CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="coal">
+                    <technology name="coal (IGCC CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                    <technology name="coal (conv pul CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="gas">
+                    <technology name="gas (CC CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+                <subsector name="refined liquids">
+                    <technology name="refined liquids (CC CCS)">
+                        <interpolation-rule apply-to="share-weight"
+                            from-year="2010" to-year="2100">
+                            <from-value>0</from-value>
+                            <to-value>0</to-value>
+                            <interpolation-function name="fixed"/>
+                        </interpolation-rule>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

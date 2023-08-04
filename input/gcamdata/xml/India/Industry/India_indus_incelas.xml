@@ -115,6 +115,25 @@
                 <income-elasticity year="2095">0.523950708</income-elasticity>
                 <income-elasticity year="2100">0.511268101</income-elasticity>
             </energy-final-demand>
+			<energy-final-demand name="agricultural energy use">
+			    <income-elasticity year="2020">0.30645306</income-elasticity>
+                <income-elasticity year="2025">0.305609559</income-elasticity>
+                <income-elasticity year="2030">0.243480359</income-elasticity>
+                <income-elasticity year="2035">0.181773742</income-elasticity>
+                <income-elasticity year="2040">0.150688351</income-elasticity>
+                <income-elasticity year="2045">0.11984327</income-elasticity>
+                <income-elasticity year="2050">0.089286909</income-elasticity>
+                <income-elasticity year="2055">0.073848547</income-elasticity>
+                <income-elasticity year="2060">0.058578222</income-elasticity>
+                <income-elasticity year="2065">0.043511903</income-elasticity>
+                <income-elasticity year="2070">0.035638491</income-elasticity>
+                <income-elasticity year="2075">0.02784545</income-elasticity>
+                <income-elasticity year="2080">0.020218129</income-elasticity>
+                <income-elasticity year="2085">0.016620387</income-elasticity>
+                <income-elasticity year="2090">0.013109402</income-elasticity>
+                <income-elasticity year="2095">0.009707041</income-elasticity>
+                <income-elasticity year="2100">0.009420027</income-elasticity>
+            </energy-final-demand>
 			
 			
         </region>

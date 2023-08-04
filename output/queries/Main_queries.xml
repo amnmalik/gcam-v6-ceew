@@ -1642,6 +1642,42 @@ local:generate-sector-input-coefs(remove($outputNameQueue, 1), $currTree, $coefs
                         </level>
                     </labelRewriteList>
                 </supplyDemandQuery>
+                <supplyDemandQuery title="elec gen by gen tech">
+                    <axis1 name="technology">technology</axis1>
+                    <axis2 name="Year">physical-output[@vintage]</axis2>
+                    <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' (:collapse:) and
+               (@name='electricity' or @name='elect_td_bld' or @name='industrial energy use')]/
+               *[@type='subsector' (:collapse:)]/*[@type='technology' and not (@name='electricity' or @name='elect_td_bld')]/
+               *[@type='output' (:collapse:) and (@name='electricity' or @name='elect_td_bld')]/
+               physical-output/node()</xPath>
+                    <comments/>
+                    <labelRewriteList append-values="false">
+                        <level name="technology">
+                            <rewrite from="gas (CC)" to="gas"/>
+                            <rewrite from="gas (CC CCS)" to="gas CCS"/>
+                            <rewrite from="coal (IGCC CCS)" to="coal CCS"/>
+                            <rewrite from="biomass (conv)" to="biomass"/>
+                            <rewrite from="Gen_II_LWR" to="nuclear"/>
+                            <rewrite from="rooftop_pv" to="solar"/>
+                            <rewrite from="wind_offshore" to="wind"/>
+                            <rewrite from="PV" to="solar"/>
+                            <rewrite from="biomass (conv CCS)" to="biomass CCS"/>
+                            <rewrite from="coal (IGCC)" to="coal"/>
+                            <rewrite from="coal (conv pul)" to="coal"/>
+                            <rewrite from="gas (steam/CT)" to="gas"/>
+                            <rewrite from="wind_storage" to="wind"/>
+                            <rewrite from="CSP_storage" to="solar"/>
+                            <rewrite from="PV_storage" to="solar"/>
+                            <rewrite from="biomass (IGCC)" to="biomass"/>
+                            <rewrite from="Gen_III" to="nuclear"/>
+                            <rewrite from="coal (conv pul CCS)" to="coal CCS"/>
+                            <rewrite from="refined liquids (CC)" to="refined liquids"/>
+                            <rewrite from="biomass (IGCC CCS)" to="biomass CCS"/>
+                            <rewrite from="refined liquids (CC CCS)" to="refined liquids"/>
+                            <rewrite from="refined liquids (steam/CT)" to="refined liquids"/>
+                        </level>
+                    </labelRewriteList>
+                </supplyDemandQuery>
             </queryGroup>
             <queryGroup name="refining">
                 <supplyDemandQuery title="refined liquids production by region">
@@ -2491,12 +2527,6 @@ element input {
                     </supplyDemandQuery>
                 </queryGroup>
                 <queryGroup name="cement">
-                    <supplyDemandQuery title="cement production by region">
-                        <axis1 name="sector">sector</axis1>
-                        <axis2 name="Year">physical-output[@vintage]</axis2>
-                        <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (@name='cement')]//*[@type='output' (:collapse:)]/physical-output/node()</xPath>
-                        <comments/>
-                    </supplyDemandQuery>
                     <supplyDemandQuery title="cement production by tech (conv and ccs)">
                         <axis1 name="sector">sector</axis1>
                         <axis2 name="Year">physical-output[@vintage]</axis2>
@@ -2529,6 +2559,12 @@ element input {
                         <axis1 name="sector">sector</axis1>
                         <axis2 name="Year">cost</axis2>
                         <xPath buildList="true" dataName="cost" group="false" sumAll="false">*[@type='sector' and (@name='cement')]/cost/text()</xPath>
+                        <comments/>
+                    </supplyDemandQuery>
+                    <supplyDemandQuery title="cement production by region">
+                        <axis1 name="sector">sector</axis1>
+                        <axis2 name="Year">physical-output[@vintage]</axis2>
+                        <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (@name='cement')]//*[@type='output' (:collapse:)]/physical-output/node()</xPath>
                         <comments/>
                     </supplyDemandQuery>
                 </queryGroup>
@@ -2598,6 +2634,14 @@ element input {
                         <axis1 name="sector">sector</axis1>
                         <axis2 name="Year">cost</axis2>
                         <xPath buildList="true" dataName="cost" group="false" sumAll="false">*[@type='sector' and (@name='iron and steel')]/cost/text()</xPath>
+                        <comments/>
+                    </supplyDemandQuery>
+                    <supplyDemandQuery title="iron and steel production by region">
+                        <axis1 name="sector">sector</axis1>
+                        <axis2 name="Year">physical-output[@vintage]</axis2>
+                        <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (@name='iron and steel')]/
+				   *[@type='subsector' and not(@name='Imports')]//
+				   *[@type='output' (:collapse:)]/physical-output/node()</xPath>
                         <comments/>
                     </supplyDemandQuery>
                 </queryGroup>
@@ -4078,7 +4122,7 @@ element input {
             <emissionsQueryBuilder title="CO2 emissions by region">
                 <axis1 name="region">region</axis1>
                 <axis2 name="Year">emissions</axis2>
-                <xPath buildList="true" dataName="emissions" group="false" sumAll="false">*[@type = 'sector' (:collapse:) or @type = 'resource' (:collapse:)](: / *[@type = 'subresource' (: collapse :)] :)//*[((@name='CO2'))]/emissions/node()</xPath>
+                <xPath buildList="true" dataName="emissions" group="false" sumAll="true">*[@type = 'sector' (:collapse:) or @type = 'resource' (:collapse:)](: / *[@type = 'subresource' (: collapse :)] :)//*[((@name='CO2'))]/emissions/node()</xPath>
                 <comments/>
             </emissionsQueryBuilder>
             <emissionsQueryBuilder title="CO2 emissions by sector">

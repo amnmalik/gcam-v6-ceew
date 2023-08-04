@@ -1,0 +1,24 @@
+INPUT_TABLE,,,,,,
+Variable ID,,,,,,
+RegionFuelAdder,,,,,,
+,,,,,,
+region,supplysector,subsector,technology,year,minicam-non-energy-input,input-cost
+India,wholesale gas,wholesale gas,wholesale gas,2010,tax,0
+India,wholesale gas,wholesale gas,wholesale gas,2015,tax,0
+India,wholesale gas,wholesale gas,wholesale gas,2020,tax,0
+India,wholesale gas,wholesale gas,wholesale gas,2025,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2030,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2035,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2040,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2045,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2050,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2055,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2060,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2065,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2070,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2075,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2080,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2085,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2090,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2095,tax,3
+India,wholesale gas,wholesale gas,wholesale gas,2100,tax,3

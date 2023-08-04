@@ -1,0 +1,71 @@
+INPUT_TABLE,,,,,
+Variable ID,,,,,
+SubregionalShares,,,,,
+,,,,,
+region,gcam.consumer,pop.year.fillout,inc.year.fillout,subregional.population.share,subregional.income.share
+India,comm,1975,1975,1,1
+India,comm,1990,1990,1,1
+India,comm,2005,2005,1,1
+India,comm,2010,2010,1,1
+India,comm,2015,2015,1,1
+India,comm,2020,2020,1,1
+India,comm,2025,2025,1,1
+India,comm,2030,2030,1,1
+India,comm,2035,2035,1,1
+India,comm,2040,2040,1,1
+India,comm,2045,2045,1,1
+India,comm,2050,2050,1,1
+India,comm,2055,2055,1,1
+India,comm,2060,2060,1,1
+India,comm,2065,2065,1,1
+India,comm,2070,2070,1,1
+India,comm,2075,2075,1,1
+India,comm,2080,2080,1,1
+India,comm,2085,2085,1,1
+India,comm,2090,2090,1,1
+India,comm,2095,2095,1,1
+India,comm,2100,2100,1,1
+India,resid rural,1975,1975,0.744600,0.485922164
+India,resid rural,1990,1990,0.744600,0.485922164
+India,resid rural,2005,2005,0.707700,0.448193758
+India,resid rural,2010,2010,0.690700,0.437090538
+India,resid rural,2015,2015,0.673000,0.426125649
+India,resid rural,2020,2020,0.655300,0.416121184
+India,resid rural,2025,2025,0.628200,0.397304687
+India,resid rural,2030,2030,0.601100,0.379991392
+India,resid rural,2035,2035,0.574100,0.363993182
+India,resid rural,2040,2040,0.547000,0.349149388
+India,resid rural,2045,2045,0.519900,0.335321368
+India,resid rural,2050,2050,0.492800,0.322388149
+India,resid rural,2055,2055,0.469200,0.313210465
+India,resid rural,2060,2060,0.445500,0.304672086
+India,resid rural,2065,2065,0.421900,0.296732276
+India,resid rural,2070,2070,0.398200,0.289358653
+India,resid rural,2075,2075,0.374600,0.282527255
+India,resid rural,2080,2080,0.351000,0.276223124
+India,resid rural,2085,2085,0.327300,0.270441566
+India,resid rural,2090,2090,0.303700,0.265190435
+India,resid rural,2095,2095,0.280000,0.260494001
+India,resid rural,2100,2100,0.256400,0.2563995
+India,resid urban,1975,1975,0.255400,0.514077836
+India,resid urban,1990,1990,0.255400,0.514077836
+India,resid urban,2005,2005,0.292400,0.551806242
+India,resid urban,2010,2010,0.309300,0.562909462
+India,resid urban,2015,2015,0.327000,0.573874351
+India,resid urban,2020,2020,0.344700,0.583878816
+India,resid urban,2025,2025,0.371800,0.602695313
+India,resid urban,2030,2030,0.398900,0.620008608
+India,resid urban,2035,2035,0.425900,0.636006818
+India,resid urban,2040,2040,0.453000,0.650850612
+India,resid urban,2045,2045,0.480100,0.664678632
+India,resid urban,2050,2050,0.507200,0.677611851
+India,resid urban,2055,2055,0.530800,0.686789535
+India,resid urban,2060,2060,0.554500,0.695327914
+India,resid urban,2065,2065,0.578100,0.703267724
+India,resid urban,2070,2070,0.601800,0.710641347
+India,resid urban,2075,2075,0.625400,0.717472745
+India,resid urban,2080,2080,0.649000,0.723776876
+India,resid urban,2085,2085,0.672700,0.729558434
+India,resid urban,2090,2090,0.696300,0.734809565
+India,resid urban,2095,2095,0.720000,0.739505999
+India,resid urban,2100,2100,0.743600,0.7436005
