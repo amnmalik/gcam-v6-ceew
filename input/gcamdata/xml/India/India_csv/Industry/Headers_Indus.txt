@@ -639,8 +639,6 @@ GlobalTranTechSCurve, global-technology-database/+{sector-name}location-info, gl
 
 
 
-IncomeElasticity, world/+{name}region, region/+{name}energy-final-demand, energy-final-demand/+{year}income-elasticity, energy-final-demand/+income-elasticity, scenario, scenario/world
-
 
 
 
