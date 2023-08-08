@@ -20,11 +20,9 @@
                         <base-building-size year="2085">9.20687</base-building-size>
                         <base-building-size year="2090">9.20687</base-building-size>
                         <base-building-size year="2095">9.20687</base-building-size>
+						<base-building-size year="2100">9.20687</base-building-size>
                     </building-node-input>
-                    <building-node-input name="resid_building">
-                        <base-building-size year="2100">9.20687</base-building-size>
-                    </building-node-input>
-                </nodeInput>
+					</nodeInput>
             </gcam-consumer>
             <gcam-consumer name="resid">
                 <nodeInput name="resid">
