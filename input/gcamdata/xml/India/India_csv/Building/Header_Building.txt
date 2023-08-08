@@ -77,6 +77,8 @@ DemandFunction_flsp, world/+{name}region, region/+{name}gcam-consumer, gcam-cons
 DemandFunction_serv, world/+{name}region, region/+{name}gcam-consumer, gcam-consumer/+{name}nodeInput, nodeInput/+{name}building-node-input, building-node-input/+prodDmdFnType, scenario, scenario/world
 
 
+Floorspace, world/+{name}region, region/+{name}gcam-consumer, gcam-consumer/+{name}nodeInput, nodeInput/+{name}building-node-input, building-node-input/+{year}base-building-size, building-node-input/+base-building-size, scenario, scenario/world
+
 100-housingDemand,world/+{name}region,region/+{name}gcam-consumer,gcam-consumer/+{name}nodeInput,nodeInput/+{name}building-node-input,building-node-input/+{year=1975}base-building-size,building-node-input/+{year=1990}base-building-size,building-node-input/+{year=2005}base-building-size,building-node-input/+{year=2010}base-building-size,scenario/world,scenario
 Floorspace, world/+{name}region, region/+{name}gcam-consumer, gcam-consumer/+{name}nodeInput, nodeInput/+{name}building-node-input, building-node-input/+{year}base-building-size, building-node-input/+base-building-size, scenario, scenario/world
 

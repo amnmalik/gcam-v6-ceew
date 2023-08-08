@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="India">
+            <gcam-consumer name="comm">
+                <nodeInput name="comm">
+                    <building-node-input name="comm_building">
+                        <base-building-size year="2020">1.06386</base-building-size>
+                        <base-building-size year="2025">1.49123</base-building-size>
+                        <base-building-size year="2030">2.04416</base-building-size>
+                        <base-building-size year="2035">2.71314</base-building-size>
+                        <base-building-size year="2040">3.48816</base-building-size>
+                        <base-building-size year="2045">4.35592</base-building-size>
+                        <base-building-size year="2050">5.29196</base-building-size>
+                        <base-building-size year="2055">6.27628</base-building-size>
+                        <base-building-size year="2060">7.27462</base-building-size>
+                        <base-building-size year="2065">8.26163</base-building-size>
+                        <base-building-size year="2070">9.20687</base-building-size>
+                        <base-building-size year="2075">9.20687</base-building-size>
+                        <base-building-size year="2080">9.20687</base-building-size>
+                        <base-building-size year="2085">9.20687</base-building-size>
+                        <base-building-size year="2090">9.20687</base-building-size>
+                        <base-building-size year="2095">9.20687</base-building-size>
+                    </building-node-input>
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2100">9.20687</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+            <gcam-consumer name="resid">
+                <nodeInput name="resid">
+                    <building-node-input name="resid_building">
+                        <base-building-size year="2020">15.97003</base-building-size>
+                        <base-building-size year="2025">17.68272</base-building-size>
+                        <base-building-size year="2030">19.66306</base-building-size>
+                        <base-building-size year="2035">21.8247</base-building-size>
+                        <base-building-size year="2040">24.1404</base-building-size>
+                        <base-building-size year="2045">26.5893</base-building-size>
+                        <base-building-size year="2050">29.1239</base-building-size>
+                        <base-building-size year="2055">31.708</base-building-size>
+                        <base-building-size year="2060">34.265</base-building-size>
+                        <base-building-size year="2065">36.7432</base-building-size>
+                        <base-building-size year="2070">39.0775</base-building-size>
+                        <base-building-size year="2075">39.0775</base-building-size>
+                        <base-building-size year="2080">39.0775</base-building-size>
+                        <base-building-size year="2085">39.0775</base-building-size>
+                        <base-building-size year="2090">39.0775</base-building-size>
+                        <base-building-size year="2095">39.0775</base-building-size>
+                        <base-building-size year="2100">39.0775</base-building-size>
+                    </building-node-input>
+                </nodeInput>
+            </gcam-consumer>
+        </region>
+    </world>
+</scenario>
