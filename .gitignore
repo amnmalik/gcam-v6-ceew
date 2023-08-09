@@ -26,3 +26,10 @@ output/gcam_diagnostics/mappings/agg_region_mapping.csv
 LICENSE.md
 output/gcam_diagnostics/diagnostics.R
 ModelInterface
+/exe/cost_curvesIndia_NZ+CC_noNONETS.xml
+/exe/cost_curvesIndia_NZ+ETS_noNONETS.xml
+/exe/cost_curvesIndia_NZ+RPO+CC.xml
+/exe/cost_curvesIndia_NZ+RPO+ETS.xml
+/exe/cost_curvesIndia_NZ+RPO.xml
+/exe/cost_curvesIndia_NZ.xml
+/exe/cost_curvesRPSOnly_Scen2.xml
