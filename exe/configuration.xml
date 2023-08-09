@@ -29,19 +29,19 @@
 		<Value name = "energy_distribution">../input/gcamdata/xml/Other/en_distribution.xml</Value>
 		<Value name = "other_industry">../input/gcamdata/xml/Other/other_industry.xml</Value>
 		<Value name = "industry_income_elas">../input/gcamdata/xml/Other/other_industry_incelas_gssp2.xml</Value>
- 		<Value name = "iron_steel">../input/gcamdata/xml/Other/iron_steel.xml</Value>
+ 		<Value name = "iron_steel">../input/gcamdata/xml/Other/iron_steel_AM.xml</Value>
 		<Value name = "iron_steel_income_elas">../input/gcamdata/xml/Other/iron_steel_incelas_gssp2.xml</Value>   
  		<Value name = "Off_road">../input/gcamdata/xml/Other/Off_road.xml</Value>
 		<Value name = "Off_road_income_elas">../input/gcamdata/xml/Other/Off_road_incelas_gssp2.xml</Value>  
  		<Value name = "chemical">../input/gcamdata/xml/Other/chemical.xml</Value>
 		<Value name = "chemical_income_elas">../input/gcamdata/xml/Other/chemical_incelas_gssp2.xml</Value>   
- 		<Value name = "aluminum">../input/gcamdata/xml/Other/aluminum.xml</Value>
+ 		<Value name = "aluminum">../input/gcamdata/xml/Other/aluminum_AM.xml</Value>
 		<Value name = "aluminum_income_elas">../input/gcamdata/xml/Other/aluminum_incelas_gssp2.xml</Value> 
-		<Value name = "cement">../input/gcamdata/xml/Other/cement.xml</Value>
+		<Value name = "cement">../input/gcamdata/xml/Other/cement_AM.xml</Value>
 		<Value name = "cement_income_elas">../input/gcamdata/xml/Other/cement_incelas_gssp2.xml</Value>
-		<Value name = "fertilizer_energy">../input/gcamdata/xml/Other/en_Fert.xml</Value>
+		<Value name = "fertilizer_energy">../input/gcamdata/xml/Other/en_Fert_AM.xml</Value>
 		<Value name = "hddcdd">../input/gcamdata/xml/Other/HDDCDD_constdd_no_GCM.xml</Value>
-		<Value name = "building">../input/gcamdata/xml/Other/building_det.xml</Value>
+		<Value name = "building">../input/gcamdata/xml/Other/building_det_AM.xml</Value>
 		<Value name = "transportation">../input/gcamdata/xml/Other/transportation_UCD_CORE.xml</Value>
 		<Value name = "carbon_content">../input/gcamdata/xml/Other/Ccoef.xml</Value>
 		<Value name = "carbon_storage">../input/gcamdata/xml/Other/Cstorage.xml</Value>
@@ -127,13 +127,14 @@
 		<!-- To match the Final Energy Demand with GCAM 5.2 -->
 		
 		<!-- Industry -->
-		<Value name = "India industry fuel cost adder">../input/gcamdata/xml/India/Industry/IndiaIndustryFuelAdderwH2_delivery.xml</Value>
-		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt_highH2.xml</Value>
+		
+		<Value name = "Industry shrwt">../input/gcamdata/xml/India/Industry/India_indus_shrwt.xml</Value>
 		<Value name = "India industry income elasticity">../input/gcamdata/xml/India/Industry/India_indus_incelas.xml</Value>
-		<Value name = "India Industry tech efficiencies">../input/gcamdata/xml/India/Industry/India_indus_eff_BAU.xml</Value>
+		<!-- <Value name = "India Industry tech efficiencies">../input/gcamdata/xml/India/Industry/India_indus_eff.xml</Value> -->
 		
 		<!-- Others -->
-		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_cost_change_reference.xml</Value>
+		<Value name = "India fuel cost adder">../input/gcamdata/xml/India/Industry/IndiaIndustryFuelAdderwH2_delivery.xml</Value>
+		<Value name = "India low hydrogen cost">../input/gcamdata/xml/India/Others/India_hydrogen_low_cost_modifiedfromGCAM52.xml</Value>
 		<Value name = "India Ccoef">../input/gcamdata/xml/India/Others/India_CarbonCoef.xml</Value>
 		<Value name = "Global Ccoef">../input/gcamdata/xml/India/Others/Global Carbon Coeff Revised_noUnconOil.xml</Value>
 		<Value name = "Biomass constraint">../input/gcamdata/xml/India/Others/India_biomassliquids_weights_restrict.xml</Value>
@@ -144,8 +145,9 @@
 
 		<!-- Building -->
 		<Value name = "Building shrwt">../input/gcamdata/xml/India/Building/India_building_share-weights_Ref6.xml</Value>
+		<Value name = "Building exo floorspace">../input/gcamdata/xml/India/Building/Ind_floorspace.xml</Value>
 		<Value name = "Building heating cooling days">../input/gcamdata/xml/India/Building/CDD_HDD_BAU.xml</Value>
-		<Value name = "Building fuel adder">../input/gcamdata/xml/India/Building/IndiaBuildingFuelAdder.xml</Value>
+		<!-- <Value name = "Building fuel adder">../input/gcamdata/xml/India/Building/IndiaBuildingFuelAdder.xml</Value> -->
 		
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 
@@ -179,7 +181,7 @@
 		<Value name="climateOutputInterval">5</Value>
 		<Value name="parallel-grain-size">50</Value>
 		<Value name="stop-period">-1</Value>
-		<Value name="stop-year">2050</Value>
+		<Value name="stop-year">2035</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
