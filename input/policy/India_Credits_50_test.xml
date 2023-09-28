@@ -964,7 +964,7 @@
                   </period>
                    <period year="2030">
                      <minicam-energy-input name="RPSCredits">
-                        <coefficient>0.4669</coefficient>
+                        <coefficient>0.45</coefficient>
                      </minicam-energy-input>
                   </period>
                   <period year="2035">
