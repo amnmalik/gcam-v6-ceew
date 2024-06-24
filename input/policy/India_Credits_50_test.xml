@@ -4,7 +4,7 @@
       <region name="India">
          <supplysector name="electricity">
             <subsector name="wind">
-               <intermittent-technology name="wind">
+               <technology name="wind onshore">
                    <period year="2015">
                      <input-subsidy name="RPSCredits">
                      </input-subsidy>
@@ -79,7 +79,7 @@
                   </period>
                </intermittent-technology>
 
-               <technology name="wind_storage">
+            <technology name="wind_storage">
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
@@ -150,7 +150,7 @@
                   </period>
                </technology>
              
-			<technology name="wind_offshore">	
+			<technology name="wind offshore">	
                   <period year="2020">
                      <input-subsidy name="RPSCredits">
                       </input-subsidy>
